@@ -18,50 +18,50 @@
                     points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
                   </polygon>
                 </svg> <span class="sr-only">(opens new window)</span></span></a></div>
-          <div class="nav-item"><a href="guide/index.html" class="nav-link">
+          <div class="nav-item"><a href="guide/index.php" class="nav-link">
               Guide
             </a></div>
           <div class="nav-item">
             <div class="dropdown-wrapper"><button type="button" aria-label="Channels" class="dropdown-title"><span
                   class="title">Channels</span> <span class="arrow right"></span></button>
               <ul class="nav-dropdown" style="display:none;">
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#omni-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#omni-bot" class="nav-link">
                     Omnichannel
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#facebook-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#facebook-bot" class="nav-link">
                     Facebook
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#instagram-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#instagram-bot" class="nav-link">
                     Instagram
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#telegram-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#telegram-bot" class="nav-link">
                     Telegram
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#slack-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#slack-bot" class="nav-link">
                     Slack
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#wechat-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#wechat-bot" class="nav-link">
                     WeChat
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#whatsapp-360dialog-sandbox"
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#whatsapp-360dialog-sandbox"
                     class="nav-link">
                     WhatsApp Sandbox
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/whatsapp-api.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/whatsapp-api.php" class="nav-link">
                     WhatsApp
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/cloudapi.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/cloudapi.php" class="nav-link">
                     WhatsApp Cloud API
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#whatsapp-sms-voice-bot"
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#whatsapp-sms-voice-bot"
                     class="nav-link">
                     SMS
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#whatsapp-sms-voice-bot"
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#whatsapp-sms-voice-bot"
                     class="nav-link">
                     Voice
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#google-my-business" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#google-my-business" class="nav-link">
                     Google
                   </a></li>
                 <li class="dropdown-item"><!----> <a href="https://help.uchat.com.au/line-chatbot" target="_blank"
@@ -88,117 +88,117 @@
                           points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
                         </polygon>
                       </svg> <span class="sr-only">(opens new window)</span></span></a></li>
-                <li class="dropdown-item"><!----> <a href="guide/setup-create.html#vk-bot" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="guide/setup-create.php#vk-bot" class="nav-link">
                     Vk
                   </a></li>
               </ul>
             </div>
           </div>
-          <div class="nav-item"><a href="flow-builder/index.html" class="nav-link">
+          <div class="nav-item"><a href="flow-builder/index.php" class="nav-link">
               Flow Builder
             </a></div>
           <div class="nav-item">
             <div class="dropdown-wrapper"><button type="button" aria-label="Integration" class="dropdown-title"><span
                   class="title">Integration</span> <span class="arrow right"></span></button>
               <ul class="nav-dropdown" style="display:none;">
-                <li class="dropdown-item"><!----> <a href="integration/index.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/index.php" class="nav-link">
                     Overview
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/stripe.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/stripe.php" class="nav-link">
                     Stripe
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/paypal.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/paypal.php" class="nav-link">
                     PayPal
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/cloudinary.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/cloudinary.php" class="nav-link">
                     Cloudinary
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/shopify.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/shopify.php" class="nav-link">
                     Shopify
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/fb-manager.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/fb-manager.php" class="nav-link">
                     Facebook Business
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/calendly.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/calendly.php" class="nav-link">
                     Calendly
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/slack.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/slack.php" class="nav-link">
                     Slack
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/slack-agent.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/slack-agent.php" class="nav-link">
                     Slack Agent
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/dialogflow.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/dialogflow.php" class="nav-link">
                     Dialogflow
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/google-spreadsheet.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/google-spreadsheet.php" class="nav-link">
                     Google Spreadsheet
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/data-store.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/data-store.php" class="nav-link">
                     Data Store
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/twilio.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/twilio.php" class="nav-link">
                     Twilio
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/signalwire.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/signalwire.php" class="nav-link">
                     SignalWire
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/email.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/email.php" class="nav-link">
                     SMTP / Gmail / SendGrid
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mailchimp.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mailchimp.php" class="nav-link">
                     MailChimp
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/zapier.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/zapier.php" class="nav-link">
                     Zapier
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/integromat.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/integromat.php" class="nav-link">
                     Integromat
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/pabbly.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/pabbly.php" class="nav-link">
                     Pabbly
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/integrately.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/integrately.php" class="nav-link">
                     Integrately
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/mark/videosdk.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/mark/videosdk.php" class="nav-link">
                     VideoSdk
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/intercom.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/intercom.php" class="nav-link">
                     Intercom
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="integration/freshchat.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="integration/freshchat.php" class="nav-link">
                     Freshchat
                   </a></li>
               </ul>
             </div>
           </div>
-          <div class="nav-item"><a href="ecommerce/index.html" class="nav-link">
+          <div class="nav-item"><a href="ecommerce/index.php" class="nav-link">
               Ecommerce
             </a></div>
-          <div class="nav-item"><a href="mobile/mobile.html" class="nav-link">
+          <div class="nav-item"><a href="mobile/mobile.php" class="nav-link">
               Mobile App
             </a></div>
           <div class="nav-item">
             <div class="dropdown-wrapper"><button type="button" aria-label="For Developers" class="dropdown-title"><span
                   class="title">For Developers</span> <span class="arrow right"></span></button>
               <ul class="nav-dropdown" style="display:none;">
-                <li class="dropdown-item"><!----> <a href="for-developers/index.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="for-developers/index.php" class="nav-link">
                     Dynamic Content
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="for-developers/API/index.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="for-developers/API/index.php" class="nav-link">
                     API
                   </a></li>
-                <li class="dropdown-item"><!----> <a href="for-developers/my-apps/index.html" class="nav-link">
+                <li class="dropdown-item"><!----> <a href="for-developers/my-apps/index.php" class="nav-link">
                     Mini-App
                   </a></li>
               </ul>
             </div>
           </div>
-          <div class="nav-item"><a href="partner/about.html" class="nav-link">
+          <div class="nav-item"><a href="partner/about.php" class="nav-link">
               Partner
             </a></div>
-          <div class="nav-item"><a href="faq/index.html" class="nav-link">
+          <div class="nav-item"><a href="faq/index.php" class="nav-link">
               FAQ
             </a></div>
           <div class="nav-item"><a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer"
@@ -223,25 +223,25 @@
           <p class="description">
             Explore the articles below or use the search bar
           </p>
-          <p class="action"><a href="guide/index.html" class="nav-link action-button">
+          <p class="action"><a href="guide/index.php" class="nav-link action-button">
               Get Started →
             </a></p>
         </header> <!---->
         <div class="theme-default-content custom content__default">
           <div class="features">
             <div class="feature">
-              <h2><a href="guide/index.html">Getting Started</a></h2>
+              <h2><a href="guide/index.php">Getting Started</a></h2>
               <p>Explore the articles about Account, User, Billing. Design and build a chatbot to automate tasks and
                 turn conversion. Build stronger relationships with customers by delivering targeted content and
                 anticipating their reactions.</p>
             </div>
             <div class="feature">
-              <h2><a href="flow-builder/index.html">Flow Builder</a></h2>
+              <h2><a href="flow-builder/index.php">Flow Builder</a></h2>
               <p>The power, flexibility and ease of use of the visual flow builder enables rapid intelligent chatbot
                 development for everyone. No coding or technical skills required.</p>
             </div>
             <div class="feature">
-              <h2><a href="integration/index.html">Integration</a></h2>
+              <h2><a href="integration/index.php">Integration</a></h2>
               <p>Extend your chatbot functionality to create a truly personalized experience, Smart ChatBot provides a rich set
                 of actions that easily integrates with external services such as Slack, Google Spreadsheet, SendGrid,
                 Zapier, and countless others.</p>
