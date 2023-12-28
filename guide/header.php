@@ -196,40 +196,40 @@
                             </button>
                             <ul class="nav-dropdown" style="display:none;">
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
+                                    <a href="setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#facebook-bot" class="nav-link">Facebook</a>
+                                    <a href="setup-create.php#facebook-bot" class="nav-link">Facebook</a>
                                 </li>
                                 <li class="dropdown-item"><!----> 
-                                    <a href="guide/setup-create.php#instagram-bot" class="nav-link">Instagram</a>
+                                    <a href="setup-create.php#instagram-bot" class="nav-link">Instagram</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#telegram-bot" class="nav-link">Telegram</a>
+                                    <a href="setup-create.php#telegram-bot" class="nav-link">Telegram</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#slack-bot" class="nav-link">Slack</a>
+                                    <a href="setup-create.php#slack-bot" class="nav-link">Slack</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#wechat-bot" class="nav-link">WeChat</a>
+                                    <a href="setup-create.php#wechat-bot" class="nav-link">WeChat</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
+                                    <a href="setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/whatsapp-api.php" class="nav-link">WhatsApp</a>
+                                    <a href="whatsapp-api.php" class="nav-link">WhatsApp</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
+                                    <a href="cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                <a href="guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
+                                <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
+                                    <a href="setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#google-my-business" class="nav-link">Google</a>
+                                    <a href="setup-create.php#google-my-business" class="nav-link">Google</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
                                     <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
@@ -256,7 +256,7 @@
                                     </a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="guide/setup-create.php#vk-bot" class="nav-link">Vk</a>
+                                    <a href="setup-create.php#vk-bot" class="nav-link">Vk</a>
                                 </li>
                             </ul>
                         </div>
