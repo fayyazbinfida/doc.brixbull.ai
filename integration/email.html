@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from docs.uchat.com.au/integration/email.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Dec 2023 09:43:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Email (SMTP / Gmail / Sendgrid) | Help Center</title>
+    <meta name="generator" content="VuePress 1.8.0">
+    <link rel="icon" href="../logo.png">
+    <link rel="manifest" href="../manifest.json">
+    <link rel="apple-touch-icon" href="../icons/apple-touch-icon-152x152.png">
+    <link rel="mask-icon" href="../icons/safari-pinned-tab.svg" color="#3eaf7c">
+    <meta name="description" content="Explore the articles below or use the search bar">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="msapplication-TileImage" content="../icons/msapplication-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#000000">
+    
+    <link rel="preload" href="../assets/css/0.styles.3746a457.css" as="style"><link rel="preload" href="../assets/js/app.c0e6e995.js" as="script"><link rel="preload" href="../assets/js/7.c4a9717a.js" as="script"><link rel="preload" href="../assets/js/14.92187cc8.js" as="script"><link rel="preload" href="../assets/js/92.7e42704c.js" as="script"><link rel="prefetch" href="../assets/js/1.76ebfd21.js"><link rel="prefetch" href="../assets/js/10.bcd2f4cb.js"><link rel="prefetch" href="../assets/js/100.c0a259df.js"><link rel="prefetch" href="../assets/js/101.fdbdf32e.js"><link rel="prefetch" href="../assets/js/102.de00e4b8.js"><link rel="prefetch" href="../assets/js/103.9b4fb211.js"><link rel="prefetch" href="../assets/js/104.6c1bf0e3.js"><link rel="prefetch" href="../assets/js/105.80e317c6.js"><link rel="prefetch" href="../assets/js/106.5c7026d5.js"><link rel="prefetch" href="../assets/js/107.f4130c8e.js"><link rel="prefetch" href="../assets/js/108.76865dfa.js"><link rel="prefetch" href="../assets/js/109.bb3976b7.js"><link rel="prefetch" href="../assets/js/11.6f5fb873.js"><link rel="prefetch" href="../assets/js/110.e69272ba.js"><link rel="prefetch" href="../assets/js/111.a7af8cc7.js"><link rel="prefetch" href="../assets/js/112.dd0f6715.js"><link rel="prefetch" href="../assets/js/113.83f4e476.js"><link rel="prefetch" href="../assets/js/114.c296506b.js"><link rel="prefetch" href="../assets/js/115.380395db.js"><link rel="prefetch" href="../assets/js/116.ce024727.js"><link rel="prefetch" href="../assets/js/117.22729688.js"><link rel="prefetch" href="../assets/js/118.182e4a11.js"><link rel="prefetch" href="../assets/js/119.fa4b866a.js"><link rel="prefetch" href="../assets/js/12.1b1240cc.js"><link rel="prefetch" href="../assets/js/120.b6cccee4.js"><link rel="prefetch" href="../assets/js/121.d11d34d8.js"><link rel="prefetch" href="../assets/js/122.f5567c4a.js"><link rel="prefetch" href="../assets/js/123.7c3f365c.js"><link rel="prefetch" href="../assets/js/124.5c74a831.js"><link rel="prefetch" href="../assets/js/125.b6221533.js"><link rel="prefetch" href="../assets/js/126.9f616a8f.js"><link rel="prefetch" href="../assets/js/127.a629f20f.js"><link rel="prefetch" href="../assets/js/128.4eb1eb0f.js"><link rel="prefetch" href="../assets/js/129.646951b7.js"><link rel="prefetch" href="../assets/js/13.ddc0398a.js"><link rel="prefetch" href="../assets/js/130.5f7e1260.js"><link rel="prefetch" href="../assets/js/131.6fe1ef2e.js"><link rel="prefetch" href="../assets/js/132.3b1eb22f.js"><link rel="prefetch" href="../assets/js/133.acdcbaaa.js"><link rel="prefetch" href="../assets/js/134.36657edb.js"><link rel="prefetch" href="../assets/js/135.cc0536fa.js"><link rel="prefetch" href="../assets/js/136.d705b759.js"><link rel="prefetch" href="../assets/js/137.3d44d3a4.js"><link rel="prefetch" href="../assets/js/138.1a4cc31a.js"><link rel="prefetch" href="../assets/js/139.a4b8bb27.js"><link rel="prefetch" href="../assets/js/140.83e8bb46.js"><link rel="prefetch" href="../assets/js/141.c659a26c.js"><link rel="prefetch" href="../assets/js/142.19c736d1.js"><link rel="prefetch" href="../assets/js/143.dec49bcf.js"><link rel="prefetch" href="../assets/js/144.05f5fbbd.js"><link rel="prefetch" href="../assets/js/15.6018dcf7.js"><link rel="prefetch" href="../assets/js/16.706c2555.js"><link rel="prefetch" href="../assets/js/17.90f710b1.js"><link rel="prefetch" href="../assets/js/18.b996a80e.js"><link rel="prefetch" href="../assets/js/19.00d0fccb.js"><link rel="prefetch" href="../assets/js/20.ea226a9a.js"><link rel="prefetch" href="../assets/js/21.14f5c1a8.js"><link rel="prefetch" href="../assets/js/22.be482e47.js"><link rel="prefetch" href="../assets/js/23.b45901aa.js"><link rel="prefetch" href="../assets/js/24.a83976ee.js"><link rel="prefetch" href="../assets/js/25.2052b8fe.js"><link rel="prefetch" href="../assets/js/26.7ab38748.js"><link rel="prefetch" href="../assets/js/27.de92c310.js"><link rel="prefetch" href="../assets/js/28.cae87d88.js"><link rel="prefetch" href="../assets/js/29.64012674.js"><link rel="prefetch" href="../assets/js/30.3a83d0ff.js"><link rel="prefetch" href="../assets/js/31.cb2d18b0.js"><link rel="prefetch" href="../assets/js/32.b7461e6b.js"><link rel="prefetch" href="../assets/js/33.1ef1fb96.js"><link rel="prefetch" href="../assets/js/34.684ef4a7.js"><link rel="prefetch" href="../assets/js/35.e9d4f6c8.js"><link rel="prefetch" href="../assets/js/36.01afb73e.js"><link rel="prefetch" href="../assets/js/37.6eeac672.js"><link rel="prefetch" href="../assets/js/38.da6adabd.js"><link rel="prefetch" href="../assets/js/39.f37e5695.js"><link rel="prefetch" href="../assets/js/4.9eb6b010.js"><link rel="prefetch" href="../assets/js/40.3b84c7b2.js"><link rel="prefetch" href="../assets/js/41.1479550e.js"><link rel="prefetch" href="../assets/js/42.6b46ad9e.js"><link rel="prefetch" href="../assets/js/43.8062d0b8.js"><link rel="prefetch" href="../assets/js/44.14101f36.js"><link rel="prefetch" href="../assets/js/45.ee37dd06.js"><link rel="prefetch" href="../assets/js/46.9d76df81.js"><link rel="prefetch" href="../assets/js/47.3c4d84de.js"><link rel="prefetch" href="../assets/js/48.0fd62953.js"><link rel="prefetch" href="../assets/js/49.39faed90.js"><link rel="prefetch" href="../assets/js/5.0f40a93c.js"><link rel="prefetch" href="../assets/js/50.ce3ec46d.js"><link rel="prefetch" href="../assets/js/51.d35ec0d7.js"><link rel="prefetch" href="../assets/js/52.e2f91bd7.js"><link rel="prefetch" href="../assets/js/53.c11109c9.js"><link rel="prefetch" href="../assets/js/54.b3c1b347.js"><link rel="prefetch" href="../assets/js/55.04d54452.js"><link rel="prefetch" href="../assets/js/56.0394b472.js"><link rel="prefetch" href="../assets/js/57.89af970b.js"><link rel="prefetch" href="../assets/js/58.ca47fbf3.js"><link rel="prefetch" href="../assets/js/59.9237d0e9.js"><link rel="prefetch" href="../assets/js/6.27cd29ce.js"><link rel="prefetch" href="../assets/js/60.514af6f2.js"><link rel="prefetch" href="../assets/js/61.4e85a4dd.js"><link rel="prefetch" href="../assets/js/62.38d953f6.js"><link rel="prefetch" href="../assets/js/63.0d4381dd.js"><link rel="prefetch" href="../assets/js/64.32e6bc92.js"><link rel="prefetch" href="../assets/js/65.64521e8d.js"><link rel="prefetch" href="../assets/js/66.0c5f399c.js"><link rel="prefetch" href="../assets/js/67.f7990a7f.js"><link rel="prefetch" href="../assets/js/68.4707a7eb.js"><link rel="prefetch" href="../assets/js/69.d165feeb.js"><link rel="prefetch" href="../assets/js/70.89436daf.js"><link rel="prefetch" href="../assets/js/71.15b8299d.js"><link rel="prefetch" href="../assets/js/72.eefc0029.js"><link rel="prefetch" href="../assets/js/73.f2de62a2.js"><link rel="prefetch" href="../assets/js/74.66b78b54.js"><link rel="prefetch" href="../assets/js/75.32c56274.js"><link rel="prefetch" href="../assets/js/76.93aa8258.js"><link rel="prefetch" href="../assets/js/77.97036e88.js"><link rel="prefetch" href="../assets/js/78.bb1a5ca5.js"><link rel="prefetch" href="../assets/js/79.962f230e.js"><link rel="prefetch" href="../assets/js/8.9c563a3e.js"><link rel="prefetch" href="../assets/js/80.af605ae2.js"><link rel="prefetch" href="../assets/js/81.ad8a2bf4.js"><link rel="prefetch" href="../assets/js/82.33b43804.js"><link rel="prefetch" href="../assets/js/83.e56e8013.js"><link rel="prefetch" href="../assets/js/84.ae37358a.js"><link rel="prefetch" href="../assets/js/85.9318557f.js"><link rel="prefetch" href="../assets/js/86.731c218c.js"><link rel="prefetch" href="../assets/js/87.39dc94b2.js"><link rel="prefetch" href="../assets/js/88.97ffd16c.js"><link rel="prefetch" href="../assets/js/89.0b6e5278.js"><link rel="prefetch" href="../assets/js/9.8c0ec7f1.js"><link rel="prefetch" href="../assets/js/90.6fde375b.js"><link rel="prefetch" href="../assets/js/91.c7e9e745.js"><link rel="prefetch" href="../assets/js/93.73c2b6ab.js"><link rel="prefetch" href="../assets/js/94.08dea4ae.js"><link rel="prefetch" href="../assets/js/95.514dcf4a.js"><link rel="prefetch" href="../assets/js/96.f49d3eee.js"><link rel="prefetch" href="../assets/js/97.42555697.js"><link rel="prefetch" href="../assets/js/98.a849455e.js"><link rel="prefetch" href="../assets/js/99.ae853982.js"><link rel="prefetch" href="../assets/js/vendors_notification.26c91851.js">
+    <link rel="stylesheet" href="../assets/css/0.styles.3746a457.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="../index.html" class="home-link router-link-active"><img src="../logo.png" alt="Help Center" class="logo"> <span class="site-name can-hide">Help Center</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="https://uchat-com-au.atlassian.net/wiki/spaces/UKB/pages/668598387/UChat+Introduction" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  New Help Center
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div><div class="nav-item"><a href="../guide/index.html" class="nav-link">
+  Guide
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Channels" class="dropdown-title"><span class="title">Channels</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#omni-bot" class="nav-link">
+  Omnichannel
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#facebook-bot" class="nav-link">
+  Facebook
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#instagram-bot" class="nav-link">
+  Instagram
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#telegram-bot" class="nav-link">
+  Telegram
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#slack-bot" class="nav-link">
+  Slack
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#wechat-bot" class="nav-link">
+  WeChat
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-360dialog-sandbox" class="nav-link">
+  WhatsApp Sandbox
+</a></li><li class="dropdown-item"><!----> <a href="../guide/whatsapp-api.html" class="nav-link">
+  WhatsApp
+</a></li><li class="dropdown-item"><!----> <a href="../guide/cloudapi.html" class="nav-link">
+  WhatsApp Cloud API
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-sms-voice-bot" class="nav-link">
+  SMS
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-sms-voice-bot" class="nav-link">
+  Voice
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#google-my-business" class="nav-link">
+  Google
+</a></li><li class="dropdown-item"><!----> <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Line
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li><li class="dropdown-item"><!----> <a href="https://help.uchat.com.au/viber-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Viber
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#vk-bot" class="nav-link">
+  Vk
+</a></li></ul></div></div><div class="nav-item"><a href="../flow-builder/index.html" class="nav-link">
+  Flow Builder
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Integration" class="dropdown-title"><span class="title">Integration</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="index.html" class="nav-link router-link-active">
+  Overview
+</a></li><li class="dropdown-item"><!----> <a href="stripe.html" class="nav-link">
+  Stripe
+</a></li><li class="dropdown-item"><!----> <a href="mark/paypal.html" class="nav-link">
+  PayPal
+</a></li><li class="dropdown-item"><!----> <a href="mark/cloudinary.html" class="nav-link">
+  Cloudinary
+</a></li><li class="dropdown-item"><!----> <a href="shopify.html" class="nav-link">
+  Shopify
+</a></li><li class="dropdown-item"><!----> <a href="fb-manager.html" class="nav-link">
+  Facebook Business
+</a></li><li class="dropdown-item"><!----> <a href="mark/calendly.html" class="nav-link">
+  Calendly
+</a></li><li class="dropdown-item"><!----> <a href="slack.html" class="nav-link">
+  Slack
+</a></li><li class="dropdown-item"><!----> <a href="slack-agent.html" class="nav-link">
+  Slack Agent
+</a></li><li class="dropdown-item"><!----> <a href="dialogflow.html" class="nav-link">
+  Dialogflow
+</a></li><li class="dropdown-item"><!----> <a href="google-spreadsheet.html" class="nav-link">
+  Google Spreadsheet
+</a></li><li class="dropdown-item"><!----> <a href="data-store.html" class="nav-link">
+  Data Store
+</a></li><li class="dropdown-item"><!----> <a href="mark/twilio.html" class="nav-link">
+  Twilio
+</a></li><li class="dropdown-item"><!----> <a href="mark/signalwire.html" class="nav-link">
+  SignalWire
+</a></li><li class="dropdown-item"><!----> <a href="email.html" aria-current="page" class="nav-link router-link-exact-active router-link-active">
+  SMTP / Gmail / SendGrid
+</a></li><li class="dropdown-item"><!----> <a href="mailchimp.html" class="nav-link">
+  MailChimp
+</a></li><li class="dropdown-item"><!----> <a href="mark/zapier.html" class="nav-link">
+  Zapier
+</a></li><li class="dropdown-item"><!----> <a href="mark/integromat.html" class="nav-link">
+  Integromat
+</a></li><li class="dropdown-item"><!----> <a href="mark/pabbly.html" class="nav-link">
+  Pabbly
+</a></li><li class="dropdown-item"><!----> <a href="mark/integrately.html" class="nav-link">
+  Integrately
+</a></li><li class="dropdown-item"><!----> <a href="mark/videosdk.html" class="nav-link">
+  VideoSdk
+</a></li><li class="dropdown-item"><!----> <a href="intercom.html" class="nav-link">
+  Intercom
+</a></li><li class="dropdown-item"><!----> <a href="freshchat.html" class="nav-link">
+  Freshchat
+</a></li></ul></div></div><div class="nav-item"><a href="../ecommerce/index.html" class="nav-link">
+  Ecommerce
+</a></div><div class="nav-item"><a href="../mobile/mobile.html" class="nav-link">
+  Mobile App
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="For Developers" class="dropdown-title"><span class="title">For Developers</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="../for-developers/index.html" class="nav-link">
+  Dynamic Content
+</a></li><li class="dropdown-item"><!----> <a href="../for-developers/API/index.html" class="nav-link">
+  API
+</a></li><li class="dropdown-item"><!----> <a href="../for-developers/my-apps/index.html" class="nav-link">
+  Mini-App
+</a></li></ul></div></div><div class="nav-item"><a href="../partner/about.html" class="nav-link">
+  Partner
+</a></div><div class="nav-item"><a href="../faq/index.html" class="nav-link">
+  FAQ
+</a></div><div class="nav-item"><a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  UChat Home
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="https://uchat-com-au.atlassian.net/wiki/spaces/UKB/pages/668598387/UChat+Introduction" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  New Help Center
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div><div class="nav-item"><a href="../guide/index.html" class="nav-link">
+  Guide
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Channels" class="dropdown-title"><span class="title">Channels</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#omni-bot" class="nav-link">
+  Omnichannel
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#facebook-bot" class="nav-link">
+  Facebook
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#instagram-bot" class="nav-link">
+  Instagram
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#telegram-bot" class="nav-link">
+  Telegram
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#slack-bot" class="nav-link">
+  Slack
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#wechat-bot" class="nav-link">
+  WeChat
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-360dialog-sandbox" class="nav-link">
+  WhatsApp Sandbox
+</a></li><li class="dropdown-item"><!----> <a href="../guide/whatsapp-api.html" class="nav-link">
+  WhatsApp
+</a></li><li class="dropdown-item"><!----> <a href="../guide/cloudapi.html" class="nav-link">
+  WhatsApp Cloud API
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-sms-voice-bot" class="nav-link">
+  SMS
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#whatsapp-sms-voice-bot" class="nav-link">
+  Voice
+</a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#google-my-business" class="nav-link">
+  Google
+</a></li><li class="dropdown-item"><!----> <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Line
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li><li class="dropdown-item"><!----> <a href="https://help.uchat.com.au/viber-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  Viber
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li><li class="dropdown-item"><!----> <a href="../guide/setup-create.html#vk-bot" class="nav-link">
+  Vk
+</a></li></ul></div></div><div class="nav-item"><a href="../flow-builder/index.html" class="nav-link">
+  Flow Builder
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="Integration" class="dropdown-title"><span class="title">Integration</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="index.html" class="nav-link router-link-active">
+  Overview
+</a></li><li class="dropdown-item"><!----> <a href="stripe.html" class="nav-link">
+  Stripe
+</a></li><li class="dropdown-item"><!----> <a href="mark/paypal.html" class="nav-link">
+  PayPal
+</a></li><li class="dropdown-item"><!----> <a href="mark/cloudinary.html" class="nav-link">
+  Cloudinary
+</a></li><li class="dropdown-item"><!----> <a href="shopify.html" class="nav-link">
+  Shopify
+</a></li><li class="dropdown-item"><!----> <a href="fb-manager.html" class="nav-link">
+  Facebook Business
+</a></li><li class="dropdown-item"><!----> <a href="mark/calendly.html" class="nav-link">
+  Calendly
+</a></li><li class="dropdown-item"><!----> <a href="slack.html" class="nav-link">
+  Slack
+</a></li><li class="dropdown-item"><!----> <a href="slack-agent.html" class="nav-link">
+  Slack Agent
+</a></li><li class="dropdown-item"><!----> <a href="dialogflow.html" class="nav-link">
+  Dialogflow
+</a></li><li class="dropdown-item"><!----> <a href="google-spreadsheet.html" class="nav-link">
+  Google Spreadsheet
+</a></li><li class="dropdown-item"><!----> <a href="data-store.html" class="nav-link">
+  Data Store
+</a></li><li class="dropdown-item"><!----> <a href="mark/twilio.html" class="nav-link">
+  Twilio
+</a></li><li class="dropdown-item"><!----> <a href="mark/signalwire.html" class="nav-link">
+  SignalWire
+</a></li><li class="dropdown-item"><!----> <a href="email.html" aria-current="page" class="nav-link router-link-exact-active router-link-active">
+  SMTP / Gmail / SendGrid
+</a></li><li class="dropdown-item"><!----> <a href="mailchimp.html" class="nav-link">
+  MailChimp
+</a></li><li class="dropdown-item"><!----> <a href="mark/zapier.html" class="nav-link">
+  Zapier
+</a></li><li class="dropdown-item"><!----> <a href="mark/integromat.html" class="nav-link">
+  Integromat
+</a></li><li class="dropdown-item"><!----> <a href="mark/pabbly.html" class="nav-link">
+  Pabbly
+</a></li><li class="dropdown-item"><!----> <a href="mark/integrately.html" class="nav-link">
+  Integrately
+</a></li><li class="dropdown-item"><!----> <a href="mark/videosdk.html" class="nav-link">
+  VideoSdk
+</a></li><li class="dropdown-item"><!----> <a href="intercom.html" class="nav-link">
+  Intercom
+</a></li><li class="dropdown-item"><!----> <a href="freshchat.html" class="nav-link">
+  Freshchat
+</a></li></ul></div></div><div class="nav-item"><a href="../ecommerce/index.html" class="nav-link">
+  Ecommerce
+</a></div><div class="nav-item"><a href="../mobile/mobile.html" class="nav-link">
+  Mobile App
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="For Developers" class="dropdown-title"><span class="title">For Developers</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="../for-developers/index.html" class="nav-link">
+  Dynamic Content
+</a></li><li class="dropdown-item"><!----> <a href="../for-developers/API/index.html" class="nav-link">
+  API
+</a></li><li class="dropdown-item"><!----> <a href="../for-developers/my-apps/index.html" class="nav-link">
+  Mini-App
+</a></li></ul></div></div><div class="nav-item"><a href="../partner/about.html" class="nav-link">
+  Partner
+</a></div><div class="nav-item"><a href="../faq/index.html" class="nav-link">
+  FAQ
+</a></div><div class="nav-item"><a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  UChat Home
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>Integration</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="index.html" aria-current="page" class="sidebar-link">Integrations</a></li><li><a href="stripe.html" class="sidebar-link">Stripe</a></li><li><a href="mark/paypal.html" class="sidebar-link">PayPal</a></li><li><a href="mark/cloudinary.html" class="sidebar-link">Cloudinary</a></li><li><a href="shopify.html" class="sidebar-link">Shopify</a></li><li><a href="fb-manager.html" class="sidebar-link">Facebook Business Management</a></li><li><a href="mark/calendly.html" class="sidebar-link">Calendly</a></li><li><a href="slack.html" class="sidebar-link">Slack</a></li><li><a href="slack-agent.html" class="sidebar-link">Slack Agent</a></li><li><a href="dialogflow.html" class="sidebar-link">Dialogflow</a></li><li><a href="google-spreadsheet.html" class="sidebar-link">Google Spreadsheet</a></li><li><a href="data-store.html" class="sidebar-link">Data Store</a></li><li><a href="mark/twilio.html" class="sidebar-link">Twilio</a></li><li><a href="mark/signalwire.html" class="sidebar-link">Signalwire</a></li><li><a href="email.html" aria-current="page" class="active sidebar-link">Email (SMTP / Gmail / Sendgrid)</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="email.html#smtp-profile-setup" class="sidebar-link">SMTP Profile Setup</a></li><li class="sidebar-sub-header"><a href="email.html#gmail-setup" class="sidebar-link">Gmail Setup</a></li><li class="sidebar-sub-header"><a href="email.html#sendgrid-setup" class="sidebar-link">SendGrid Setup</a></li><li class="sidebar-sub-header"><a href="email.html#send-email-notification" class="sidebar-link">Send Email Notification</a></li><li class="sidebar-sub-header"><a href="email.html#send-email-step" class="sidebar-link">Send Email Step</a></li></ul></li><li><a href="mailchimp.html" class="sidebar-link">MailChimp</a></li><li><a href="mark/zapier.html" class="sidebar-link">Zapier</a></li><li><a href="mark/integromat.html" class="sidebar-link">Integromat</a></li><li><a href="mark/pabbly.html" class="sidebar-link">Pabbly</a></li><li><a href="mark/integrately.html" class="sidebar-link">Integrately</a></li><li><a href="mark/videosdk.html" class="sidebar-link">VideoSdk</a></li><li><a href="intercom.html" class="sidebar-link">Intercom</a></li><li><a href="freshchat.html" class="sidebar-link">Freshchat</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="email-smtp-gmail-sendgrid"><a href="#email-smtp-gmail-sendgrid" class="header-anchor">#</a> Email (SMTP / Gmail / Sendgrid)</h1> <p><img src="../assets/img/email1.a530684f.png" alt="email"></p> <p>UChat supports 3 email integrations: SMTP Profile, Gmail and SendGrid. Follow step 1 to 3 to find them.</p> <h2 id="smtp-profile-setup"><a href="#smtp-profile-setup" class="header-anchor">#</a> SMTP Profile Setup</h2> <p>Let's take Hotmail as an example.</p> <p><img src="../assets/img/email2.29e7781a.png" alt="email"></p> <p>Fill in the fields as shown in the picture. Note that you can find your &quot;Sender name&quot; in your account detail. Once done, click &quot;Save&quot;. The sign at the upper right corner will tell you whether you succeed or not, either &quot;Failed&quot; or &quot;Verified&quot; like this:</p> <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAABACAMAAAApkbWmAAADAFBMVEX//v////3//////P/9///7///5///3///8/P///f3+//v+/Pr/+v76//z4+v/7+fv8+v3/+PX+/P////f5/P/9+v/y/////vH5/+xGSE5vbG/79v/09vr2//f/+/fy8fTl5/H//P7a6v7x7uprbXx0c3g1P2AyoFbv/P/49vzw8fn59vb9//Xy7fD//eLT0taRkJeLeGkspEPv9v/y/fD+8ObY19ybsMu/vcG3t76jl5Sjl4x5eoOAfn9YZ3w9lFEwMDvx+f/x//f3+/P99e7//uzl4uPDwsebl4uKhopbXmspl1pBo085oE05OTzo/v/98/bk4+m8xuPx/uLj6djMys+8v8vQx8fy2b2lq7WtqrClo6aBi5mAgIhNU2lkYWdqYmNVV2M7oWFFqF5EnV5fV1g4mkfl8//f9vLq6e/i/+nx5+P+8t/AytvO8Nr45Nrk2tne6NTFx8rx38arpqObmJ2snpV8dHlhZHaPg3VnZ3BAoW1Dmmt9cmVcW2E2l2AwpldYnVZbVFVQTlI0pk0yoUtfUEorp0nc8f/r/+3d3+W5weL/9t/q/tbS99Tq4dTT0M2drcHYx8C0sbrNvLi9uLes2LG8tKucnamzp6WLxKKGh41zdIOLuoJXqIGWjXp8t3RMp3JXq2ljnmRGS2E1mlpoXldUp1ZBRVArm084Pkk/NDDm7vfn//Ls6OjD0eLIytXD9dD56c7m1c7N6b/azLSQ0q3E56yTmKiVxKKk0Z+4p5h3hZRisI9yr4Bjan1WpHSCd3RktW1iq2xvZ2FSRz7j5/Xa3u/S2Oju/+bI0uHg/dr079jM0Na95NGyvM3g8Mvd18vc+sPM3MHi0cGU1b+osrySxrCiorCTn63DrqR5w6Kpn52xyptwvJl9xJGooIiFwXhNnVNGkEzU+fPO4PHk9OjN++C/8t6u3MnE7r/Dybas57SgqLG40KKs35qIupSV0IqRhYZkpXxXZXVxsWlBlkslIyfc///O//7D+PK9+uPL9OCk49im5s/G1anbSruCAAAIy0lEQVRo3u2ZB1AUVxiAd/99e7e71w/uaMediARpQoIQUAi9g0AQSCihqUSQEqQrWBBssffee++995pYYmzRqOm99/Z2UZFgZnaczJjM3AfLDPv+3f/j33947+0RPEA+BIj2PLVx8hHaBT+FcbPT/9/pv9jjZsyYMWPGjJmnDzz+LODjPv9eJpE8PicIiJYSnwlAbCTFQwBCCDBI4ImVHsTDEzsRgpLghGiJRIKAVPCQZEclHCgc/wAJ/J0cCESwHEUhBB2cKAqQKKl2TlIJTSsU9goFarWhQBiH1rjHO90/AW0N6MDiqndwwq4EQuKVMCzJuYd98EFpaVHRaHsaOxEP+lzHgHBTnQ7+2YkC/KVSMRQFGATC6fZOWlIGiBLtJAfWAqxfu7Trq/3ffrVr+nm9lBYaTdDSqVudtPBYJ52LNrm/SQ06cFjv6emb7LjeM4RGHeMYlabYc62KBBDl5MACWI3bOm/J3YI+mIP7zr+XqAc8ABREerhQIMSZjrsSVMdcLqCprL9qAkrnlplr05Q9LWbliY5OlJZRF0+tT1PLCFGwMhlnlTJ94b0f+jU3Nxc4Dxk8/61ffpJgAUhKz83wBa0WCErlPzcAwd9zASZ8WsAVEwseGU0xGRX+5VX1nYDAzQ48rTGtoT7T8tJQGClGieQsrKxSth4piI8f8dxzz40cGhc3ZP5bP+NCySn5+poaPwoQKZN5eNXuRCq5vIOVKsmj01qDi4VjQOxGV1BTHpEGSs43uUCrN8X/9JkRW0JzpEiliG5vzlu2qhkrCU75QX32/Z5IA4XJ7JtpAJqzMJbXHNhAexCPOJFCdxkgCSR6b2Tdu2nuScYSNKC0lMuBBCTA8Er4KkKX9PqMpSUgZksHEoW7Vbezu484rxoxYiTv5Hzw9pF7g2+8J+XvlTQxN/scdrIKn5WTNYqWyYqneTkFZvoSSmD8Kn2TM7zmTPSZMWmD1PFSdHDw3DlTIjdfz+qsk5Phvv5znLz8+wMwlkpVelWMV+W26ldelCIRTkiKnXCZgpY5JySMHDmi2Xnx7E++/L7P/I9xoUBOOQba+kslXETEocZJEqWxvIetU03N0ZgKYNx62M6cGeBkmz6g5wvPe4d9uiA4OHbuy+UvPftMZ6XcZ3JMgJNTgNPMTkow9J9iizm0oAE70UhEnWiFRUS3P5cEDR68+G7CiKHLFm0fP+7i1wWD3n4VO1EOSbNsdxZK6Yiy3OzTtJtjZc7MtPILPXK7HJeqopfXZ2WknvMYUP3C82vDen9qU7sxuZOMd5IQl6udrnpGVszJu+oN4el5sdPKPWfUtYh0IhCHnd4ZFjT/xmdfLw7KX7T9Q/dxOxYW5L/9qoR3gi25te/rJd32DN9ZyGi29PXypkHjE70yTSqLPpb3hh3ogK+TNMy6t02XMWCp4Z1osrphCgFhMCZ27knXsrqVJW4auWbbUbFOBIudvhgWdOvX0Sm7l3y7/cPRKRcXrhi6bParUuzEysq+qZ2UKD1b1+UNJfhc75VVsjF98tRvVr6sV/Qcnn3CLslOcOoaZv2aTZdOgIzCsys+1HeKb2qFr3/egRLl5OUHClmjnBu44JUXJeJeWzgYrfg67ftj3akz06eXjrbeOm9Yv6H52IlGQMg0s2r3Jna9fCzrJBjLev64Mjh4zZo1vWw+lyp6tnzuTdjZweu8U/dWJ0vh2cGE3F7BvXhW551mrh/bq9cYPWDzu9iJI0VNLjKrbl/gftr30brup06ljNsxb1i881DcT/yMTLOy9OwDnfUz1lzpTIWX9Qzemebn5xcV5Z8sRT2Gv+wNVDsnZMkOFJyO2vhHpVZE+aVtXOu6pyUr0U2mhs17XhnLcOKmO+y0deG9IYNufbTOHSvdGfbDKue4RR9jJ4mEJsjiqsYrXW1zSiSU0ac6OM3DzcWlv8mFsCSwU4jgFP13J7cJR3NSXZWuSoOrt1Q5tWVvIrAErtPSsZQMQJSThfWb7ywZEjfo1qaiizvurIhPcI4bdOO3UOxEIy2ET20IPLf62nEA/E9qdVWyGrQEwSBL6NG3nVPvNifThEN9/VxpS1AqkRQmL+9SyALAwAVLx8rxfCfSKeXS/kVxcfm3P/vyzoqEBOdleHIp0vNOWi2QWxYc81qNOxwsHCcOHx5lArmcAKbNacAjTgyL+2mUPqxHS4ynC6KVSjoEbalbfdqkYdy2NYh3cuDcu7+2e3/BqlXxhw+vSGh2zh9ycNf5UKGdKAqgbM+apu/eV6pUjusdY5oCMzwjU6NS+wtO3gByckD0d5O6hgpODGJfqntmlBSmNjTN8RvjmxrlqdQWz7LJ8oscM/Hd5UvH6liRKzqWsx9dOvtwQb/4+H79EpzzBw2eXdrdXkEjxI+TPttafrw2yoC7FNTJmY2NOYFOOV4mS7i53N8VgCLPVsZOCrG36m1Ti53kl3GduoJxck1jTkCAU0CGi0rjmBlbbxsY2FAX+6KOosQ5EUiiXzd++sIVd7FTUJ9FB7eXduewEiBhPHzCTacNhQqOIEDtFhlVZdsY6OXpYiDSb44JIYAgfSZe2xBicHes8sLFkw+s3lvoLSc1kVOy8+qzM32VhMxkqoixDay8cGHmCS0QYhCcpPrQM5/s/v7w4sVH9t/eVRTKsQjBfWcLjQNI9diJsmM4GahBBRQBBgCWpnknjaMe0SYLEsCDAbmFUYkYuQYHAQOgBC3BqlVqNQAZ4W5HiXQicAK8P1DYW58ZP37Tpk3ji0IVCvbBKl9YqhMULSVZijBQIAMVhuATagAQgTG60RJksCB14KoFSqYBBHI5ftIMowKGAAyBV5lqmZVRp7MTv/VENI04d3d7+9BQewxHtm1H+S7HlUQkf4545JX2w30ACzRCDInNGeFXYTUKFL6SUVN8mFb4I0gLTtgCiZdCQJIcp8BwHCckbnd5+3UsJXy3gRDAA1lwAN62I8Cx4oXaUmLgSd7ut9vjUsIh0F4NnuCurQCYP3AwY8aMGTNmzJh5yF94DEmbr8f49wAAAABJRU5ErkJggg==" alt="email"></p> <p>You will receive a test email if your email address gets verified.</p> <h2 id="gmail-setup"><a href="#gmail-setup" class="header-anchor">#</a> Gmail Setup</h2> <p>Click &quot;Connect Google Account&quot; after you choose &quot;Gmail&quot;.</p> <p>Select one of your Gmail and &quot;Allow&quot; UChat to connect.</p> <p><img src="../assets/img/email4.8c96f7e0.png" alt="email"></p> <p>Once done, it looks like this:</p> <p><img src="../assets/img/email5.e9679e71.png" alt="email"></p> <h2 id="sendgrid-setup"><a href="#sendgrid-setup" class="header-anchor">#</a> SendGrid Setup</h2> <p>Select &quot;SendGrid&quot;, open its website:</p> <p><img src="../assets/img/email6.3a97d639.png" alt="email"></p> <p>Log in yourself, enter your SendGrid &quot;Dashboard&quot; from the upper right corner.</p> <p><img src="../assets/img/email7.97911082.png" alt="email"></p> <p>Follow step 1, 2 and 3 to create API key:</p> <p><img src="../assets/img/email8.78b150d2.png" alt="email"></p> <p>Give an API key name, select &quot;Restricted Access&quot;.</p> <p><img src="../assets/img/email9.dc7c2045.png" alt="email"></p> <p>Make sure you give UChat full access to &quot;Mail Send&quot; and click &quot;Create &amp; View&quot; at the very bottom of the page.</p> <p><img src="../assets/img/email10.561bc3a8.png" alt="email"></p> <p>Once done, copy your key back to UChat.</p> <p><img src="../assets/img/email11.a001ad7b.png" alt="email"></p> <p><img src="../assets/img/email12.15f42a45.png" alt="email"></p> <p>To get a &quot;Sender Email&quot;, let's get back to SendGrid's website again. Click &quot;Create a sender identity&quot; and &quot;Greate a Single Sender&quot;:</p> <p><img src="../assets/img/email13.dfa3dc53.png" alt="email"></p> <p><img src="../assets/img/email14.aa471be1.png" alt="email"></p> <p>Fill in your details and &quot;Create&quot;:</p> <p><img src="../assets/img/email15.3d3861d2.png" alt="email"></p> <p><img src="../assets/img/email16.6c8b1041.png" alt="email"></p> <p>A verification link will be sent to your email, click it to get verified.</p> <p><img src="../assets/img/email17.f65a849c.png" alt="email"></p> <h2 id="send-email-notification"><a href="#send-email-notification" class="header-anchor">#</a> Send Email Notification</h2> <p>After setup your email integration, you can select it as a sender in your &quot;Email Profile&quot; list. Check <a href="../flow-builder/action-notification.html#email-notification">how to send email notification</a>?</p> <h2 id="send-email-step"><a href="#send-email-step" class="header-anchor">#</a> Send Email Step</h2> <p>Add a Send Email step by right-clicking in your workspace or from the &quot;Add new step&quot; button:</p> <p><img src="../assets/img/email18.56805144.png" alt="email"></p> <p>This is how a Send Email step looks like:</p> <p><img src="../assets/img/email20.3a083ef9.png" alt="email"></p> <p>Name a sender and receiver. There are 3 blocks of information, subject, message and attachment. Feel free to add what you need.</p> <p>This is an example of an email from the user's side:</p> <p><img src="../assets/img/email19.4a8cc4f9.png" alt="email"></p></div> <footer class="page-edit"><!----> <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">4/21/2021, 3:13:17 AM</span></div></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="mark/signalwire.html" class="prev">
+        Signalwire
+      </a></span> <span class="next"><a href="mailchimp.html">
+        MailChimp
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"><!----><!----></div></div>
+    <script src="../assets/js/app.c0e6e995.js" defer></script><script src="../assets/js/7.c4a9717a.js" defer></script><script src="../assets/js/14.92187cc8.js" defer></script><script src="../assets/js/92.7e42704c.js" defer></script>
+  </body>
+
+<!-- Mirrored from docs.uchat.com.au/integration/email.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Dec 2023 09:43:16 GMT -->
+</html>
