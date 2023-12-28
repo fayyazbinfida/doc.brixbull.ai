@@ -42,9 +42,9 @@
         <div class="page-nav">
           <p class="inner"><span class="prev">
               ←
-              <a href="index.html" class="prev router-link-active">
+              <a href="index.php" class="prev router-link-active">
                 Introduction
-              </a></span> <span class="next"><a href="components.html">
+              </a></span> <span class="next"><a href="components.php">
                 Platform Overview
               </a>
               →

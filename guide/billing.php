@@ -18,17 +18,7 @@
           </p>
           <h2 id="subscription"><a href="#subscription" class="header-anchor">#</a> Subscription</h2>
           <p>To upgrade to PRO, pick one of the subscription plans, and the &quot;Billing Information&quot; table will
-            show at the bottom. Fill in your card details and hit the &quot;Subscribe&quot; button. Check <a
-              href="https://www.uchat.com.au/pricing" target="_blank" rel="noopener noreferrer">differences among
-              plans<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"
-                  viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
-                  <path fill="currentColor"
-                    d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">
-                  </path>
-                  <polygon fill="currentColor"
-                    points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
-                  </polygon>
-                </svg> <span class="sr-only">(opens new window)</span></span></a>.</p>
+            show at the bottom. Fill in your card details and hit the &quot;Subscribe&quot; button.</p>
           <p><img src="../assets/img/billing2.0b55a04d.png" alt="overview of sidebar"></p>
           <div class="custom-block tip">
             <p class="custom-block-title">Note</p>
@@ -55,7 +45,7 @@
         <div class="page-nav">
           <p class="inner"><span class="prev">
               ←
-              <a href="email-template.html" class="prev">
+              <a href="email-template.php" class="prev">
                 Email Templates
               </a></span> <!----></p>
         </div>

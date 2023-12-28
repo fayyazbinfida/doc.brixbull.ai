@@ -97,17 +97,7 @@
           <h3 id="api-keys"><a href="#api-keys" class="header-anchor">#</a> API Keys</h3>
           <p>You can access the &quot;API Keys&quot; page from area 1 in the above screenshot.</p>
           <p><img src="../assets/img/api.8e36c58d.png" alt="API key"></p>
-          <p>Select a workspace and a flow to create an API key to access the flow from API calls. <a
-              href="https://www.uchat.com.au/api" target="_blank" rel="noopener noreferrer">Try our APIs here<span><svg
-                  xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"
-                  viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
-                  <path fill="currentColor"
-                    d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">
-                  </path>
-                  <polygon fill="currentColor"
-                    points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
-                  </polygon>
-                </svg> <span class="sr-only">(opens new window)</span></span></a>. UChat has also integrated with many
+          <p>Select a workspace and a flow to create an API key to access the flow from API calls. Smart ChatBot has also integrated with many
             third-party automation services such as Zapier, Pabbly Connect, Integrately, Integromat, etc.</p>
           <h2 id="user-settings-timezone"><a href="#user-settings-timezone" class="header-anchor">#</a> User Settings
             (Timezone)</h2>
@@ -117,7 +107,7 @@
           <p><img src="../assets/img/user2.ebeba636.png" alt="user setting"></p>
           <div class="custom-block tip">
             <p class="custom-block-title">TIP</p>
-            <p>The timezone setting of an UChat user will affect the time shown in the web portal such as the time shown
+            <p>The timezone setting of an Smart ChatBot user will affect the time shown in the web portal such as the time shown
               in the conversation in your Live Chat, Error Logs, etc. See the screenshot below.</p>
           </div>
           <p><img
@@ -125,7 +115,7 @@
               alt="workspace setting"></p>
           <p>In profile, you can update your photo, user name, email address, timezone and time format.</p>
           <h2 id="members-and-roles"><a href="#members-and-roles" class="header-anchor">#</a> Members and Roles</h2>
-          <p>Each &quot;UChat account&quot; is to be seen as a person/user. Members are all the people that have limited
+          <p>Each &quot;Smart ChatBot account&quot; is to be seen as a person/user. Members are all the people that have limited
             or full access to the workspace. There are 3 types of roles, <strong>Owner, Admin and Member</strong>.</p>
           <p><img src="../assets/img/sidebar-difference.f0f6661d.png" alt="overview of members"></p>
           <p>The first user who creates the workspace becomes the only owner of the workspace.</p>
@@ -161,11 +151,11 @@
           <p><img src="../assets/img/members.e21d4321.png" alt="overview of members"></p>
           <p>(Owner Only) Follow steps 1, 2 and 3 in the above screenshot to send out an invitation to a new member with
             his/her email address and role setting.</p>
-          <p>If the new member is already an UChat user, he/she can accept the invitation in the UChat notification
+          <p>If the new member is already an Smart ChatBot user, he/she can accept the invitation in the Smart ChatBot notification
             center (the bell icon in the upper right corner, see 2 screenshots below).</p>
           <p><img src="../assets/img/invitation.e1363a3d.png" alt="overview of members"></p>
           <p><img src="../assets/img/invitation2.92cca8e6.png" alt="overview of members"></p>
-          <p>If the new member is not an UChat user yet, the invitation email will contain a link to set up a new
+          <p>If the new member is not an Smart ChatBot user yet, the invitation email will contain a link to set up a new
             password. Once set up, the member can then also log into the workspace with their own login details.</p>
           <h3 id="eidt-role-of-members"><a href="#eidt-role-of-members" class="header-anchor">#</a> Eidt Role of Members
           </h3>
@@ -179,9 +169,9 @@
         <div class="page-nav">
           <p class="inner"><span class="prev">
               ←
-              <a href="components.html" class="prev">
+              <a href="components.php" class="prev">
                 Platform Overview
-              </a></span> <span class="next"><a href="setup-create.html">
+              </a></span> <span class="next"><a href="setup-create.php">
                 Connect to Channels
               </a>
               →
