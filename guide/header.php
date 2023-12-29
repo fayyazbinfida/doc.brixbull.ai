@@ -262,7 +262,7 @@
                         </div>
                     </div>
                     <div class="nav-item">
-                        <a href="flow-builder/index.php" class="nav-link">Flow Builder</a>
+                        <a href="../flow-builder/index.php" class="nav-link">Flow Builder</a>
                     </div>
                     <div class="nav-item">
                         <div class="dropdown-wrapper">
@@ -272,82 +272,82 @@
                             </button>
                             <ul class="nav-dropdown" style="display:none;">
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/index.php" class="nav-link">Overview</a>
+                                    <a href="../integration/index.php" class="nav-link">Overview</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/stripe.php" class="nav-link">Stripe</a>
+                                    <a href="../integration/stripe.php" class="nav-link">Stripe</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/paypal.php" class="nav-link">PayPal</a>
+                                    <a href="../integration/mark/paypal.php" class="nav-link">PayPal</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
+                                    <a href="../integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/shopify.php" class="nav-link">Shopify</a>
+                                    <a href="../integration/shopify.php" class="nav-link">Shopify</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/fb-manager.php" class="nav-link">Facebook Business</a>
+                                    <a href="../integration/fb-manager.php" class="nav-link">Facebook Business</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/calendly.php" class="nav-link">Calendly</a>
+                                    <a href="../integration/mark/calendly.php" class="nav-link">Calendly</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/slack.php" class="nav-link">Slack</a>
+                                    <a href="../integration/slack.php" class="nav-link">Slack</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/slack-agent.php" class="nav-link">Slack Agent</a>
+                                    <a href="../integration/slack-agent.php" class="nav-link">Slack Agent</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/dialogflow.php" class="nav-link">Dialogflow</a>
+                                    <a href="../integration/dialogflow.php" class="nav-link">Dialogflow</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
+                                    <a href="../integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/data-store.php" class="nav-link">Data Store</a>
+                                    <a href="../integration/data-store.php" class="nav-link">Data Store</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/twilio.php" class="nav-link">Twilio</a>
+                                    <a href="../integration/mark/twilio.php" class="nav-link">Twilio</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/signalwire.php" class="nav-link">SignalWire</a>
+                                    <a href="../integration/mark/signalwire.php" class="nav-link">SignalWire</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
+                                    <a href="../integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mailchimp.php" class="nav-link">MailChimp</a>
+                                    <a href="../integration/mailchimp.php" class="nav-link">MailChimp</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/zapier.php" class="nav-link">Zapier</a>
+                                    <a href="../integration/mark/zapier.php" class="nav-link">Zapier</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/integromat.php" class="nav-link">Integromat</a>
+                                    <a href="../integration/mark/integromat.php" class="nav-link">Integromat</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/pabbly.php" class="nav-link">Pabbly</a>
+                                    <a href="../integration/mark/pabbly.php" class="nav-link">Pabbly</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/integrately.php" class="nav-link">Integrately</a>
+                                    <a href="../integration/mark/integrately.php" class="nav-link">Integrately</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
+                                    <a href="../integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/intercom.php" class="nav-link">Intercom</a>
+                                    <a href="../integration/intercom.php" class="nav-link">Intercom</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="integration/freshchat.php" class="nav-link">Freshchat</a>
+                                    <a href="../integration/freshchat.php" class="nav-link">Freshchat</a>
                                 </li>
                             </ul>
                         </div>
                         </div>
                         <div class="nav-item">
-                            <a href="ecommerce/index.php" class="nav-link">Ecommerce</a>
+                            <a href="../ecommerce/index.php" class="nav-link">Ecommerce</a>
                         </div>
                         <div class="nav-item">
-                            <a href="mobile/mobile.php" class="nav-link">Mobile App</a>
+                            <a href="../mobile/mobile.php" class="nav-link">Mobile App</a>
                         </div>
                         <div class="nav-item">
                         <div class="dropdown-wrapper">
@@ -357,22 +357,22 @@
                             </button>
                             <ul class="nav-dropdown" style="display:none;">
                                 <li class="dropdown-item"><!---->
-                                    <a href="for-developers/index.php" class="nav-link">Dynamic Content</a>
+                                    <a href="../for-developers/index.php" class="nav-link">Dynamic Content</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="for-developers/API/index.php" class="nav-link">API</a>
+                                    <a href="../for-developers/API/index.php" class="nav-link">API</a>
                                 </li>
                                 <li class="dropdown-item"><!---->
-                                    <a href="for-developers/my-apps/index.php" class="nav-link">Mini-App</a>
+                                    <a href="../for-developers/my-apps/index.php" class="nav-link">Mini-App</a>
                                 </li>
                             </ul>
                         </div>
                         </div>
                         <div class="nav-item">
-                            <a href="partner/about.php" class="nav-link">Partner</a>
+                            <a href="../partner/about.php" class="nav-link">Partner</a>
                         </div>
                         <div class="nav-item">
-                            <a href="faq/index.php" class="nav-link">FAQ</a>
+                            <a href="../faq/index.php" class="nav-link">FAQ</a>
                         </div>
                         <div class="nav-item">
                             <a href="https://www.app.brixbull.ai/" target="_blank" rel="noopener noreferrer" class="nav-link external">
