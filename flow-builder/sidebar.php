@@ -639,6 +639,101 @@
           <span>Contents</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="custom-field.php" aria-current="page" class="active sidebar-link">
+              Custom Fields
+            </a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="custom-field.php#bot-fields" class="sidebar-link">
+                  Bot fields
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="custom-field.php#user-fields" class="sidebar-link">
+                  User fields
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="action-tag.php" class="sidebar-link">Tags</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="action-tag.php#create-tag" class="sidebar-link">Create Tag</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-tag.php#add-remove-tag" class="sidebar-link">
+                  Add / Remove Tag
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-tag.php#use-tag-in-condition-step" class="sidebar-link">
+                  Use Tag in Condition Step
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-tag.php#use-tag-in-live-chat" class="sidebar-link">
+                  Use Tag in Live Chat
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="otn.php" class="sidebar-link">OTN - One Time Notification (Facebook)</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="otn.php#create-and-manage-from-overview" class="sidebar-link">
+                  Create and manage from overview
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="otn.php#create-otn-topics-in-the-flow-builder" class="sidebar-link">
+                  Create OTN topics in the flow builder
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="otn.php#how-to-request-an-otnr-and-use-it-to-send-the-otn-message" class="sidebar-link">
+                  How to request an OTNR and use it to send the OTN message
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="personas.php" class="sidebar-link">Personas</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="personas.php#creating-and-managing-your-personas" class="sidebar-link">
+                  Creating and managing your Personas
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="personas.php#how-to-use-personas" class="sidebar-link">
+                  How to use Personas
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="user-menus.php" class="sidebar-link">User Menus</a>
+          </li>
+          <li>
+            <a href="feedback.php" class="sidebar-link">Customer Feedback (Facebook)</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="feedback.php#creating-and-managing-customer-feedback-topics" class="sidebar-link">
+                  Creating and managing Customer Feedback Topics
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="feedback.php#how-to-send-a-customer-feedback-topic" class="sidebar-link">
+                  How to send a customer feedback topic
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
@@ -647,6 +742,75 @@
           <span>Tools</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="error-logs.php" aria-current="page" class="active sidebar-link">
+              Error Logs
+            </a>
+          </li>
+          <li>
+            <a href="testers.php" class="sidebar-link">Testers</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="testers.php#invite-and-manage-testers" class="sidebar-link">
+                  Invite and manage testers
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="testers.php#how-to-send-testers-flows" class="sidebar-link">
+                  How to send testers flows
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="admins.php" class="sidebar-link">Admins</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="admins.php#invite-and-manage-admins" class="sidebar-link">
+                  Invite and manage admins
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="admins.php#how-to-set-up-an-admin-flow" class="sidebar-link">
+                  How to set up an admin flow
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="widgets.php" class="sidebar-link">Widgets</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="widgets.php#messenger-ref-url-widget" class="sidebar-link">
+                  Messenger Ref URL Widget
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="widgets.php#qr-code-widget" class="sidebar-link">
+                  QR Code Widget
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="widgets.php#customer-chat-widget" class="sidebar-link">
+                  Customer Chat Widget
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="multi-language.php" class="sidebar-link">Multiple Languages</a>
+          </li>
+          <li>
+            <a href="shortcuts.php" class="sidebar-link">Shortcuts</a>
+          </li>
+          <li>
+            <a href="facebook-ads.php" class="sidebar-link">Facebook Ads</a>
+          </li>
+          <li>
+            <a href="inbound-webhooks.php" class="sidebar-link">Inbound Webhooks</a>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
