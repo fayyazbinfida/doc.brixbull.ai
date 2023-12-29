@@ -7,7 +7,7 @@
           <h1 id="registration"><a href="#registration" class="header-anchor">#</a> Registration</h1>
           <p><img src="../assets/img/register.png" alt="overview of registration"></p>
           <p>To begin the process of creating your own chatbot, you'll need to <a
-              href="http://www.uchat.com.au/register" target="_blank" rel="noopener noreferrer">register<span><svg
+              href="http://www.app.brixbull.ai/register" target="_blank" rel="noopener noreferrer">register<span><svg
                   xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"
                   viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
                   <path fill="currentColor"
@@ -16,7 +16,7 @@
                   <polygon fill="currentColor"
                     points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
                   </polygon>
-                </svg> <span class="sr-only">(opens new window)</span></span></a> with UChat. The platform is built with
+                </svg> <span class="sr-only">(opens new window)</span></span></a> with Smart ChatBot. The platform is built with
             robust administrative features and uses high-grade security that complies with all regulatory mandates, so
             data is secure and safe.</p>
           <div class="custom-block tip">
@@ -25,7 +25,7 @@
               <strong>Name</strong> is the name/alias of a person.</p>
           </div>
           <p>Fill in all the fields, tick &quot;I Accept&quot; after viewing the terms of service and click
-            &quot;Register&quot;. You will then receive a verification email from UChat, click on the button to verify
+            &quot;Register&quot;. You will then receive a verification email from Smart ChatBot, click on the button to verify
             your address.</p>
           <h1 id="login"><a href="#login" class="header-anchor">#</a> Login</h1>
           <p><img src="../assets/img/login.png" alt="Login Overview"></p></p>

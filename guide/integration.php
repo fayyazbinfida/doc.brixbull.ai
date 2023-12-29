@@ -6,7 +6,7 @@
 <main class="page">
         <div class="theme-default-content content__default">
           <h1 id="integrations"><a href="#integrations" class="header-anchor">#</a> Integrations</h1>
-          <p>UChat has integrated with various third-party applications that you are familiar with, including:</p>
+          <p>Smart ChatBot has integrated with various third-party applications that you are familiar with, including:</p>
           <table>
             <thead>
               <tr>

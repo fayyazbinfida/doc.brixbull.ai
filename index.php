@@ -1,5 +1,5 @@
 <?php 
-    include('header.php');
+include('header.php');
 ?>
 
 <div class="sidebar-mask"></div>
@@ -201,7 +201,7 @@
           <div class="nav-item"><a href="faq/index.php" class="nav-link">
               FAQ
             </a></div>
-          <div class="nav-item"><a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer"
+          <div class="nav-item"><a href="https://www.brixbull.ai" target="_blank" rel="noopener noreferrer"
               class="nav-link external">
               Smart ChatBot Home
               <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"

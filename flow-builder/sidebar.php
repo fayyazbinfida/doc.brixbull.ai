@@ -14,7 +14,7 @@
       </a>
     </div>
     <div class="nav-item">
-      <a href="../guide/index.php" class="nav-link">Guide</a>
+      <a href="<?php echo $_SESSION['PATH'];?>/guide/index.php" class="nav-link">Guide</a>
     </div>
     <div class="nav-item">
       <div class="dropdown-wrapper">
@@ -24,40 +24,40 @@
         </button>
         <ul class="nav-dropdown" style="display:none;">
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#omni-bot" class="nav-link">Omnichannel</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#facebook-bot" class="nav-link">Facebook</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#facebook-bot" class="nav-link">Facebook</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#instagram-bot" class="nav-link"> Instagram</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#instagram-bot" class="nav-link"> Instagram</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#telegram-bot" class="nav-link">Telegram</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#telegram-bot" class="nav-link">Telegram</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#slack-bot" class="nav-link">slack</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#slack-bot" class="nav-link">slack</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#wechat-bot" class="nav-link">WeChat</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#wechat-bot" class="nav-link">WeChat</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#whatsapp-360dialog-sandbox" class="nav-link">WhatsApp Sandbox</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/whatsapp-api.php" class="nav-link">WhatsApp</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/whatsapp-api.php" class="nav-link">WhatsApp</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/cloudapi.php" class="nav-link">WhatsApp Cloud API</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">SMS</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#whatsapp-sms-voice-bot" class="nav-link">Voice</a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#google-my-business" class="nav-link">Google</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#google-my-business" class="nav-link">Google</a>
           </li>
           <li class="dropdown-item">
             <a href="https://help.uchat.com.au/line-chatbot" target="_blank" rel="noopener noreferrer" class="nav-link external">Line
@@ -81,7 +81,7 @@
             </a>
           </li>
           <li class="dropdown-item">
-            <a href="../guide/setup-create.php#vk-bot" class="nav-link">Vk</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/guide/setup-create.php#vk-bot" class="nav-link">Vk</a>
           </li>
         </ul>
       </div>
@@ -99,82 +99,82 @@
         </button>
         <ul class="nav-dropdown" style="display:none;">
           <li class="dropdown-item">
-            <a href="../integration/index.php" class="nav-link">Overview</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/index.php" class="nav-link">Overview</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/stripe.php" class="nav-link">Stripe</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/stripe.php" class="nav-link">Stripe</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/paypal.php" class="nav-link">PayPal</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/paypal.php" class="nav-link">PayPal</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/cloudinary.php" class="nav-link">Cloudinary</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/shopify.php" class="nav-link">Shopify</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/shopify.php" class="nav-link">Shopify</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/fb-manager.php" class="nav-link">Facebook Business</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/fb-manager.php" class="nav-link">Facebook Business</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/calendly.php" class="nav-link">Calendly</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/calendly.php" class="nav-link">Calendly</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/slack.php" class="nav-link">Slack</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/slack.php" class="nav-link">Slack</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/slack-agent.php" class="nav-link">Slack Agent</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/slack-agent.php" class="nav-link">Slack Agent</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/dialogflow.php" class="nav-link">Dialogflow</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/dialogflow.php" class="nav-link">Dialogflow</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/google-spreadsheet.php" class="nav-link">Google Spreadsheet</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/data-store.php" class="nav-link">Data Store</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/data-store.php" class="nav-link">Data Store</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/twilio.php" class="nav-link">Twilio</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/twilio.php" class="nav-link">Twilio</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/signalwire.php" class="nav-link">SignalWire</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/signalwire.php" class="nav-link">SignalWire</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/email.php" class="nav-link">SMTP / Gmail / SendGrid</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mailchimp.php" class="nav-link">MailChimp</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mailchimp.php" class="nav-link">MailChimp</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/zapier.php" class="nav-link">Zapier</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/zapier.php" class="nav-link">Zapier</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/integromat.php" class="nav-link">Integromat</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/integromat.php" class="nav-link">Integromat</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/pabbly.php" class="nav-link">Pabbly</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/pabbly.php" class="nav-link">Pabbly</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/integrately.php" class="nav-link">Integrately</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/integrately.php" class="nav-link">Integrately</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/videosdk.php" class="nav-link">VideoSdk</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/intercom.php" class="nav-link">Intercom</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/intercom.php" class="nav-link">Intercom</a>
           </li>
           <li class="dropdown-item">
-            <a href="../integration/freshchat.php" class="nav-link">Freshchat</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/integration/freshchat.php" class="nav-link">Freshchat</a>
           </li>
         </ul>
       </div>
     </div>
     <div class="nav-item">
-      <a href="../ecommerce/index.php" class="nav-link">Ecommerce</a>
+      <a href="<?php echo $_SESSION['PATH'];?>/ecommerce/index.php" class="nav-link">Ecommerce</a>
     </div>
     <div class="nav-item">
-      <a href="../mobile/mobile.php" class="nav-link">Mobile App</a>
+      <a href="<?php echo $_SESSION['PATH'];?>/mobile/mobile.php" class="nav-link">Mobile App</a>
     </div>
     <div class="nav-item">
       <div class="dropdown-wrapper">
@@ -184,22 +184,22 @@
         </button>
         <ul class="nav-dropdown" style="display:none;">
           <li class="dropdown-item">
-            <a href="../for-developers/index.php" class="nav-link">Dynamic Content</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/for-developers/index.php" class="nav-link">Dynamic Content</a>
           </li>
           <li class="dropdown-item">
-            <a href="../for-developers/API/index.php" class="nav-link">API</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/for-developers/API/index.php" class="nav-link">API</a>
           </li>
           <li class="dropdown-item">
-            <a href="../for-developers/my-apps/index.php" class="nav-link">Mini-App</a>
+            <a href="<?php echo $_SESSION['PATH'];?>/for-developers/my-apps/index.php" class="nav-link">Mini-App</a>
           </li>
         </ul>
       </div>
     </div>
     <div class="nav-item">
-      <a href="../partner/about.php" class="nav-link">Partner</a>
+      <a href="<?php echo $_SESSION['PATH'];?>/partner/about.php" class="nav-link">Partner</a>
     </div>
     <div class="nav-item">
-      <a href="../faq/index.php" class="nav-link">FAQ</a>
+      <a href="<?php echo $_SESSION['PATH'];?>/faq/index.php" class="nav-link">FAQ</a>
     </div>
     <div class="nav-item">
       <a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer" class="nav-link external">
@@ -446,6 +446,53 @@
           <span>Sub Flows</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="sub-flows/sub-flow.php" aria-current="page" class="active sidebar-link">Sub Flow</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="sub-flows/sub-flow.php#create-sub-flow" class="sidebar-link">Create Sub Flow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="sub-flows/sub-flow.php#move-steps-to-sub-flow" class="sidebar-link">Move Steps to Sub Flow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="sub-flows/sub-flow.php#call-sub-flow" class="sidebar-link">Call Sub Flow</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="sub-flows/workflow.php" class="sidebar-link">Workflow</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="workflow.php#create-workflow" class="sidebar-link">Create Workflow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="workflow.php#workflow-example" class="sidebar-link">Workflow Example</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="workflow.php#trigger-workflow" class="sidebar-link">Trigger Workflow</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="sub-flows/function-flow.php" class="sidebar-link">Function Flow</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="function-flow.php#create-function-flow" class="sidebar-link">Create Function Flow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="function-flow.php#function-flow-example" class="sidebar-link">Function Flow Example</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="function-flow.php#call-function-flow" class="sidebar-link">Call Function Flow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="function-flow.php#multiple-outputs" class="sidebar-link">Multiple Outputs</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
@@ -454,6 +501,29 @@
           <span>Live Chat</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="live-chat.php" aria-current="page" class="active sidebar-link">Live Chat</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="live-chat.php#how-to-access-live-chat-through-the-main-dashboard" class="sidebar-link">How to access live chat through the main dashboard</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="live-chat.php#how-to-access-live-chat-through-a-chatbot-channel" class="sidebar-link">
+                  How to access live chat through a chatbot channel
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="live-chat.php#how-to-use-live-chat" class="sidebar-link">How to use Live chat</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="live-chat.php#sending-subflows-to-users" class="sidebar-link">
+                  Sending subflows to users
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
@@ -462,6 +532,26 @@
           <span>Bot Users</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="users.php" aria-current="page" class="active sidebar-link">Bot Users</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="users.php#filter-bot-users-based-on-conditions" class="sidebar-link">
+                  Filter bot users based on conditions
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="users.php#user-information" class="sidebar-link">User Information</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="users.php#importing-or-creating-new-users" class="sidebar-link">
+                  Importing or creating new users
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
@@ -470,6 +560,77 @@
           <span>Automation</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="automation/keywords.php" aria-current="page" class="active sidebar-link">Keywords</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="keywords.php#default-reply" class="sidebar-link">Default Reply</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="keywords.php#advanced-default-reply" class="sidebar-link">
+                  Advanced Default Reply
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="action-sequence.php" class="sidebar-link">Sequences</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#create-sequence" class="sidebar-link">Create Sequence</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#message-settings" class="sidebar-link">Message Settings</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#about-timezone" class="sidebar-link">About Timezone</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#content-type" class="sidebar-link">Content Type</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#send-multiple-messages" class="sidebar-link">Send Multiple Messages</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#send-sub-flow" class="sidebar-link">Send Sub Flow</a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="action-sequence.php#subscribe-unsubscribe-sequence" class="sidebar-link">Subscribe / Unsubscribe Sequence</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="triggers.php" class="sidebar-link">Triggers</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="triggers.php#how-to-create-a-new-trigger" class="sidebar-link">
+                  How to create a new trigger
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="triggers.php#selecting-your-sub-flow" class="sidebar-link">
+                  Selecting your Sub Flow
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="triggers.php#managing-your-triggers" class="sidebar-link">
+                  Managing your Triggers
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="comment.php" class="sidebar-link">Comment Keywords</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="comment.php#how-to-create-a-comment-keyword" class="sidebar-link">
+                  How to create a Comment Keyword
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </section>
     </li>
     <li>

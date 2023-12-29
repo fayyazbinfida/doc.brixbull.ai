@@ -7,7 +7,7 @@
         <div class="theme-default-content content__default">
           <h1 id="whatsapp-360dialog-50-month"><a href="#whatsapp-360dialog-50-month" class="header-anchor">#</a>
             WhatsApp + 360Dialog ($50/month)</h1>
-          <p>UChat partners with 360Dialog, which is an official WhatsApp API partner. We are bringing special partner
+          <p>Smart ChatBot partners with 360Dialog, which is an official WhatsApp API partner. We are bringing special partner
             prices that start with $50 per month. <a
               href="https://uchat-com-au.atlassian.net/wiki/spaces/UKB/pages/668696577/WhatsApp+360Dialog+50+month"
               target="_blank" rel="noopener noreferrer">Check more details<span><svg xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
                   </polygon>
                 </svg> <span class="sr-only">(opens new window)</span></span></a></p>
           <p>You will be able to build your WhatsApp chatbot with the best pricing, and also the most supported message
-            types. For example, template messages &amp; product catalogue messages are both supported within UChat if
+            types. For example, template messages &amp; product catalogue messages are both supported within Smart ChatBot if
             you are using 360Dialog.</p>
           <p>In this help document, we will show you step by step how to get your WhatsApp chatbot set up.</p>
           <h2 id="checklist"><a href="#checklist" class="header-anchor">#</a> Checklist</h2>
@@ -32,9 +32,9 @@
               be limited.</li>
             <li><strong>A new phone number</strong> that hasn’t been used with WhatsApp: you can buy a new phone number
               or cancel your phone number for other BSP providers.</li>
-            <li>Connect the number to UChat.</li>
+            <li>Connect the number to Smart ChatBot.</li>
           </ul>
-          <p>That’s all you need to have to set up your first WhatsApp chatbot with UChat.</p>
+          <p>That’s all you need to have to set up your first WhatsApp chatbot with Smart ChatBot.</p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">11/18/2023, 10:48:22

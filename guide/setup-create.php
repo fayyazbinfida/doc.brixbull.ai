@@ -92,12 +92,12 @@
           <h2 id="facebook-bot"><a href="#facebook-bot" class="header-anchor">#</a> Facebook Bot</h2>
           <p><img src="../assets/img/fb_connect.13bd8a24.png" alt="fb_connect"></p>
           <p>Follow steps 1, 2 and 3 in the above screenshot and jump to facebook.com, <strong>select all the pages in
-              your page list, that you want UChat to help with the automation</strong>.</p>
+              your page list, that you want Smart ChatBot to help with the automation</strong>.</p>
           <p><img src="../assets/img/fb_pages.7d490c12.png" alt="fb_connect"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
             <p>If you connect your Facebook Account with more than one workspace, remember to select all pages that
-              require management on UChat regardless of workspace.</p>
+              require management on Smart ChatBot regardless of workspace.</p>
           </div>
           <p><img src="../assets/img/fb_after.138e2fcc.png" alt="fb_connect"></p>
           <p>After connection, these are some of the operations in the screenshot above:</p>
@@ -136,22 +136,22 @@
           <p>The next step is to turn on the &quot;Allow access to messages&quot; in your Instagram app, see steps 1 to
             5 in the following screenshot: Menu - Settings - Privacy - Messages - Allow access to messages</p>
           <p><img src="../assets/img/ins4.ddcb0ea7.png" alt="ins"></p>
-          <p>Finally, in UChat, let's connect your Instagram with UChat. Go &quot;Facebook&quot; and
+          <p>Finally, in Smart ChatBot, let's connect your Instagram with Smart ChatBot. Go &quot;Facebook&quot; and
             &quot;Reconnect&quot; (Yes, Facebook, not Instagram):</p>
           <p><img src="../assets/img/ins5.5d62433a.png" alt="ins"></p>
           <p><img src="../assets/img/ins6.938606ad.png" alt="ins"></p>
-          <p>Continue as yourself or click &quot;Edit Settings&quot; if you've previously linked UChat to your Facebook.
+          <p>Continue as yourself or click &quot;Edit Settings&quot; if you've previously linked Smart ChatBot to your Facebook.
           </p>
           <p><img src="../assets/img/ins7.f6572eca.png" alt="ins"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
-            <p>In the above screenshot, select ALL the Instagram Business Accounts that you wanted to use with UChat,
+            <p>In the above screenshot, select ALL the Instagram Business Accounts that you wanted to use with Smart ChatBot,
               not just for the current workspace.</p>
           </div>
           <p><img src="../assets/img/ins8.67db0f38.png" alt="ins"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
-            <p>Similarly, in the above screenshot, select ALL the Facebook pages that you wanted to use with UChat, not
+            <p>Similarly, in the above screenshot, select ALL the Facebook pages that you wanted to use with Smart ChatBot, not
               just the page that connects to the Instagram account.</p>
           </div>
           <p>Give all permissions and after the connection, you are able to see your Instagram flow in both
@@ -162,7 +162,7 @@
             Bot</h3>
           <p>Instagram doesn't support <strong>Preview</strong> feature, so to talk to your Instagram bot:</p>
           <ol>
-            <li>Search your account name on Instagram or goto the <strong>Instagram</strong> section on UChat dashboard,
+            <li>Search your account name on Instagram or goto the <strong>Instagram</strong> section on Smart ChatBot dashboard,
               click on the URL link below the bot name to visit your Instagram page</li>
             <li>follow the account and click <strong>Message</strong> to start the conversation.</li>
           </ol>
@@ -184,9 +184,9 @@
           <p><img src="../assets/img/telegram2.637d8323.png" alt="telegram"></p>
           <p>Send &quot;/newbot&quot;, then a username for your bot. You will get a token like this:</p>
           <p><img src="../assets/img/telegram3.a72868c9.png" alt="telegram"></p>
-          <p>Copy the token and back to UChat.</p>
+          <p>Copy the token and back to Smart ChatBot.</p>
           <p><img src="../assets/img/telegram1.be164dc0.png" alt="telegram"></p>
-          <p>In UChat, click &quot;Add New Telegram Bot&quot; and put your token in the pop-up window. Finally, click
+          <p>In Smart ChatBot, click &quot;Add New Telegram Bot&quot; and put your token in the pop-up window. Finally, click
             &quot;Create Flow&quot; and there you go!</p>
           <p><img src="../assets/img/telegram4.4f8499fa.png" alt="telegram"></p>
           <p>Flip the status to stop/start the automation and click the red x to remove the connection (your flow will
@@ -200,14 +200,14 @@
             <li>Use the preview button in your flow.</li>
           </ol>
           <h2 id="slack-bot"><a href="#slack-bot" class="header-anchor">#</a> Slack Bot</h2>
-          <p>For now, UChat is able to send various types of messages to your Slack group or contacts mainly for
+          <p>For now, Smart ChatBot is able to send various types of messages to your Slack group or contacts mainly for
             notification purposes.</p>
           <div class="custom-block warning">
             <p class="custom-block-title">In Progress ...</p>
             <p>We are working on building more functions for Slack bots. The documentation would be updated as soon as
-              we have done that. Should you have any query, please feel free to contact us via the UChat support bot in
-              the bottom right corner on <a href="https://www.uchat.com.au/" target="_blank"
-                rel="noopener noreferrer">uchat.com.au<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
+              we have done that. Should you have any query, please feel free to contact us via the Smart ChatBot support bot in
+              the bottom right corner on <a href="https://brixbull.ai/" target="_blank"
+                rel="noopener noreferrer">brixbull.ai<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
                     focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"
                     class="icon outbound">
                     <path fill="currentColor"
@@ -235,7 +235,7 @@
           <p>Login yourself with your WeChat account. On the top, you can see your &quot;appID&quot; and
             &quot;appsecret&quot; as below:</p>
           <p><img src="../assets/img/wechat3.0fbb83bd.png" alt="wechat"></p>
-          <p>Copy them back to UChat. Follow the steps below:</p>
+          <p>Copy them back to Smart ChatBot. Follow the steps below:</p>
           <p><img src="../assets/img/wechat4.26395be7.png" alt="wechat"></p>
           <ol>
             <li>choose a type</li>
@@ -259,7 +259,7 @@
             provider according to your needs. Create an account with them and pick your number.</p>
           <p><img src="../assets/img/providers_config.77776646.png" alt="phone number providers"></p>
           <p><img src="../assets/img/provider2.ae8c65ef.png" alt="provider"></p>
-          <p>UChat has put links for you to jump to their official websites. You can either access them in the according
+          <p>Smart ChatBot has put links for you to jump to their official websites. You can either access them in the according
             channel (see screenshot above) or on the &quot;Integration&quot; page (see screenshot below).</p>
           <p><img src="../assets/img/provider.c5c40b96.png" alt="provider"></p>
           <p>Follow the steps in the above screenshots to connect to the provider and add numbers.</p>
@@ -275,7 +275,7 @@
           </h3>
           <p><img src="../assets/img/twilio_id.8c5b0890.png" alt="twilio id"></p>
           <p>In your provider dashboard, click the little button on the right side to copy your &quot;ACCOUNT SID&quot;
-            and &quot;AUTH TOKEN&quot; value back to UChat:</p>
+            and &quot;AUTH TOKEN&quot; value back to Smart ChatBot:</p>
           <p><img src="../assets/img/twilio_id_uchat.5c6f0b0c.png" alt="twilio id in UChat"></p>
           <ol>
             <li>put your copied values in corresponding fields.</li>
@@ -331,7 +331,7 @@
                   </svg> <span class="sr-only">(opens new window)</span></span></a></li>
           </ul>
           <h3 id="add-numbers"><a href="#add-numbers" class="header-anchor">#</a> Add Numbers</h3>
-          <p>Click &quot;Add Number&quot; in area 3 in the above picture after connecting your provider with UChat.</p>
+          <p>Click &quot;Add Number&quot; in area 3 in the above picture after connecting your provider with Smart ChatBot.</p>
           <p><img
               src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABUAAAAF7CAMAAAAkKtF0AAAC+lBMVEX///8AhP+gqLX/HhDh5eoYHynyL0ZCot1jsesop0X//+txcXGgsc9tbW7///Ou5v/n/////9ugqLytayri/f+QICn//8+qqLUYH2fmyLzpsWfM//9pamu1qLXSvLbq///8/v//5qz///j/6M//zoliHynS///B6f+21/8YaqznxN6jqLbzO1HP9f//5uf+2Mf0///v/////uOgqsEAOnGgqMYxHykYH4m21vX4//+pyOkYkc/LkSqQ0P+pyOy4v8j2SVpKpN2mqbamvdigrMdrxPP/+eecu93/9NemrrqwqbVCouPBsbXb8v6Qo9zB5f2iq7f01MP1YnQYO06XmZAYHzD/8/FCq+ayrdz8y9H+4c24rLX/9v9so9z0VWjK7v+tzvKyusTv8fLe3uNYqd/MuLUZH0dRQCtIHymCx/n+8+D92NyhttbdxLv3fIuJ1fS/r7Z9JC3w4f8+mNT7s7nsu3cop1eTTCmkv+CmtsiQosMYfbm9opnTmUfW//+mxea4zeIwqEYYNDuX1/9zhP/80uOztLnWwLjB9/+17/94u/D97dbn18r8v8WjscKwr7f5i5UYN2fgqVtUXFNYHymm4v/Hs7X41JMyS16RzvaArd3tzsDAubr4l6L/1pocTZb3xYT2b3/PvF2b7P8RkP9de55Dtewwca7/36UYXqXv9/+l0//+98Xr16p1Ty6lXyphpNz/6LQcNocYTIQ6ZoGJelgYH1XJj0tLp0W4dio7NSrL2t/w39HIys/+7r3Dhy0Aqv+f2vPZy8UuhsKBm5V3io/fuopfUzZsNik3m///9c/GnXGmi2x3XzuSXy/Z1f9rt/9Ut+t3ocZNjMNxhqsfbZf3fYyWl4YYLHZeZWifeVJu3/+2vf/WwOD75c96bk0Swf+lpv/V5vP//+3z3eVzud9Lus9VdYc5H3//KRxK1v/P9eC24eCakf/r/+iaptzKuYz/iIEop2z/cmmgqFuJq0ifr5hqh5DAqoNpqoPTlTAosressUulrW44kHd7AAAfqUlEQVR42uzbMUrEQBSA4WkWRFEblS2EoGhhIdhrvXiPgL2ITUhn42GsvIClZ/A2rriCjY9kwM1b+D5IQi7wk8ybKQDUaHcKAFUEFKDSbgFAQAECAgqQhYACCChASEABshBQAAEFCAkoQBYCCiCgACEBBchCQAEEFCAkoABZCCiAgAKEBBQgCwEFEFCAkIACZCGgAAIKEBJQgCwEFEBAAdbrowBQ5bgAIKAAAQEF+F97bVNWFu2VgAIMtt13B6t+9l0joADDLZYF/Xn6hQcYW9DvuzVQgPEF/boMkQAqCrrspyk8wHi3fXdpGxOAL1CAv1kDBcgg0xT+bLb16+1mvl8GOjm/LutydHjRFIAp94Gevt09CSiwuSY8ifRyP3sQUGBzTXgW/nH+/vosoHyyc/egTYRxHMdveSBEUaQZih1ERZ0U2uFqMMVNXTpIEjfRITSpm5SgIEWIi81mqxAX20W0vhW1ViyoSOMLVjOoodWlYxeRDqIiCD6/e/5H/timijTBl993aHu5y/Pc9OGS566M/QetNKDRluEFv0hAGWP/QSsN6OWzfdeOnmiXC+EnT03h4jYBdN+LrCm92qAB3bMwN2mSFw8pxjLyJgE0Op01hfmdbu/+dzh6m3N4NHb9jm8HdHNFp5/KcdL6ztOb7eGlN90B651toeXBJBg2aXfJOTlAP0zLzHK2ODM3VFvH9KR9J2OMNRLQfruElJg456GOFlMqz7xMzpgINHyWHk+9yA63KEAH06Vy6o4/u60G6ImW5OPUnN9zPgC0Wik9Tt3BFiDzC5/tRjLYSHR+88dTMzfMJfD3vILBJ3GctH7iU3bczm6Gty8GFJPYXaPXn5XKdoipdrxYrSRrc918lp63G2fWYqjW95XC0NBVjzHGGgjoumOjMe9CLuMMM6/bA/dMBIZBJqCqAD3QjZ95P1MD1FyKAbrc7e0A1I0wksM17YVcFYc/OBZ4mzBnHgXjWbGx9I/Br7ldMnlPr2f33DXFRYBiEuxKT76OYwiA716E85h53ZilExvDW2Hx3KVujzHGGgvoiJ+BopYd/Jo97cG4MRMBfyfi7jO+A1T14Ch2CaATpzzUb4oAtHUgYHmss80iKbtG/L4A0D63ZSIY1G3ksRECCnSxa9diQK2Y2PDdclfevWglRoOmiDmK7jTSXRjKmsoYY40FdM096BiwA/5AWEBSxLnkMFSA6vUb+fMW7IW3uzACdsC/1gG7azQmN0rhj4TpEhL7QFyvbOyqAQpLZQwNqEwiu9SLOCSc+StO0o2CHxmPMcYaDOhNrB/hqm8qHtCmLEvIBV4UxoZtuv5iKGuMAWTaUsENq/AC6Nqaxx3QUBbzxcyEkTSgXfUAlUkwvHpRzxxtMWERNxRjjDUY0EEjzQ6ISyFQIXjqDyz9mPHy7vsLZ38NUMExugSgPZ9Trr0rBOhEWQY8TEAZY80AtGOsMBT01BTVFeiIvgLd9BDyyQf+dETIUoDGfucKVBG3LKAj9QHVMwcTSgSUMdYMQC/k+jxBaDQG8eL6O9Be4Q82iZbDWxcBGl4q+hY3Dag7Wn0HqgDFDL8G6OAygOrvQBPpLgLKGGsmoLjKlGvLiXN2FR6L3Nhwq/BTcfc1KeST1XcHWd4oQDFEePeRBhS3KqlVeA0ovnSFqfUBlcUt+3sZQGX4frcKPxUnoIyxpgEql4Y15AbDuzgBVMdYz3kQdteEgFphW93NlhpQU+3Ge9x9oApQKHn7kLoPVAFqccVUtiNXlgQUpxIH1bn6gGJmdR9o+mAg6I52AsoYawKgeZPx9KdzeRKpJ3VWPYl0+yPkE+T84NmfVxUFaBVPIsnjRhrQgD88iTSJXT8A6u2rGLwtixeXAvT5MYPHks58ytUHdErN7N28YUr2iahsZxsBZYw1HFB8Th7wwvrTvRa+L8HD5Q+OAlBvs3vuPA/kpCc3THr8pJdQgOon0jWgwQjv8AR7sEsD6h67n/NN4e3q9qUBxaPtGHXjlvqAFqO1mXHuL32TnD8eJ6CMsTqt8v6o+D+RGGN/TwSUMcYIKGOM/SQCyhhjf0YElDHGCChjjP2kfxtQxhj7eyKgjDFGQNl3duqQAAAAgGFQ/9ZvMH0BIQCSQAFeCBRAoABJoAAvBAogUIAkUIAXAgUQKEASKMALgQIIFCAJFOCFQAEECpAECvBCoAACBUgCBXghUACBAiSBAow9O0aJGIjiMP6IIVraaGWRWsZcIWthYRcslDQLYcsFq3gEy4W9gLewE68heARLb2CS1SgISmTjm5f5ftWW/2F2PwbWFwQUAAgoAPyIgAKALwgoABBQAPgRAYXn6pcde17WAhBQaKt3bHoVgIBCmcX3Z0cAAgplTYpeMzFmRUBBQOGBJkWXYg4BBQGFB2ymyOZq6COgIEVGV0MfAQUpMroa+ggoSJHR1dBHQEGKjK6GPgIKUmR0NfQRUJAio6uhj4CCFBldDX0EFKTI6GroI6AgRUZXQx8BBSkyuhr6CChIkdHV0EdAQYqMroY+AgpSZHQ19BFQkCKjq6GPgIIUGV0NfQQUpMjoaujbbkAXeREFpsgXX45/HoWuSVHUySPPNTdHQOFTQB+rOJXApHH1KBt59SDB61MUieeam6sIKPwJ6KIKLp+ttFqEfHyzAe1ujoDCm4DmsQQpzqWV8/40FlCJcwIKbwJaBPoCSwtpnQuMBTQtCCi8CaiFn8woorCPbzegEhFQENA/IKA9AkpAQUCHIaA9AkpAQUCHIaA9AkpAQUCHIaA9AkpAQUCHIaA9AkpA4V9AV08XLnEXTyuZPAJKQBGmsQJau+SDq2XiCCgBRZjGCWg2T76aZzJpBJSAIkyjBHTpksZsfVferWdJwy1lyggoAUWYxgho1vZzXspGOW8LOuk3KAEloAjTGAFti3ktn67bnsqEEVACijA9b//bWL/3M5NW9l7QKf+TRED/GtDj0zP57nb3al+GOd49I6D4f0fbD6jr3pulS2ZLWc4SV3ZvUie/ubk/kcODvc0HU97Yu9vYlqIwDuBPGnplkZWZUIKZdwtaIrohdu2NsUknqSFDqiLFsIiYLFgIZt7FS9SEfSAkwvjmZQSJ74tERDIfvCQSgg8i4ZPnPNeO2/aq3m1Jz+z5J7097T3n9tN+Oc89Zy0DagdQ4k4EmfwHoOmVmtYAmLTyRcMZUI566X5Aj+J0czkx6qyACifRuRyf5H7QwX1/Z3YMoHcIUNH4LwHNPnIgxzFzN2AOH+8/AP7PJAtoCNPmBUpCQNtyGVCOsuluQKlezweY6hQBOgYA8k13RZ+0tn6ted7a2uqD2BCgPS9JAZo+MqPgTbCPMOPBEEdvB/QqyCQGVNf2MaAcZdP9gOKk8wQQmc5maHYSp3ACp6PxTvYoQDfUe6SFT8qSB3T61on0fCFjCYDRml+7jgGV7uHhTHuVpjV6AeBdRNf6rdUloIvq9WWZBqDkKqE6F6ZWFWFPHEL9y+hC7S2afh4wgcoQtjziTde7iDaXAeWYojqgWLtfxKeNFc7mAASanRUbAeAiVvJxTo4eFxaVe99GPI4d6ho2a7hxQjQg+9nNvnuvrAZlUny2wNMxl+yfmTygA0cQoGlba7PAiD8vd6QANHtk4RQAqJ4xxZ/jw8aK+WvGDMnDXgtK97zuaKSdFR+Wvq5/puydYFjqfxOgU4C26CGEsA0QRk2PhHQToMMrsYsFoDgGh4SqxPFqLl5Dp2uE0c9yLVQS0do8+GYkpGn7GFCOOYoDSrdATZEr83GADry1DRV5dK/OC3DqemYUoNm7lpaUHXl10gXKpHhxLQmafhBJsw3omCH4JEOAwoaVBR70z0eU4lQVX7kzlpCWfxqEox9fyd6JhqU8nQJUcwHs1xftzq5E95BIUwnvmtqiTbACNCyGiOFTW/AcXuOQcQ1oF2++/aKdEW8WebiE50RHcUCTn4HCz0mZcKPm+4cGSBu0DaIAvXY6LMrfQU9zQZkUL87LRfGr0Sn7gE6bcb8px3HMlyUBFW/m+Mg/mI4mVqOGkI4TTqGlbFDtv6AUEZW9EwxLfeyswhd1AIpTSChGI9PKkT100AwognjVEw8ovsYj2go4yEUkG2ziw0UfEcbHMi/fA+XERm1AbdwDvfzyEIz98HFwGBkNRwFKDxDNBlAnG1aiY+7CMkgaULeDgmtG7oyF9cHgSIfPDChUFzahf1SHz5tPpxaUFggtZYPK9yYy2+idYFjqC3h7q/BhApQORpUuEAUxpzQDiiX5lnhAsUmMSkCLwDiHqpp45kUkTmwUBzTBKnwsoA+RzTl12Y+2IaOHogGdM2kU0K1RhWp4ZGplnhvlSh7QQDB4uHRNMBjMcjt8hOEmrwSUJrX0NlFb66GGP0eckw3CMWOC7P33YWqsS9ks4a0BrTIBSoX5R1uAvi8RWcOAcqyiOKCJ94GaARWF+8AdjbD90vhTk0b1BEBRUOmnzRLeP3M8gVe4mwCVNjpw3kiyOoxZJlQ7xEfIBk0ziUtTb+thSuye7QKg1iU8HdskoFimWwJKVxTj6RoUBpRjGbUBtfpPpHyalcYBCrsmncOp5+2ax3gLtAeU8JhAGXQO0BXGLNJN3hGgRnX+xLhz6c+4jyU4aVlPtzdlQ6wSHUQcZe9Ew1KfLgFqLCLhMQpQWptHKvGJFoosAZULUdAurgEQ8DCgHKuoDqhYcX+BzwFDHPm/8PGAYuX+rc6LE9EfNXNjAMUtTrROr9IiUlTsb2PakyUwLMmSgNL6kLF2fhiX2sUiEC0L4QK7qQEHZ0yhJSPZO8Gw1KdLgBKVkRZdjwZU8Ign8ZX2PqK3WAMa0v5sY9Lfl+DSPAPKsYrqgMIqEjTBtzFJQG/UrBeNU0s/NEQDioelEcW2MXUOUBl/TsGbB01iHioBpR1KYoWdNnsKE8XGJNriKRtAmz0FjrL334cpUMR3DVCg7fGfy6MAJRPFyUClrumPJ1sD6pIb6dOxpemNXgaUYxH1AY35PtB8+j5QS0DT7tI9zmun67yxgIJqG+m7Cig8OO5w7FwNElBcCqJ6HqeQYhsnbYRHLalo33Sko0GbPgWOHzt6f0owLPVFPH+dHac3xQQofyM9fxsTA8rhpBxQ/k2k3hsGlNObYgKUf5WTAWVAORwVAAU4upl+F34z/y58rwoDyulN6R5Ae9CfzO8woDIMKAPKYUDthQGVYUAZUA4Dai8MqAwDyoByGFB7YUBlGFAGlMOA2gsDKsOAMqAcBvQXe3dsGjEMhmH4x+c2O5gMkBWU9jqvYDxSxgk3VRaIzYG51pxB+tHzVC4/IXhR53ME9CCgAoqAniOgBwEVUAT0HAE9CKiAIqDnCOhBQAWUFgI6t/BPngqmOXb3IFlAp1lAaSagZYwujSV25TfIFdCxCCjNBHRdunyCTsva8/ETB3S7OQHlLT9xoccydteQaVwe8VQWb9BEAd1ubgkB5S0fcaW1zENn5rK+HP8+9G5L0fOjDI3bb05AaSmgdC9ninKupj4BRYqSrqY+AUWKkq6mPgFFipKupj4BRYqSrqY+AUWKkq6mPgFFipKupj4BRYqSrqY+AUWKkq6mPgHl6hR9RTafAoqA0oBbVgECSmV/t5y+AwSUsxRUPxFQ4J+dOiYAAIBhGOTf9Rx0bw4QAQ+BAlQIFECgAJNAASoECiBQgEmgABUCBRAowCRQgAqBAggUYBIoQIVAAQQKMAkUoEKgAAIFmAQKUCFQAIECTAIFqBAoHPvm85tEEMXxyTs2DdFNE8JBJJgUkg0BuppQDpgAkdJIpFc5gJpeSJv0CBfhRA817c0L/Qv8F6wX/xAP6s3Ev8HvvIFlFOIPtlSafZ+kuB3C24779sO8mVlBEIEKgiD8FhGoIAjCuiACFQRBEIEKgiD8FhGoIAjCuiACFQRBWGOBPohu3lHg9gQWhBui26pmlOHuPSelhNvFQ7UiNp4ScCqNf/dcjKjDB3FKi0CFW0qWNOeF3ZsQaJYmt0KcBkol34xcnHqYt6JeXTaJvOGWihET5NbpXnL4+yrrx3lepkfbOMuIqNkvJFRYWKVAm/U6UTWzhEDxKRGocLuBXOp1SKv4Z5sEF+hOy0n5MSJxws1Xhty2plEjx0SEJi+jYjgAR8vfOnstIvSs+lr3EdE1iA+BHrg4sUs9Eeh1CBT2655QaRmB4hKIQIVbjRkUjl14ZdUCBadU8k8aI0ePe8/2qZebRD0g6qDpyfsE3q2pYMToKI9Yn/Xp6jQwAm+WH23jpu8kVPJrQ4WGFQuUrxY892pE1G8rXVxc6LImgXecZx+jRJX7aI3wUcO/PsOo88wIFB/mBIxTCalQO9NxGvzaZoHqcJUtKwQaS91LqoXnO1BYT9hlxl/I9asLSvvZH3lLBX0zHFLn7j3kN9fE5+8xilw6kbMuDybi1IHM8GLKaq9t/oCNE38gHFigfDP6fazc29zi01fQkRDO4q5aoMcs0KbrvXAx5OfR5fnIxdXEUR2HPNZEyeG9GJm6HcQoHUPyLRCoU9ZxzvcdvOK6cWBEO8rPQqCx3yKcVRACE1yge/taoISEpfQs+8d0lMMQMeplWKBPnhK9iFLTSS2byFzDa117bcjMy0zvwQ4LFCpF07UJdEzVxrSPxTiPdU69b+gIvhgGORUqVivQyJsyFZAJSBlkEhrOeGj5KYrLHCN9eODqmRQXNoRrB9MrXNo5oc4CgVJvF7lAlZzJSwTumMBWCDRuhqiEENYVFmj30tTUNMgrK/v39rXQtEZZoAeEX/UdkVo+kVHD8znz5sT+ihILlJt8gTKlIDsHeHWY+1jLugMt7s3v3BGXPCxdhYhVCpTp5ZAJXobrFXwFI2VMoWEOYT/8t/O1hxmP8lOB8rfovECRf3hFq/EzAm9z6hStEGhsK0H432SJ8ZCzMe01ZWU/boaCwngtrbRAWXTIbAwKlk9kruERGqexBFqbzCH8LNA66Kggq/BkZs4g0J0WjH8wnYvATAU5w10VGla7Cn/++HOCpyq3zIwmpweIUQ8/RZ00ZuBv76xggaKSqeTmBIpDTghfoAjMNYkVghsF4X/Dq/D94Tscmly3sz8Ll55Fq685qXlsoXPaSS2fyDsnToor+D+PQGsqMN14GZNoWqDoVTp5OJmLUCp5BbkWw7MCsdIS3los9wVanAm0NBHoxlvqP9YMZyNQLsz/XqBWCFmaF9YCS1om1+3s32l5mTH+/VWgARL5mErQcl4PX+fmQFHQbV+rQHmNP60Fiti9vf3JXATDGw/Cwg0LdOwXMZZA8WtRWZh3xrR56Qs08naxQD0j16L+kb1NwjoxJ1A7+yHTziFmpOZK+OUTGWU/R16wCs9N1ypQEDcCRezqRyooX6A4EoGuRqD2IpIt0KyL32HJd3a6YWWyyXNEeMEnFgsUxQJ/Fc5CiECF9WBOoHb2Q2593gA0WUSq8pqSkwqQyBsnTp2HnvP7QP2m5MtccIFGPjQS1ghUnVITfdAd6b5/pyYLw2HhZgVqbWOyBRqJEwqXCzdtpxtSjPCJpH5vRPXFArW3MZkQIlBhPZgTqJ390J15YHm2jemCtzEFSORjMiPcRU8ifTkkPSVLCBn0SSTcexyKKjkj0Kx+9Ig78iBqzltQoeGmBarMVuJdZQvUbDBu9tt2urE607j0p3prRNZdKNDS1QXvxZ+FEIEK68GcQK3s5zYeas420vfbcScVJJGfl6fmSl7NPQtvHo/3hrngz8LjL5xGh0B5yiBtOvLktEzw/+fwrCFBoIIgCIIIVBAE4TeIQH+wU8c2DUNRAEX9cc0qjMMkWQOJIdx5EndZw2U2IMWnQnooim09v5yzwO0uQBYGCmCgACEDBcjCQAEMFCBkoABZGCiAgQKEDBQgCwMFMFCAkIECZGGgAAYKEDJQgCwMFMBAAUIGCpCFgQIYKEAo9UDfALLLOlCAl2KgAAYKEDJQgCwMFMBAAUIGChRzWcedrd9DZ6BAJZfxALceM1CgknU8Qo8ZKFDJ/W63j2FPXwYK1HS/2+ewLwMFavp7t/MkDBR4zFnudkDifQB4xFnuZqBAdQYK8Ozd5qVtaZkNFCju927XqW1ruhooUFu/2zy1rU2zgQKl9bstbXuLgQKl9bu1PRgoUJqBAhgowD8M1EDhh707C4kqiuM4/g86g0a0kEVYIA1aBJNgD1NDBvNUvfiQMoIwGUSUJhRWZhAWLQ9jJWQW2UO2GZVmi+0LZRSVRSlttEhZUEHLSxS0PfS/Z87ozL3WjDJjp5nfB3L0dK/n7cu591xnQA8IKAAAAgoAEAYCioACgB4QUAAABBQA+kXV41yHzZH7uIoSHgIKAL2x3GELcCynBIeAAkDkMgttwQozKaEhoAAQsRKHjbm37CrYtcVtY44SSmQIKABEKtPoZ2EB+RUUGgVN6DVoXwK637thgLJ6aSIE9MRRkURS0+kLIu/ABGKpwm966DHZImBa8LhSIUYPJXb52QVRez/NMt700umpnZlF6ns5F4A2jGIupm6LjZ5SbG3OITN95ogsoJXeDQkc0LKFwh/B28eEVD3UElA+xhzQZUHjSl2RP5TpRcKwe5JpPNUpDAdTiOxnOZ83+d9OAtDEctXPTDJkqoIupxgasm/t56sUQqc5Igpop4s6Ei2g+fMaSBp01pm3UAW0vHpmg73pqFiVZSwaV80zuEKO4fOkpowF67vHleHl65xGKI+Uigcp1HRLXHOFjB/a5jneYL+xUMwnGpfh4fMWjTDmAtCDQ643Cxw2dwmVuG2OArkmdVDscNuSk0PrptUcEQX0uXeStz7BApqqumfPFic/jlA/LMohViamjCHKlktMyzHKVjExzTJe4bmeYYSyTDT75Dp0dGXIeIU4nCKn3j2e0uUk/NI8ngC0UMXLzQKZUVsu5dpkOgv4pYpiQrWN/UyjLnrNEUlA68csfU6v5HfbXURtMqCd3BLvK1/cB5TGPcwZFBpH2Tb7FTXW4zFHSj3FlvEdRQebVCi5rkSjRori4PEh58U0Yicyzmyny6X8hQ/FChS0wdfrbqJMm4Hk13wit7yqjw3VthVLqItmc0QS0PfU0TKsTa49qa29OMfFAW1Z7e1oX5/liv+AMlNAZf9MY6af5SLSNM43AIaOkwHNlgGV/xU8zj9PI39Yp5O9QlTPnHHHyfdbAfTAi84tJJNp20t7bTKntMVYjkbVrC9vXNa26TmHqlvYXfdKuep0GRltSeHv99MrmdYEDOiJW8bqcvIIUXtBrHs3tadjhpeL+aZxLqInidL5XqfKq7wVmhQynu1fbh7axgGlIVuNHaVH2IUHbfC1+y5+Kcm17c2n/L223BIi2hXtm6CzviYnv3VZ2qbnHBEEtGXYUrkK5Xuh9CmwJ+/z1suWxmVAU0VAkjWOs+6Ja5y5UeVC4vpZj9njbPaZA8oX6mmULtRm0Zws2jSCf3/wOJ+2YCPR5XIhA8qbSUKcwgIUtCFvgfa0M09RNONXMuO6mdqm5xwRBPQ5dahUqt0jfuHdozjeRCqrqalZKGr560ZLHHnleTBHDg5sIGNHfnSl9ZhjaoNJjQcu4EmF0n5WGE7eFUkh4/y7DadKPdNp8nlRvebSM7EAjzGBLvplBXr5a7Ksm7ltes4RQUB95PcpYQL6l0t4btyjSdStbpsotgQ0vejM9tBzuZkeflGh5NXlUZH38MMxz/TQ8UF3uNv3j5RylMucJ415Up1PcBEPmuife6A7ziUb1prapucc4QPaSUsb2XZqk5fwKqA+r9yVj89L+D8EVK0/UyjIqJHWy3zeTb/mMp17IkMoMpXSoW3Nvp7G9zgPpwSekhpezoEG0EI/7cKrupnapucc4QO631/N+jHe1k6Sm0irE3YTydJPXoEuWG8OaF0Rj5nOHWcNJV/IL3OZxtUkSWS/goCCbvrrOVCum7Vtes4RLqBqn0jdCq3sfoxpWAI+xrSI+/l6nqGB6h5elPdAeUPdFFBu3+EU07mKulSXXjwTzT7ruH32PXn6VlF9VW7F8+U8gB56+Eskt1yVsujWzdI2TecIG1D5CL0qqXqQ/n33g/SVcRtQZolgqgiYxsnzqx5qDiXvsRfT3wOaqk41j2cLw+65xtLzmBB5NReE5w0BaMLYcX/Mr/lkyI/Z38Jz3Sxt03MOvJ1dHwO66Ntdp/DU3m+whLKCF6XhA7ru6eA0y/gPjua7lVlEcqOJJ8g7MJUAtFEoCxr7d2PiulnapuUcCCgA9PH9QN2xez/Quu9XyUTHORBQAMA70iOgAPBn+EwkPwQUAQXoG3wqJyGgCCjAv1S1WH4u/GJ8LjwCCgCAgAIAhIOAIqAAoAcEFAAAAQUACAMB7VJDAAC9gYB2eUoAAL2BgCKgAKAHVbfWAdHXioACQFxTdWusHxBt9Y0IKADEtUDd2uuj3c92inVAxxIAwD9gqVtja3Sv3xsJAQWA+Gat2/8zBQIKAL3zv9QNAQWAeIeAAgDoVjcEFADiHQL6m506uEEQCIAAeAn+7MICrMH+27EBTXiS7AvIcswUMQBtuwkUmN1/t/c41EugwJyW4wkUmNN3OcFnrAQKTGU76FX+FCiAQAEygQK0ECiAQAEigQK0eI79PADatQYKcCsCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQgBYCBRAoQCRQ+LVTxzQAwDAMwPoXZrGO1xhU2jPlsEEYUggUQKAAK4ECpBAogEABVgIFSCFQAIECrAQKkEKgAAIFWAkUIIVAAQQK8NV0TQHwbE5fwSyOw/nN0J8AAAAASUVORK5CYII="
               alt="twilio find number"></p>
@@ -364,10 +364,10 @@
           <h2 id="whatsapp-360dialog-sandbox"><a href="#whatsapp-360dialog-sandbox" class="header-anchor">#</a> WhatsApp
             + 360Dialog Sandbox</h2>
           <p><img src="../assets/img/provider2.ae8c65ef.png" alt="provider"></p>
-          <p>Go &quot;Bots&quot; -&gt; &quot;WhatsApp&quot; then &quot;360Dialog&quot; on UChat and in your WhatsApp
+          <p>Go &quot;Bots&quot; -&gt; &quot;WhatsApp&quot; then &quot;360Dialog&quot; on Smart ChatBot and in your WhatsApp
             App, add &quot;+4930609859535&quot; as a new contact and sent &quot;START&quot; to it.</p>
           <p><img src="../assets/img/3601.c5252c8f.png" alt="360"></p>
-          <p>Copy the &quot;api-key&quot; back to UChat, click &quot;Add WhatsApp Number&quot;:</p>
+          <p>Copy the &quot;api-key&quot; back to Smart ChatBot, click &quot;Add WhatsApp Number&quot;:</p>
           <p><img src="../assets/img/3602.e0058c20.png" alt="360"></p>
           <p>Again put the number &quot;+4930609859535&quot; here and paste the API key. After adding this number you
             can click the &quot;Create Bot&quot; to start building a flow.</p>
@@ -478,7 +478,7 @@
             your chatbot.</p>
           <p><img src="../assets/img/gmb5.1adca64e.png" alt="google"></p>
           <p>While for a non-local business, after submitting the request, you will receive 2 emails from Google. One
-            email asks you to reply for approving UChat to help with the bot automation in a specified format (security
+            email asks you to reply for approving Smart ChatBot to help with the bot automation in a specified format (security
             key needed). Another email will give you the security key. It will take you a few days (up to 7 days) to get
             your agent verified.</p>
           <h3 id="launch-agent"><a href="#launch-agent" class="header-anchor">#</a> Launch Agent</h3>
@@ -494,7 +494,7 @@
           <p><img src="../assets/img/gmb8.f4b2961e.png" alt="google"></p>
           <p>To launch it again, just click on &quot;Launch Agent&quot; again.</p>
           <h3 id="talk-to-google-bot"><a href="#talk-to-google-bot" class="header-anchor">#</a> Talk to Google Bot</h3>
-          <p>Before you launch your bot, goto *<em>Google</em> section on your UChat dashboard. Visit the <strong>Test
+          <p>Before you launch your bot, goto *<em>Google</em> section on your Smart ChatBot dashboard. Visit the <strong>Test
               Url</strong> or scan the QR code to talk to the bot.</p>
           <p>After your bot launched, Google your business name in a webpage. Click on the <strong>CHAT</strong> button
             to start the conversation:</p>
@@ -526,14 +526,14 @@
           <p>You will find your group id in the URL (see above screenshot). Click on &quot;API usage&quot;, let's create
             an access token.</p>
           <p><img src="../assets/img/vk3.ef438549.png" alt="vk"></p>
-          <p>Click on &quot;Create token&quot;, UChat only need to access your community management and messages. Tick
+          <p>Click on &quot;Create token&quot;, Smart ChatBot only need to access your community management and messages. Tick
             the options and hit &quot;Create&quot;.</p>
           <div class="custom-block tip">
             <p class="custom-block-title">TIP</p>
             <p>You will need to download the VK application on your phone because VK will send you notifications for
               confirming some actions of the community.</p>
           </div>
-          <p>Copy your token and group id and now let's go back to UChat.</p>
+          <p>Copy your token and group id and now let's go back to Smart ChatBot.</p>
           <p><img src="../assets/img/vk4.8bff25d4.png" alt="vk"></p>
           <p>Go to VK channel, click &quot;Add New Bot&quot; and fill in your group id and access token, hit
             &quot;Add&quot;.</p>
@@ -566,23 +566,23 @@
               won't show.</li>
             <li>in a question step, there are 5 quick answers at most.</li>
             <li>in a file question, the file uploaded by the user is sent to VK and VK return an URL pointing to the
-              file back to UChat. Please note that this URL isn't a direct file link. Therefore you cannot send a file
+              file back to Smart ChatBot. Please note that this URL isn't a direct file link. Therefore you cannot send a file
               type message based on this URL. You can print the URL instead and by clicking this URL, users can access
               the file.</li>
           </ol>
           <h2 id="intercom-bot"><a href="#intercom-bot" class="header-anchor">#</a> Intercom Bot</h2>
-          <p>Intercom is a popular live chat platform, UChat integration with Intercom will help reduce 80% of the
+          <p>Intercom is a popular live chat platform, Smart ChatBot integration with Intercom will help reduce 80% of the
             support through chatbot automation &amp; A.I.</p>
           <h3 id="key-benefits"><a href="#key-benefits" class="header-anchor">#</a> Key Benefits</h3>
           <p>Solve the customer's support issues in the chatbot automation and Google Artificial intelligence before
             they hit your support team.</p>
           <h4 id="no-coding-knowledge-required"><a href="#no-coding-knowledge-required" class="header-anchor">#</a> No
             Coding Knowledge Required</h4>
-          <p>You don’t need to be a developer or learn coding to use UChat. With our drag &amp; drop flow builder, you
+          <p>You don’t need to be a developer or learn coding to use Smart ChatBot. With our drag &amp; drop flow builder, you
             can easily build out your automation logic.</p>
           <h4 id="_11-channels-supported-increasing"><a href="#_11-channels-supported-increasing"
               class="header-anchor">#</a> 11+ channels supported &amp; increasing</h4>
-          <p>Currently, UChat connects your intercom with your customers from Instagram, Messenger, WhatsApp, Google
+          <p>Currently, Smart ChatBot connects your intercom with your customers from Instagram, Messenger, WhatsApp, Google
             Business Messenger, Telegram, Viber, Line, SMS, Voice, Slack, Wechat, and more channels are added to the
             platform. Reach your customer through automation &amp; live chat wherever they are.</p>
           <h3 id="omnichannel-flow-builder"><a href="#omnichannel-flow-builder" class="header-anchor">#</a> Omnichannel
@@ -597,7 +597,7 @@
             support.</p>
           <h4 id="integration-with-3rd-party"><a href="#integration-with-3rd-party" class="header-anchor">#</a>
             Integration with 3rd party</h4>
-          <p>UChat has built-in integration with Stripe, Paypal, Cloudinary, Shopify, Woocommerce, Calendly, Slack,
+          <p>Smart ChatBot has built-in integration with Stripe, Paypal, Cloudinary, Shopify, Woocommerce, Calendly, Slack,
             Google Sheet, Twilio, SingalWire, message Media, Gmail, Sendgrid, Mailchimp, ActiveCampaign, Zapier,
             Integromat &amp; Pabbly Connect. You can easily sync the leads &amp; sales into your own CRM or Project
             management tools.</p>
@@ -606,7 +606,7 @@
           <h4 id="step-1-connect-with-your-intercom-account"><a href="#step-1-connect-with-your-intercom-account"
               class="header-anchor">#</a> Step 1: Connect with your Intercom account</h4>
           <p><img src="../assets/img/intercom-01.77fd3abb.png" alt="title"></p>
-          <p>In this step, you will need to connect with your intercom account inside of UChat. After you log in UChat,
+          <p>In this step, you will need to connect with your intercom account inside of Smart ChatBot. After you log in Smart ChatBot,
             you need to go to integration, and then go to Intercom, click the connect intercom account button.</p>
           <h4 id="step-2-authorize-intercom-account"><a href="#step-2-authorize-intercom-account"
               class="header-anchor">#</a> Step 2: Authorize intercom account</h4>
@@ -620,7 +620,7 @@
           <h4 id="step-3-switch-livechat-to-intercom"><a href="#step-3-switch-livechat-to-intercom"
               class="header-anchor">#</a> Step 3: Switch livechat to intercom</h4>
           <p><img src="../assets/img/intercom-04.acac94fd.png" alt="title"></p>
-          <p>After you integrate with the intercom, you now need to create an omnichannel chatbot inside of UChat. You
+          <p>After you integrate with the intercom, you now need to create an omnichannel chatbot inside of Smart ChatBot. You
             might need to link the channels we currently support(Facebook messenger, Instagram, WhatsApp, Google
             Business Messenger, WeChat, Line, Viber, Telegram).</p>
           <p>After you linked the channel, you can open the bot, then go to the settings of the omnichannel, and select
@@ -631,7 +631,7 @@
               href="#step-1-trigger-talk-to-human-pause-automation-anywhere-in-the-flow" class="header-anchor">#</a>
             Step 1: Trigger “Talk to Human/Pause automation” anywhere in the flow</h4>
           <p><img src="../assets/img/intercom-06.5995627e.png" alt="title"></p>
-          <p>The benefits of using UChat with intercom is that, your business can automate at least 80% with chatbot
+          <p>The benefits of using Smart ChatBot with intercom is that, your business can automate at least 80% with chatbot
             &amp; A.I. You can easily build your chatbot with our visual flow builder, and if at any point, your
             customer needs any help.</p>
           <p>You can connect with an Action, and then go to Basic Actions, then you can find “Talk to human/Pause
@@ -639,7 +639,7 @@
             support.</p>
           <p>After your customer initiates a conversation, you will see the new contacts created from social channels
             along with their questions.</p>
-          <p>UChat will pull the user’s profile, email &amp; phone to create the contact if there is any.</p>
+          <p>Smart ChatBot will pull the user’s profile, email &amp; phone to create the contact if there is any.</p>
           <p><img src="../assets/img/intercom-07.fa6d5704.png" alt="title"></p>
           <p>And now your intercom agent can talk directly back to the customer from 11+ social channels.</p>
           <p>By default, the live chat is set at 30 mins, after the time passed, if there is no active conversation, the
@@ -651,9 +651,9 @@
             your agent.</p>
           <p>Meanwhile, your intercom agent can also send images &amp; files back to the user.</p>
           <p>If the intercom agent adds any notes to the customer/conversation, the note content will also sync to
-            UChat’s subscribers</p>
+            Smart ChatBot’s subscribers</p>
           <p><img src="../assets/img/intercom-09.e28b6017.png" alt="title"></p>
-          <p>Please note that you can also see all the live chat history inside of UChat’s live chat.</p>
+          <p>Please note that you can also see all the live chat history inside of Smart ChatBot’s live chat.</p>
           <h4 id="step-3-ending-conversation"><a href="#step-3-ending-conversation" class="header-anchor">#</a> Step 3:
             Ending conversation</h4>
           <p>If your intercom live chat support helps the user solve the issue, and when they close the conversation,

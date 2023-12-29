@@ -8,7 +8,7 @@
           <h1 id="bot-templates"><a href="#bot-templates" class="header-anchor">#</a> Bot Templates</h1>
           <h2 id="create-flows-bots"><a href="#create-flows-bots" class="header-anchor">#</a> Create Flows/Bots</h2>
           <p>You can create a blank flow or install a flow/subflow from a template.</p>
-          <p>To visit UChat template store, go <strong>Dashboard</strong> - <strong>Template Store</strong>. You will
+          <p>To visit Smart ChatBot template store, go <strong>Dashboard</strong> - <strong>Template Store</strong>. You will
             need to connect to a channel before you install a template.</p>
           <h2 id="create-templates"><a href="#create-templates" class="header-anchor">#</a> Create Templates</h2>
           <p>A template is created from one of your existing flows and the flow thereafter becomes the source flow of

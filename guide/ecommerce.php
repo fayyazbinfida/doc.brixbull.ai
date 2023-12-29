@@ -8,7 +8,7 @@
           <h1 id="ecommerce"><a href="#ecommerce" class="header-anchor">#</a> Ecommerce</h1>
           <h2 id="built-in-ecommerce-system"><a href="#built-in-ecommerce-system" class="header-anchor">#</a> Built-in
             Ecommerce System</h2>
-          <p>With the built-in Ecommerce system, you can easily manage your products and discounts with UChat. And your
+          <p>With the built-in Ecommerce system, you can easily manage your products and discounts with Smart ChatBot. And your
             bot can then display and sell products for you automatically.</p>
           <p>To access the Ecommerce system, click &quot;Ecommerce&quot; from the left sidebar on your dashboard.</p>
           <p><img src="../assets/img/ecommerce.b79762d8.png" alt="ecommerce"></p>
