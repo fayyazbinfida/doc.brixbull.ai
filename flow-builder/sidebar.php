@@ -800,6 +800,13 @@
           </li>
           <li>
             <a href="multi-language.php" class="sidebar-link">Multiple Languages</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="multi-language.php#how-to-add-a-new-language" class="sidebar-link">
+                  How to add a new Language
+                </a>
+              </li>
+            </ul>
           </li>
           <li>
             <a href="shortcuts.php" class="sidebar-link">Shortcuts</a>
@@ -809,6 +816,23 @@
           </li>
           <li>
             <a href="inbound-webhooks.php" class="sidebar-link">Inbound Webhooks</a>
+            <ul class="sidebar-sub-headers">
+              <li class="sidebar-sub-header">
+                <a href="inbound-webhooks.php#create-inbound-webhook" class="sidebar-link">
+                  Create Inbound Webhook
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="inbound-webhooks.php#webhook-logs" class="sidebar-link">
+                  Webhook Logs
+                </a>
+              </li>
+              <li class="sidebar-sub-header">
+                <a href="inbound-webhooks.php#demo-booking-confirmation" class="sidebar-link">
+                  Demo: Booking Confirmation
+                </a>
+              </li>
+            </ul>
           </li>
         </ul>
       </section>
@@ -819,6 +843,11 @@
           <span>Broadcasts</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="broadcast.php" aria-current="page" class="active sidebar-link">Broadcasts</a>
+          </li>
+        </ul>
       </section>
     </li>
     <li>
@@ -827,6 +856,14 @@
           <span>Settings</span>
           <span class="arrow right"></span>
         </p>
+        <ul class="sidebar-links sidebar-group-items">
+          <li>
+            <a href="greeting.php" aria-current="page" class="active sidebar-link">Greeting Text</a>
+          </li>
+          <li>
+            <a href="ice-breakers.php" class="sidebar-link">Ice Breakers</a>
+          </li>
+        </ul>
       </section>
     </li>
   </ul>
