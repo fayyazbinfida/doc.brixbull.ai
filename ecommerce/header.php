@@ -271,73 +271,73 @@ include('../config.php');
               <div class="dropdown-wrapper"><button type="button" aria-label="Integration" class="dropdown-title"><span
                     class="title">Integration</span> <span class="arrow right"></span></button>
                 <ul class="nav-dropdown" style="display:none;">
-                  <li class="dropdown-item"><!----> <a href="../integration/index.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/index.php" class="nav-link">
                       Overview
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/stripe.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/stripe.php" class="nav-link">
                       Stripe
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/paypal.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/paypal.php" class="nav-link">
                       PayPal
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/cloudinary.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/cloudinary.php" class="nav-link">
                       Cloudinary
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/shopify.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/shopify.php" class="nav-link">
                       Shopify
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/fb-manager.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/fb-manager.php" class="nav-link">
                       Facebook Business
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/calendly.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/calendly.php" class="nav-link">
                       Calendly
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/slack.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/slack.php" class="nav-link">
                       Slack
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/slack-agent.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/slack-agent.php" class="nav-link">
                       Slack Agent
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/dialogflow.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/dialogflow.php" class="nav-link">
                       Dialogflow
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/google-spreadsheet.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/google-spreadsheet.php" class="nav-link">
                       Google Spreadsheet
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/data-store.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/data-store.php" class="nav-link">
                       Data Store
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/twilio.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/twilio.php" class="nav-link">
                       Twilio
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/signalwire.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/signalwire.php" class="nav-link">
                       SignalWire
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/email.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/email.php" class="nav-link">
                       SMTP / Gmail / SendGrid
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mailchimp.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mailchimp.php" class="nav-link">
                       MailChimp
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/zapier.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/zapier.php" class="nav-link">
                       Zapier
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/integromat.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/integromat.php" class="nav-link">
                       Integromat
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/pabbly.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/pabbly.php" class="nav-link">
                       Pabbly
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/integrately.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/integrately.php" class="nav-link">
                       Integrately
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/mark/videosdk.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/mark/videosdk.php" class="nav-link">
                       VideoSdk
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/intercom.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/intercom.php" class="nav-link">
                       Intercom
                     </a></li>
-                  <li class="dropdown-item"><!----> <a href="../integration/freshchat.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/freshchat.php" class="nav-link">
                       Freshchat
                     </a></li>
                 </ul>
