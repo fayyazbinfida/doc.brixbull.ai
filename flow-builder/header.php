@@ -348,7 +348,7 @@ session_start();
                         <div class="nav-item">
                             <a href="<?php echo $_SESSION['PATH'];?>/mobile/mobile.php" class="nav-link">Mobile App</a>
                         </div>
-                        <div class="nav-item">
+                        <!-- <div class="nav-item">
                             <div class="dropdown-wrapper">
                                 <button type="button" aria-label="For Developers" class="dropdown-title">
                                     <span class="title">For Developers</span>
@@ -374,7 +374,7 @@ session_start();
                         </div>
                         <div class="nav-item">
                             <a href="<?php echo $_SESSION['PATH'];?>/faq/index.php" class="nav-link">FAQ</a>
-                        </div>
+                        </div> -->
                         <div class="nav-item">
                             <a href="https://www.brixbull.ai/" target="_blank" rel="noopener noreferrer" class="nav-link external">
                                 Smart ChatBot Home

@@ -347,18 +347,18 @@
                   class="nav-link router-link-exact-active router-link-active">
                   Mobile App
                 </a></div>
-              <div class="nav-item">
+              <!-- <div class="nav-item">
                 <div class="dropdown-wrapper"><button type="button" aria-label="For Developers"
                     class="dropdown-title"><span class="title">For Developers</span> <span
                       class="arrow right"></span></button>
                   <ul class="nav-dropdown" style="display:none;">
-                    <li class="dropdown-item"><!----> <a href="../for-developers/index.php" class="nav-link">
+                    <li class="dropdown-item"> <a href="../for-developers/index.php" class="nav-link">
                         Dynamic Content
                       </a></li>
-                    <li class="dropdown-item"><!----> <a href="../for-developers/API/index.php" class="nav-link">
+                    <li class="dropdown-item"> <a href="../for-developers/API/index.php" class="nav-link">
                         API
                       </a></li>
-                    <li class="dropdown-item"><!----> <a href="../for-developers/my-apps/index.php" class="nav-link">
+                    <li class="dropdown-item"> <a href="../for-developers/my-apps/index.php" class="nav-link">
                         Mini-App
                       </a></li>
                   </ul>
@@ -369,8 +369,8 @@
                 </a></div>
               <div class="nav-item"><a href="../faq/index.php" class="nav-link">
                   FAQ
-                </a></div>
-              <div class="nav-item"><a href="https://www.uchat.com.au/" target="_blank" rel="noopener noreferrer"
+                </a></div> -->
+              <div class="nav-item"><a href="https://www.brixbull.ai/" target="_blank" rel="noopener noreferrer"
                   class="nav-link external">
                   Smart ChatBot Home
                   <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"

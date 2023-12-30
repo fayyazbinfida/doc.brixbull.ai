@@ -343,50 +343,51 @@ include('config.php');
                                 </li>
                             </ul>
                         </div>
-                        </div>
-                        <div class="nav-item">
-                            <a href="ecommerce/index.php" class="nav-link">Ecommerce</a>
-                        </div>
-                        <div class="nav-item">
-                            <a href="mobile/mobile.php" class="nav-link">Mobile App</a>
-                        </div>
-                        <div class="nav-item">
+                    </div>
+                    <div class="nav-item">
+                        <a href="ecommerce/index.php" class="nav-link">Ecommerce</a>
+                    </div>
+                    <div class="nav-item">
+                        <a href="mobile/mobile.php" class="nav-link">Mobile App</a>
+                    </div>
+                    <!-- <div class="nav-item">
                         <div class="dropdown-wrapper">
                             <button type="button" aria-label="For Developers"class="dropdown-title">
                                 <span class="title">For Developers</span>
                                 <span class="arrow right"></span>
                             </button>
                             <ul class="nav-dropdown" style="display:none;">
-                                <li class="dropdown-item"><!---->
+                                <li class="dropdown-item">
                                     <a href="for-developers/index.php" class="nav-link">Dynamic Content</a>
                                 </li>
-                                <li class="dropdown-item"><!---->
+                                <li class="dropdown-item">
                                     <a href="for-developers/API/index.php" class="nav-link">API</a>
                                 </li>
-                                <li class="dropdown-item"><!---->
+                                <li class="dropdown-item">
                                     <a href="for-developers/my-apps/index.php" class="nav-link">Mini-App</a>
                                 </li>
                             </ul>
                         </div>
-                        </div>
-                        <div class="nav-item">
-                            <a href="partner/about.php" class="nav-link">Partner</a>
-                        </div>
-                        <div class="nav-item">
-                            <a href="faq/index.php" class="nav-link">FAQ</a>
-                        </div>
-                        <div class="nav-item">
-                            <a href="https://www.app.brixbull.ai/" target="_blank" rel="noopener noreferrer" class="nav-link external">
-                                Smart ChatBot Home
-                                <span>
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
-                                        <$_SESSION['PATH']; fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></$_SESSION['PATH'];>
-                                        <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
-                                    </svg>
-                                    <span class="sr-only">(opens new window)</span>
-                                </span>
-                            </a>
-                        </div> <!---->
-                    </nav>
-                </div>
-            </header> 
+                    </div> -->
+                    <!-- <div class="nav-item">
+                        <a href="partner/about.php" class="nav-link">Partner</a>
+                    </div>
+                    <div class="nav-item">
+                        <a href="faq/index.php" class="nav-link">FAQ</a>
+                    </div> -->
+                    <div class="nav-item">
+                        <a href="https://www.app.brixbull.ai/" target="_blank" rel="noopener noreferrer" class="nav-link external">
+                            Smart ChatBot Home
+                            <span>
+                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound">
+                                    <$_SESSION['PATH']; fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></$_SESSION['PATH'];>
+                                    <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
+
+                                </svg>
+                                <span class="sr-only">(opens new window)</span>
+                            </span>
+                        </a>
+                    </div>
+                </nav>
+            </div>
+        </header> 
