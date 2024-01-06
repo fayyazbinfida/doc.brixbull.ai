@@ -29,7 +29,7 @@
               class="header-anchor">#</a> How to create a chatbot in omnichannel</h3>
           <p>From the left-hand menu press <strong>omnichannel</strong>. You will then have two options to create your
             omnichannel chatbot.</p>
-          <p><img src="../assets/img/omni-channel-01.33a8cdb2.png" alt="title"></p>
+          <p><img src="../assets/img/Create a ChatBot in Omnichannel_240105.png" alt="title"></p>
           <p>1- You can create a completely new chatbot. If you are starting with an empty workspace where you don’t
             have any chatbots yet, this will be the most likely option you will choose.</p>
           <p>2- If you already created a chatbot into a channel and want to use this same chatbot inside of your
@@ -39,10 +39,10 @@
           <p>If you selected the <strong>“create new bot”</strong> then you will be taken to the template store where
             you can select any of the available templates, or select the option <strong>“Blank Template”</strong>. This
             option lets you start from scratch and you can build the chatbot to your own liking.</p>
-          <p><img src="../assets/img/omni-channel-02.a1526a01.png" alt="title"></p>
+          <p><img src="../assets/img/Select Any template_240105.png" alt="title"></p>
           <p>Once you made your choice you will be taken to the window where you are able to name your chatbot, along
             with adding a description.</p>
-          <p><img src="../assets/img/omni-channel-03.33aad8ab.png" alt="title"></p>
+          <p><img src="../assets/img/Name the Chatbot_240105.png" alt="title"></p>
           <p>Once you are done press the green button named <strong>“create bot”</strong> and you will be able to
             connect the channels.</p>
           <h3 id="how-to-connect-channels-to-omnichannel"><a href="#how-to-connect-channels-to-omnichannel"
@@ -53,7 +53,7 @@
           <p>If you did not connect any channel yet to your workspace then it will take you to that specific channel to
             do so. Once you have added them you will be able to link them to this omnichannel chatbot.</p>
           <p>You can unlink them at any time by pressing the button on the right-hand side.</p>
-          <p><img src="../assets/img/omni-channel-05.22a761f2.png" alt="title"></p>
+          <p><img src="../assets/img/Unlink Any channels_240105.png" alt="title"></p>
           <h3 id="how-to-create-an-omnichannel-flow"><a href="#how-to-create-an-omnichannel-flow"
               class="header-anchor">#</a> How to create an omnichannel flow</h3>
           <p>Now that you have created the chatbot and connected your channels you are ready to create your chatbot.</p>

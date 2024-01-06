@@ -148,7 +148,7 @@
           </ul>
           <h3 id="invite-delete-edit-role-of-member"><a href="#invite-delete-edit-role-of-member"
               class="header-anchor">#</a> Invite, Delete &amp; Edit Role of Member</h3>
-          <p><img src="../assets/img/members.e21d4321.png" alt="overview of members"></p>
+          <p><img src="../assets/img/Invite_delete_Edit_240105.png" alt="overview of members"></p>
           <p>(Owner Only) Follow steps 1, 2 and 3 in the above screenshot to send out an invitation to a new member with
             his/her email address and role setting.</p>
           <p>If the new member is already an Smart ChatBot user, he/she can accept the invitation in the Smart ChatBot notification
