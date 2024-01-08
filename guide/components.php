@@ -11,7 +11,7 @@
           <p>After logging in, your dashboard will look like the above. Feel free to explore it! 😆</p>
           <h2 id="sidebar"><a href="#sidebar" class="header-anchor">#</a> Sidebar</h2>
           <p><img
-              src="../assets/img/Platform Overview_SideBar.png"
+              src="../assets/img/Platform_Overview_SideBar.png"
               alt="overview of sidebar"></p>
           <h3 id="dashboard"><a href="#dashboard" class="header-anchor">#</a> Dashboard</h3>
           <p>The dashboard shows you an overview of your workspace (team). Click the three buttons at the bottom for
