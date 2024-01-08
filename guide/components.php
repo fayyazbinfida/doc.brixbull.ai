@@ -7,7 +7,7 @@
         <div class="theme-default-content content__default">
           <h1 id="platform-overview"><a href="#platform-overview" class="header-anchor">#</a> Platform Overview</h1>
           <h2 id="overview"><a href="#overview" class="header-anchor">#</a> Overview</h2>
-          <p><img src="../assets/img/dashboard.f7b74581.png" alt="overview of login"></p>
+          <p><img src="../assets/img/Platform_Overview.png" alt="overview of login"></p>
           <p>After logging in, your dashboard will look like the above. Feel free to explore it! 😆</p>
           <h2 id="sidebar"><a href="#sidebar" class="header-anchor">#</a> Sidebar</h2>
           <p><img

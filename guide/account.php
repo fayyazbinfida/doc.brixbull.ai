@@ -101,10 +101,10 @@
             third-party automation services such as Zapier, Pabbly Connect, Integrately, Integromat, etc.</p>
           <h2 id="user-settings-timezone"><a href="#user-settings-timezone" class="header-anchor">#</a> User Settings
             (Timezone)</h2>
-          <p><img src="../assets/img/user.855320c2.png" alt="user setting"></p>
+          <p><img src="../assets/img/User_Setting_(Time Zone).png" alt="user setting"></p>
           <p>In the upper right corner, click your user name and &quot;Your Settings&quot;. Moreover, you can find
             support links here. For example, try &quot;Quick Tour&quot; to get familiar with your dashboard!</p>
-          <p><img src="../assets/img/user2.ebeba636.png" alt="user setting"></p>
+          <p><img src="../assets/img/User Setting (Time Zone)_2.png" alt="user setting"></p>
           <div class="custom-block tip">
             <p class="custom-block-title">TIP</p>
             <p>The timezone setting of an Smart ChatBot user will affect the time shown in the web portal such as the time shown
