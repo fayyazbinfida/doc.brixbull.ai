@@ -85,7 +85,7 @@
               alt="go to accounts"></p>
           <p>On the upper left corner of your dashboard, click a workspace name to switch to the workspace. By clicking
             1 and 2, you will jump to the workspace management page:</p>
-          <p><img src="../assets/img/accounts.4f017609.png" alt="overview of accounts"></p>
+          <p><img src="../assets/img/create_workspace.jpg" alt="overview of accounts"></p>
           <p>Here you can see all the workspaces you've joined. As marked in the screenshot, you can:</p>
           <ol>
             <li>Create new workspaces (the creator of a workspace becomes the owner)</li>
@@ -96,7 +96,7 @@
           </ol>
           <h3 id="api-keys"><a href="#api-keys" class="header-anchor">#</a> API Keys</h3>
           <p>You can access the &quot;API Keys&quot; page from area 1 in the above screenshot.</p>
-          <p><img src="../assets/img/api.8e36c58d.png" alt="API key"></p>
+          <p><img src="../assets/img/Workspace_Api_keys.png" alt="API key"></p>
           <p>Select a workspace and a flow to create an API key to access the flow from API calls. Smart ChatBot has also integrated with many
             third-party automation services such as Zapier, Pabbly Connect, Integrately, Integromat, etc.</p>
           <h2 id="user-settings-timezone"><a href="#user-settings-timezone" class="header-anchor">#</a> User Settings
