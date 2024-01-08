@@ -117,7 +117,7 @@
           <h2 id="members-and-roles"><a href="#members-and-roles" class="header-anchor">#</a> Members and Roles</h2>
           <p>Each &quot;Smart ChatBot account&quot; is to be seen as a person/user. Members are all the people that have limited
             or full access to the workspace. There are 3 types of roles, <strong>Owner, Admin and Member</strong>.</p>
-          <p><img src="../assets/img/sidebar-difference.f0f6661d.png" alt="overview of members"></p>
+          <p><img src="../assets/img/Members and Roles.png" alt="overview of members"></p>
           <p>The first user who creates the workspace becomes the only owner of the workspace.</p>
           <h3 id="member-has-limited-access-to-the-account-a-member-can"><a
               href="#member-has-limited-access-to-the-account-a-member-can" class="header-anchor">#</a> Member has
