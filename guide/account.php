@@ -153,7 +153,7 @@
             his/her email address and role setting.</p>
           <p>If the new member is already an Smart ChatBot user, he/she can accept the invitation in the Smart ChatBot notification
             center (the bell icon in the upper right corner, see 2 screenshots below).</p>
-          <p><img src="../assets/img/invitation.e1363a3d.png" alt="overview of members"></p>
+          <p><img src="../assets/img/invitation.e1363a3d.jpg" alt="overview of members"></p>
           <p><img src="../assets/img/invitation2.92cca8e6.png" alt="overview of members"></p>
           <p>If the new member is not an Smart ChatBot user yet, the invitation email will contain a link to set up a new
             password. Once set up, the member can then also log into the workspace with their own login details.</p>
