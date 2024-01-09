@@ -5,7 +5,7 @@
 <main class="page">
         <div class="theme-default-content content__default">
           <h1 id="registration"><a href="#registration" class="header-anchor">#</a> Registration</h1>
-          <p><img src="../assets/img/register.png" alt="overview of registration"></p>
+          <p><img src="../assets/img/userregister.png" alt="overview of registration"></p>
           <p>To begin the process of creating your own chatbot, you'll need to <a
               href="http://www.app.brixbull.ai/register" target="_blank" rel="noopener noreferrer">register<span><svg
                   xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"
