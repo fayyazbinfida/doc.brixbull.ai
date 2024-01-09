@@ -25,7 +25,7 @@
           <p>Check analysis data here. You can click the &quot;Last 30 days&quot; dropdown list to adjust the period.
           </p>
           <p><img
-              src="../assets/img/Platform Overview_Analytics.png"
+              src="../assets/img/panalytics.png"
               alt="overview of sidebar"></p>
           <h3 id="template-store"><a href="#template-store" class="header-anchor">#</a> Template Store</h3>
           <p>Template store lists all publicly shared templates across the system. All Smart ChatBot users can publish their
