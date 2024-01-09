@@ -28,7 +28,7 @@
             &quot;Register&quot;. You will then receive a verification email from Smart ChatBot, click on the button to verify
             your address.</p>
           <h1 id="login"><a href="#login" class="header-anchor">#</a> Login</h1>
-          <p><img src="../assets/img/login.png" alt="Login Overview"></p></p>
+          <p><img src="../assets/img/userlogin.png" alt="Login Overview"></p></p>
           <p>Fill in your account details to login. Once you’re authorized you will get to your account dashboard.</p>
         </div>
         <footer class="page-edit"><!---->
