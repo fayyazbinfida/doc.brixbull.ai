@@ -117,7 +117,7 @@
           <h2 id="members-and-roles"><a href="#members-and-roles" class="header-anchor">#</a> Members and Roles</h2>
           <p>Each &quot;Smart ChatBot account&quot; is to be seen as a person/user. Members are all the people that have limited
             or full access to the workspace. There are 3 types of roles, <strong>Owner, Admin and Member</strong>.</p>
-          <p><img src="../assets/img/members.e324.png" alt="overview of members"></p>
+          <p><img src="../assets/img/members.png" alt="overview of members"></p>
           <p>The first user who creates the workspace becomes the only owner of the workspace.</p>
           <h3 id="member-has-limited-access-to-the-account-a-member-can"><a
               href="#member-has-limited-access-to-the-account-a-member-can" class="header-anchor">#</a> Member has
@@ -154,7 +154,7 @@
           <p>If the new member is already an Smart ChatBot user, he/she can accept the invitation in the Smart ChatBot notification
             center (the bell icon in the upper right corner, see 2 screenshots below).</p>
           <p><img src="../assets/img/invitation.e1363a3d.jpg" alt="overview of members"></p>
-          <p><img src="../assets/img/invitation2.92cca8e6.png" alt="overview of members"></p>
+          <p><img src="../assets/img/acceptinvit.png" alt="overview of members"></p>
           <p>If the new member is not an Smart ChatBot user yet, the invitation email will contain a link to set up a new
             password. Once set up, the member can then also log into the workspace with their own login details.</p>
           <h3 id="eidt-role-of-members"><a href="#eidt-role-of-members" class="header-anchor">#</a> Eidt Role of Members

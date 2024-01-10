@@ -5,7 +5,7 @@
 <main class="page">
         <div class="theme-default-content content__default">
           <h1 id="registration"><a href="#registration" class="header-anchor">#</a> Registration</h1>
-          <p><img src="../assets/img/register.png" alt="overview of registration"></p>
+          <p><img src="../assets/img/userregister.png" alt="overview of registration"></p>
           <p>To begin the process of creating your own chatbot, you'll need to <a
               href="http://www.app.brixbull.ai/register" target="_blank" rel="noopener noreferrer">register<span><svg
                   xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"
@@ -28,7 +28,7 @@
             &quot;Register&quot;. You will then receive a verification email from Smart ChatBot, click on the button to verify
             your address.</p>
           <h1 id="login"><a href="#login" class="header-anchor">#</a> Login</h1>
-          <p><img src="../assets/img/login.png" alt="Login Overview"></p></p>
+          <p><img src="../assets/img/userlogin.png" alt="Login Overview"></p></p>
           <p>Fill in your account details to login. Once you’re authorized you will get to your account dashboard.</p>
         </div>
         <footer class="page-edit"><!---->
