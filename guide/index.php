@@ -6,7 +6,7 @@
         <div class="theme-default-content content__default">
           <h1 id="introduction"><a href="#introduction" class="header-anchor">#</a> Introduction</h1>
           <p>👋 Create your first Chatbot on the Smart ChatBot platform. To begin with, have a quick look at the platform in a 2
-            minutes video:</p> <iframe width="949" height="534" src="https://www.youtube.com/embed/BHI_wcNtfdc"
+            minutes video:</p> <iframe width="949" height="534" src="https://www.youtube.com/embed/Qwo_Bd5BM7M?si=74rKOj_AWEq8E1Gc"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen="allowfullscreen"></iframe>

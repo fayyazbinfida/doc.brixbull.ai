@@ -93,13 +93,13 @@
           <p><img src="../assets/img/fb_connect.13bd8a24.png" alt="fb_connect"></p>
           <p>Follow steps 1, 2 and 3 in the above screenshot and jump to facebook.com, <strong>select all the pages in
               your page list, that you want Smart ChatBot to help with the automation</strong>.</p>
-          <p><img src="../assets/img/fb_pages.7d490c12.png" alt="fb_connect"></p>
+          <p><img src="../assets/img/pagesusewith.png" alt="fb_connect"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
             <p>If you connect your Facebook Account with more than one workspace, remember to select all pages that
               require management on Smart ChatBot regardless of workspace.</p>
           </div>
-          <p><img src="../assets/img/fb_after.138e2fcc.png" alt="fb_connect"></p>
+          <p><img src="../assets/img/connectfacebook.png" alt="fb_connect"></p>
           <p>After connection, these are some of the operations in the screenshot above:</p>
           <ol>
             <li>Click &quot;Reconnect&quot; when you want to add/remove a page or refresh.</li>
@@ -129,26 +129,26 @@
           <p><img src="../assets/img/ins1.8d77655e.png" alt="ins"></p>
           <p>Then connect your Instagram business account with your Facebook page. A Facebook page is a must, if you
             don't have one, create a new page.</p>
-          <p><img src="../assets/img/ins2.cf20ce80.png" alt="ins"></p>
+          <p><img src="../assets/img/managepage.png" alt="ins"></p>
           <p>Go to the &quot;Settings&quot; of your Facebook page, then &quot;Instagram&quot;, &quot;Connect
             Account&quot;.</p>
-          <p><img src="../assets/img/ins3.f96a0dbe.png" alt="ins"></p>
+          <p><img src="../assets/img/connectinstagram.png" alt="ins"></p>
           <p>The next step is to turn on the &quot;Allow access to messages&quot; in your Instagram app, see steps 1 to
             5 in the following screenshot: Menu - Settings - Privacy - Messages - Allow access to messages</p>
           <p><img src="../assets/img/ins4.ddcb0ea7.png" alt="ins"></p>
           <p>Finally, in Smart ChatBot, let's connect your Instagram with Smart ChatBot. Go &quot;Facebook&quot; and
             &quot;Reconnect&quot; (Yes, Facebook, not Instagram):</p>
-          <p><img src="../assets/img/ins5.5d62433a.png" alt="ins"></p>
-          <p><img src="../assets/img/ins6.938606ad.png" alt="ins"></p>
+          <p><img src="../assets/img/connectfacebook2.png" alt="ins"></p>
+          <p><img src="../assets/img/editsetting.png" alt="ins"></p>
           <p>Continue as yourself or click &quot;Edit Settings&quot; if you've previously linked Smart ChatBot to your Facebook.
           </p>
-          <p><img src="../assets/img/ins7.f6572eca.png" alt="ins"></p>
+          <p><img src="../assets/img/instagrambusiness.png" alt="ins"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
             <p>In the above screenshot, select ALL the Instagram Business Accounts that you wanted to use with Smart ChatBot,
               not just for the current workspace.</p>
           </div>
-          <p><img src="../assets/img/ins8.67db0f38.png" alt="ins"></p>
+          <p><img src="../assets/img/pagesusewith2.png" alt="ins"></p>
           <div class="custom-block danger">
             <p class="custom-block-title">IMPORTANT</p>
             <p>Similarly, in the above screenshot, select ALL the Facebook pages that you wanted to use with Smart ChatBot, not
@@ -156,8 +156,8 @@
           </div>
           <p>Give all permissions and after the connection, you are able to see your Instagram flow in both
             &quot;Facebook&quot; and &quot;Instagram&quot;:</p>
-          <p><img src="../assets/img/ins9.ad6854f9.png" alt="ins"></p>
-          <p><img src="../assets/img/ins10.00ef1911.png" alt="ins"></p>
+          <p><img src="../assets/img/connectfb3.png" alt="ins"></p>
+          <p><img src="../assets/img/instagrambots.png" alt="ins"></p>
           <h3 id="talk-to-instagram-bot"><a href="#talk-to-instagram-bot" class="header-anchor">#</a> Talk to Instagram
             Bot</h3>
           <p>Instagram doesn't support <strong>Preview</strong> feature, so to talk to your Instagram bot:</p>
@@ -166,7 +166,7 @@
               click on the URL link below the bot name to visit your Instagram page</li>
             <li>follow the account and click <strong>Message</strong> to start the conversation.</li>
           </ol>
-          <p><img src="../assets/img/ins11.6310ca47.png" alt="ins"></p>
+          <p><img src="../assets/img/brixautomate.png" alt="ins"></p>
           <h2 id="telegram-bot"><a href="#telegram-bot" class="header-anchor">#</a> Telegram Bot</h2>
           <p>On your phone, visit <a href="https://t.me/BotFather" target="_blank"
               rel="noopener noreferrer">https://t.me/BotFather<span><svg xmlns="http://www.w3.org/2000/svg"
