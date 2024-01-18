@@ -188,13 +188,13 @@
           <p><img src="../assets/img/telegram1.be164dc0.png" alt="telegram"></p>
           <p>In Smart ChatBot, click &quot;Add New Telegram Bot&quot; and put your token in the pop-up window. Finally, click
             &quot;Create Flow&quot; and there you go!</p>
-          <p><img src="../assets/img/telegram4.4f8499fa.png" alt="telegram"></p>
+          <p><img src="../assets/img/telegrambot.png" alt="telegram"></p>
           <p>Flip the status to stop/start the automation and click the red x to remove the connection (your flow will
             be still in &quot;All Bots&quot;)</p>
           <h3 id="talk-to-telegram-bot"><a href="#talk-to-telegram-bot" class="header-anchor">#</a> Talk to Telegram Bot
           </h3>
           <p>2 ways:</p>
-          <p><img src="../assets/img/telegram5.174930d4.png" alt="telegram"></p>
+          <p><img src="../assets/img/botfather.png" alt="telegram"></p>
           <ol>
             <li>Click the URL link above.</li>
             <li>Use the preview button in your flow.</li>
@@ -219,7 +219,7 @@
                   </svg> <span class="sr-only">(opens new window)</span></span></a>.</p>
           </div>
           <h2 id="wechat-bot"><a href="#wechat-bot" class="header-anchor">#</a> WeChat Bot</h2>
-          <p><img src="../assets/img/wechat1.ae86cdc3.png" alt="wechat"></p>
+          <p><img src="../assets/img/wechatbot.png" alt="wechat"></p>
           <p>Follow steps 1, 2 and 3 in the above screenshot.</p>
           <p><img src="../assets/img/wechat2.55bb42e3.png" alt="wechat"></p>
           <ul>
@@ -236,7 +236,7 @@
             &quot;appsecret&quot; as below:</p>
           <p><img src="../assets/img/wechat3.0fbb83bd.png" alt="wechat"></p>
           <p>Copy them back to Smart ChatBot. Follow the steps below:</p>
-          <p><img src="../assets/img/wechat4.26395be7.png" alt="wechat"></p>
+          <p><img src="../assets/img/sandbox.png" alt="wechat"></p>
           <ol>
             <li>choose a type</li>
             <li>paste your App ID and secret</li>
@@ -244,7 +244,7 @@
             <li>click &quot;Save&quot;</li>
             <li>a webhook URL will show, copy it to the WeChat's website</li>
           </ol>
-          <p><img src="../assets/img/wechat5.e439aa57.png" alt="wechat"></p>
+          <p><img src="../assets/img/wechat5.png" alt="wechat"></p>
           <p>Paste the webhook URL (in step 5) and the token (in step 3) here then click the green &quot;Submit&quot;
             button. Finally, scroll down a bit, you can see your testing QR code:</p>
           <p><img src="../assets/img/wechat6.0731c54a.png" alt="wechat"></p>
@@ -258,10 +258,10 @@
           <p>As follow are the providers we currently work with. Different providers support different bots. Choose your
             provider according to your needs. Create an account with them and pick your number.</p>
           <p><img src="../assets/img/providers_config.77776646.png" alt="phone number providers"></p>
-          <p><img src="../assets/img/provider2.ae8c65ef.png" alt="provider"></p>
+          <p><img src="../assets/img/whatsappbot.png" alt="provider"></p>
           <p>Smart ChatBot has put links for you to jump to their official websites. You can either access them in the according
             channel (see screenshot above) or on the &quot;Integration&quot; page (see screenshot below).</p>
-          <p><img src="../assets/img/provider.c5c40b96.png" alt="provider"></p>
+          <p><img src="../assets/img/Twillo.png" alt="provider"></p>
           <p>Follow the steps in the above screenshots to connect to the provider and add numbers.</p>
           <h3 id="sign-up-get-numbers"><a href="#sign-up-get-numbers" class="header-anchor">#</a> Sign Up &amp; Get
             Numbers</h3>
@@ -363,7 +363,7 @@
           </ul>
           <h2 id="whatsapp-360dialog-sandbox"><a href="#whatsapp-360dialog-sandbox" class="header-anchor">#</a> WhatsApp
             + 360Dialog Sandbox</h2>
-          <p><img src="../assets/img/provider2.ae8c65ef.png" alt="provider"></p>
+          <p><img src="../assets/img/360dialog.png" alt="provider"></p>
           <p>Go &quot;Bots&quot; -&gt; &quot;WhatsApp&quot; then &quot;360Dialog&quot; on Smart ChatBot and in your WhatsApp
             App, add &quot;+4930609859535&quot; as a new contact and sent &quot;START&quot; to it.</p>
           <p><img src="../assets/img/3601.c5252c8f.png" alt="360"></p>
@@ -394,7 +394,7 @@
           </ol>
           <h3 id="connect-google-account"><a href="#connect-google-account" class="header-anchor">#</a> Connect Google
             Account</h3>
-          <p><img src="../assets/img/google.c2983b7b.png" alt="google"></p>
+          <p><img src="../assets/img/googlebusiness.png" alt="google"></p>
           <p>Follow steps 1, 2 and 3 to connect to your Google account.</p>
           <div class="custom-block warning">
             <p class="custom-block-title">Note</p>
@@ -476,7 +476,7 @@
           <p>For a local business, if your business is already a verified business, your agent can be verified
             automatically and immediately. You will see the green &quot;Verified&quot; label. Thereafter, you can launch
             your chatbot.</p>
-          <p><img src="../assets/img/gmb5.1adca64e.png" alt="google"></p>
+          <p><img src="../assets/img/localauto.png" alt="google"></p>
           <p>While for a non-local business, after submitting the request, you will receive 2 emails from Google. One
             email asks you to reply for approving Smart ChatBot to help with the bot automation in a specified format (security
             key needed). Another email will give you the security key. It will take you a few days (up to 7 days) to get
