@@ -20,7 +20,7 @@
               to unlock and install the template to be a new source flow and re-create a template with that source flow.
             </p>
           </div>
-          <p><img src="../assets/img/template_create.a8d63786.png" alt="create template"></p>
+          <p><img src="../assets/img/createtemp.png" alt="create template"></p>
           <p>Follow steps 1, 2 and 3 above, then select a source flow from the existing flows.</p>
           <p><img src="../assets/img/template_choose_flow.974b41e5.png" alt="choose flow"></p>
           <p>If you are creating a subflow template, select some subflows on this page, otherwise, fill in necessary
@@ -36,12 +36,12 @@
               subflow template will be added to your current flow/bot in a folder.</p>
           </div>
           <h2 id="edit-templates"><a href="#edit-templates" class="header-anchor">#</a> Edit Templates</h2>
-          <p><img src="../assets/img/template_edit.f670e681.png" alt="edit template"></p>
+          <p><img src="../assets/img/tempedit.png" alt="edit template"></p>
           <p>Click &quot;Share&quot; to adjust who can see this template:</p>
-          <p><img src="../assets/img/template_setting.f46e6e20.png" alt="template settings"></p>
+          <p><img src="../assets/img/tempsetting.png" alt="template settings"></p>
           <p>If you are sharing the template, click &quot;Edit Info&quot; to give your template an overview, guidelines,
             tags, live demo, YouTube link and cover image:</p>
-          <p><img src="../assets/img/template_setting2.07a0cc87.png" alt="template settings"></p>
+          <p><img src="../assets/img/tempsetting2.png" alt="template settings"></p>
           <p>To update the template, you will need to go back to the source flow in &quot;All Bots&quot;, edit it and
             come back to click &quot;Update Flow&quot; here. The system will list the differences between the old
             version and the updated version.</p>

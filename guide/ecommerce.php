@@ -17,7 +17,7 @@
           <p>You can also sell products that are pre-set in your Stripe or PayPal account with a single &quot;Buy&quot;
             button (only buy one item at a time, no add to cart). Check how to integrate with <a
               href="../integration/stripe.php">Stripe</a>/<a href="../integration/mark/paypal.php">PayPal</a>.</p>
-          <p><img src="../assets/img/buy.389f3264.png" alt="ecommerce"></p>
+          <p><img src="../assets/img/buy1.png" alt="ecommerce"></p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">4/12/2022, 8:38:52

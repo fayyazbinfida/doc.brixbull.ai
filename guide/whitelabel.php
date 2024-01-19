@@ -65,7 +65,7 @@
             domain.</p>
           <p>You or your customer won’t be able to see the Smart ChatBot Youtube video in the dashboard &amp; at the tooltip of
             your flow builder.</p>
-          <p><img src="../assets/img/white_label_settings_06.0c6cb643.png" alt="title"></p>
+          <p><img src="../assets/img/whitelabel1.png" alt="title"></p>
           <h2 id="customize-logos"><a href="#customize-logos" class="header-anchor">#</a> Customize logos</h2>
           <p>You can set up your own logo, favicon, title &amp; description here, and it will change for all workspaces
             in your custom domain.</p>

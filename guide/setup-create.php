@@ -498,10 +498,10 @@
               Url</strong> or scan the QR code to talk to the bot.</p>
           <p>After your bot launched, Google your business name in a webpage. Click on the <strong>CHAT</strong> button
             to start the conversation:</p>
-          <p><img src="../assets/img/gmb9.0d36a9eb.png" alt="google"></p>
+          <p><img src="../assets/img/google.com.png" alt="google"></p>
           <p>Or search your business name in Google Map. Click on the <strong>Message</strong> button to start the
             conversation:</p>
-          <p><img src="../assets/img/gmb10.caa492c7.png" alt="google"></p>
+          <p><img src="../assets/img/googlemap.png" alt="google"></p>
           <h2 id="vk-bot"><a href="#vk-bot" class="header-anchor">#</a> VK Bot</h2>
           <p>The whole process will be:</p>
           <ol>
@@ -520,9 +520,9 @@
                     points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
                   </polygon>
                 </svg> <span class="sr-only">(opens new window)</span></span></a>, register and login yourself.</p>
-          <p><img src="../assets/img/vk1.537fac19.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot.png" alt="vk"></p>
           <p>Go to &quot;Community&quot; from the left sidebar and &quot;Create Community&quot; for your chatbot.</p>
-          <p><img src="../assets/img/vk2.e46f7922.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot2.png" alt="vk"></p>
           <p>You will find your group id in the URL (see above screenshot). Click on &quot;API usage&quot;, let's create
             an access token.</p>
           <p><img src="../assets/img/vk3.ef438549.png" alt="vk"></p>
@@ -538,27 +538,27 @@
           <p>Go to VK channel, click &quot;Add New Bot&quot; and fill in your group id and access token, hit
             &quot;Add&quot;.</p>
           <p>Forgot your group id? You can find the community information page here:</p>
-          <p><img src="../assets/img/vk5.b19e31d1.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot3.png" alt="vk"></p>
           <p>After the connection, your page looks like this:</p>
-          <p><img src="../assets/img/vk6.589454de.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot4.png" alt="vk"></p>
           <p>Click &quot;Create Bot&quot;, select a template and done.</p>
-          <p><img src="../assets/img/vk7.a7070090.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot5.png" alt="vk"></p>
           <p>Add a simple greeting message for testing.</p>
           <h3 id="enable-community-messages-and-bot-abilities"><a href="#enable-community-messages-and-bot-abilities"
               class="header-anchor">#</a> Enable Community Messages and Bot Abilities</h3>
-          <p><img src="../assets/img/vk8.920f6767.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot6.png" alt="vk"></p>
           <p>To talk to your bot, you need to enable community messages first. Follow steps 1 to 4 in the above
             screenshot to do so.</p>
-          <p><img src="../assets/img/vk8.920f6767.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot7.png" alt="vk"></p>
           <p>Then go to &quot;Bot settings&quot;, change the bot abilities to be &quot;Enabled&quot; and make sure you
             hit the &quot;Save&quot; button and see the green &quot;Changes saved&quot; prompted. It's important to
             enable bot abilities so that your bot can send buttons, questions and cards instead of just text messages
             and media.</p>
           <h3 id="talk-to-vk-bot"><a href="#talk-to-vk-bot" class="header-anchor">#</a> Talk to Vk Bot</h3>
           <p>Now you can open your VK application on phone, search your community name and click on it:</p>
-          <p><img src="../assets/img/vk10.77ff4ede.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot8.png" alt="vk"></p>
           <p>Click on &quot;Message&quot; to start the conversation.</p>
-          <p><img src="../assets/img/vk11.fbba4e32.png" alt="vk"></p>
+          <p><img src="../assets/img/vkbot9.png" alt="vk"></p>
           <h3 id="vk-limitation"><a href="#vk-limitation" class="header-anchor">#</a> VK Limitation</h3>
           <p>There are several limitations on VK channel according to their API:</p>
           <ol>
@@ -610,7 +610,7 @@
             you need to go to integration, and then go to Intercom, click the connect intercom account button.</p>
           <h4 id="step-2-authorize-intercom-account"><a href="#step-2-authorize-intercom-account"
               class="header-anchor">#</a> Step 2: Authorize intercom account</h4>
-          <p><img src="../assets/img/intercom-02.4e6d84dc.png" alt="title"></p>
+          <p><img src="../assets/img/intercom1.png" alt="title"></p>
           <p>After you click connect intercom button, it will redirect you to log in to your intercom account and then
             you will see the screenshot above, click “Authorize access” and then you just added this app to your
             workspace.</p>
@@ -619,7 +619,7 @@
           <p>You can disconnect the app, by clicking the button to disconnect Intercom with this workspace.</p>
           <h4 id="step-3-switch-livechat-to-intercom"><a href="#step-3-switch-livechat-to-intercom"
               class="header-anchor">#</a> Step 3: Switch livechat to intercom</h4>
-          <p><img src="../assets/img/intercom-04.acac94fd.png" alt="title"></p>
+          <p><img src="../assets/img/intercom2.png" alt="title"></p>
           <p>After you integrate with the intercom, you now need to create an omnichannel chatbot inside of Smart ChatBot. You
             might need to link the channels we currently support(Facebook messenger, Instagram, WhatsApp, Google
             Business Messenger, WeChat, Line, Viber, Telegram).</p>

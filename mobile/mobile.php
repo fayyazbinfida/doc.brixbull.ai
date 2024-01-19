@@ -904,7 +904,7 @@
                                                 After you set up the shortcut in Smart ChatBot, you will be able to select and use these canned responses in the mobile app(notes, chat, email, SMS)
                                             </p>
                                             <p>
-                                                <img src="../assets/img/uchat-app23.4362af36.png" alt="title">
+                                                <img src="../assets/img/app.png" alt="title">
                                             </p>
                                             <p>
                                                 In the live chat conversation window, you will be able to also update the email or phone number, and also hide the messages from the bot.

@@ -494,7 +494,7 @@
           </table>
           <h3 id="create-custom-field-in-contents-section"><a href="#create-custom-field-in-contents-section"
               class="header-anchor">#</a> Create Custom Field in Contents Section</h3>
-          <p><img src="../assets/img/question2.c75fbeab.png" alt="question"></p>
+          <p><img src="../assets/img/gmbdemo.png" alt="question"></p>
           <ol>
             <li>go &quot;Contents&quot; from the left sidebar</li>
             <li>select User Fields or Bot Fields</li>

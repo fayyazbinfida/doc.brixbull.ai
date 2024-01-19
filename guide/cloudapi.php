@@ -74,7 +74,7 @@
             select the business account you want to connect to.</p>
           <p>You can connect one business account under one workspace. Multiple numbers can be connected to the same
             business account.</p>
-          <p><img src="../assets/img/cloud_api09.146fc753.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi1.png" alt="title"></p>
           <p>After you select your business account, you will be redirected back to Smart ChatBot. And then after you click the
             “list businesses with WhatsApp phone numbers”</p>
           <p>It will list all the WhatsApp numbers in this business account. You can click the “Select” button to the
@@ -339,12 +339,12 @@
           <p>And after you clicked the “Create message template” from the top right corner of the dashboard.</p>
           <p>You need to fill up the template name and select the message category and languages.</p>
           <p>Create standard(text only) templates:</p>
-          <p><img src="../assets/img/cloud_api24.10b8305e.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi2.png" alt="title"></p>
           <p>Below is the template message we created, and after you create the template, submit it to Facebook for
             review.</p>
           <p>If you follow the best practice, your template will get approved very soon.</p>
           <p>Once the template message gets approved, you will see the approved icon below.</p>
-          <p><img src="../assets/img/cloud_api25.7f403f55.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi3.png" alt="title"></p>
           <p>Now you can go back to Smart ChatBot, and go to the WhatsApp channel,</p>
           <p><img src="../assets/img/cloud_api26.81f86a29.png" alt="title"></p>
           <p>Once you go to the content, and message templates, and click <strong>“Sync WhatsApp Template”</strong>, you
@@ -514,7 +514,7 @@
             Facebook Catalog.</p>
           <p><img src="../assets/img/cloud_api35.62730861.png" alt="title"></p>
           <p>And here is the same value in Facebook Catalog.</p>
-          <p><img src="../assets/img/cloud_api36.392f83ac.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi4.png" alt="title"></p>
           <ul>
             <li><em><strong>Connect Product catalog with WhatsApp number</strong></em></li>
           </ul>
@@ -638,14 +638,14 @@
           <p>After you submit the information, you will receive certification &amp; display name confirmation from
             Facebook.</p>
           <p>As per the screenshot below:</p>
-          <p><img src="../assets/img/cloud_api44.c14116e0.png" alt="title"></p>
-          <p><img src="../assets/img/cloud_api45.379b00c6.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi5.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi6.png" alt="title"></p>
           <p>And you will also receive emails from Facebook about the new number you just applied for.</p>
           <p><img src="../assets/img/cloud_api46.030bfd22.png" alt="title"></p>
           <p>You need to closely monitor the status in your WhatsApp business manager, and <strong>make sure it’s
               connected, not pending</strong>.</p>
           <p>You will be able to switch when the status is Connected, not pending.</p>
-          <p><img src="../assets/img/cloud_api47.11d959ef.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi7.png" alt="title"></p>
           <p>Please note:</p>
           <ul>
             <li>You can not use your existing WhatsApp number on the WhatsApp Cloud API.</li>
@@ -1190,7 +1190,7 @@
           </ol>
           <p>You can login to the Smart ChatBot platform, and then live chat to reply to your clients on desktop, or download
             Smart ChatBot mobile apps to reply right on your phone.</p>
-          <p><img src="../assets/img/cloud_api62.dcf2619d.png" alt="title"></p>
+          <p><img src="../assets/img/cloudapi8.png" alt="title"></p>
           
           <ol start="2">
             <li><strong>Can I use my current mobile WhatsApp number in the WhatsApp cloud API?</strong>
