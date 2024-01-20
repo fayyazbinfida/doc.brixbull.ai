@@ -15,12 +15,12 @@
           <h2 id="setup-stripe"><a href="#setup-stripe" class="header-anchor">#</a> Setup Stripe</h2>
           <p><img src="../assets/img/stripe_connect.89190a65.png" alt="connect stripe"></p>
           <p>Click 1, 2 and 3 in order on your Smart ChatBot dashboard.</p>
-          <p><img src="../assets/img/stripe_select.dff1738a.png" alt="select stripe account"></p>
+          <p><img src="../assets/img/stripe.png" alt="select stripe account"></p>
           <p>On Stripe's website, log in yourself, select the account you'd like to connect to (create an account if you
             don't have one yet). Then you will see this:</p>
-          <p><img src="../assets/img/stripe_live_mode.ccd1a3e1.png" alt="stripe live mode"></p>
+          <p><img src="../assets/img/stripe2.png" alt="stripe live mode"></p>
           <p>Click on the green button to change it from &quot;Live Mode&quot; to &quot;Test Mode&quot;.</p>
-          <p><img src="../assets/img/stripe_test_mode.ba2fd302.png" alt="stripe test mode"></p>
+          <p><img src="../assets/img/stripe3.png" alt="stripe test mode"></p>
           <p>When you are under the &quot;Test Mode&quot;, you can test the checkout process without paying a real bill.
             The checkout page will look like this:</p>
           <p><img src="../assets/img/stripe_test_payment.e2632461.png" alt="stripe test payment"></p>

@@ -300,7 +300,7 @@
           <h2 id="voice-send-message"><a href="#voice-send-message" class="header-anchor">#</a> Voice - Send Message
           </h2>
           <h3 id="send-text-audio"><a href="#send-text-audio" class="header-anchor">#</a> Send Text / Audio</h3>
-          <p><img src="../assets/img/send_message9.8aa52f78.png" alt="send message"></p>
+          <p><img src="../assets/img/sndmsg9.png" alt="send message"></p>
           <p>You can have the bot read out the text with a specified language or record your own audio and upload it.
           </p>
           <div class="custom-block tip">

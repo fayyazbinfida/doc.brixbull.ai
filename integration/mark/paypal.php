@@ -32,7 +32,7 @@
           <p><img src="../../assets/img/paypal3.8a8aa6da.png" alt="title"></p>
           <p>After you created the app you will be taken to the page where you can fetch the client id, the client
             secret key and paste those into your workspace integration settings for PayPal.</p>
-          <p><img src="../../assets/img/paypal4.d8e276d5.png" alt="title"></p>
+          <p><img src="../../assets/img/paypal1.png" alt="title"></p>
           <p>Optional could be to also add a redirection after payment. This allows you to point to a success flow
             inside your chatbot for example, or maybe a thank you page instead.</p>
           <h2 id="insert-your-paypal-details"><a href="#insert-your-paypal-details" class="header-anchor">#</a> Insert

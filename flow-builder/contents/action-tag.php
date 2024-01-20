@@ -9,7 +9,7 @@
           <p>Tag a user by user's type, situation, status, etc for better management.</p>
           <h2 id="create-tag"><a href="#create-tag" class="header-anchor">#</a> Create Tag</h2>
           <p>In your workspace, go &quot;Tags&quot; from the left sidebar.</p>
-          <p><img src="../../assets/img/tag2.074ee849.png" alt="tag"></p>
+          <p><img src="../../assets/img/tags1.png" alt="tag"></p>
           <p>Here is where you manage your tags.</p>
           <div class="custom-block tip">
             <p class="custom-block-title">TIP</p>
@@ -32,7 +32,7 @@
           </h2>
           <p>You can also manually add / remove / check tag for each user in &quot;Live Chat&quot; from the left
             sidebar.</p>
-          <p><img src="../../assets/img/tag5.4ae220a0.png" alt="tag"></p>
+          <p><img src="../../assets/img/tags2.png" alt="tag"></p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">7/26/2021, 6:55:29

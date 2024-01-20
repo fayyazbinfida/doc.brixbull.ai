@@ -6,7 +6,7 @@
 <main class="page">
         <div class="theme-default-content content__default">
           <h1 id="widgets"><a href="#widgets" class="header-anchor">#</a> Widgets</h1>
-          <p><img src="../../assets/img/widget4.6cbd1a35.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget3.png" alt="widget"></p>
           <p>For Facebook bots, you can set some widgets to quickly start talking to the bot. To setup:</p>
           <ol>
             <li>go &quot;Tools&quot; from the left sidebar</li>
@@ -15,7 +15,7 @@
           </ol>
           <h2 id="messenger-ref-url-widget"><a href="#messenger-ref-url-widget" class="header-anchor">#</a> Messenger
             Ref URL Widget</h2>
-          <p><img src="../../assets/img/widget5.9425d795.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget4.png" alt="widget"></p>
           <ol>
             <li>put a widget name</li>
             <li>choose a sub flow the link goes to</li>
@@ -35,7 +35,7 @@
             information from the link.</p>
           <p>After filling in all the information, click &quot;Save&quot; and click the pencil to edit this widget, you
             will see a unique URL generated for this widget:</p>
-          <p><img src="../../assets/img/widget6.bd87a1eb.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget5.png" alt="widget"></p>
           <p>So here, by visiting any of the following links, your users can start talking to your bot:</p>
           <table>
             <thead>
@@ -68,7 +68,7 @@
           <h2 id="qr-code-widget"><a href="#qr-code-widget" class="header-anchor">#</a> QR Code Widget</h2>
           <p>URL links are convenient to click via electronic way while QR codes are more suitable for on-site use. By
             scanning a QR code, your users can start talking to your bot.</p>
-          <p><img src="../../assets/img/widget7.c1a8ba66.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget6.png" alt="widget"></p>
           <p>To setup:</p>
           <ol>
             <li>give a widget name</li>
@@ -83,10 +83,10 @@
           </ol>
           <h2 id="customer-chat-widget"><a href="#customer-chat-widget" class="header-anchor">#</a> Customer Chat Widget
           </h2>
-          <p><img src="../../assets/img/widget8.d73f8d10.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget7.png" alt="widget"></p>
           <p>This widget is to be embedded on your website, so that your website can have a bot serving users as
             uchat.com.au do:</p>
-          <p><img src="../../assets/img/widget9.6df83f07.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget8.png" alt="widget"></p>
           <p>To setup:</p>
           <ol>
             <li>give a widget name</li>
@@ -102,11 +102,11 @@
             you will see this button:</p>
           <p><img src="../../assets/img/widget10.546489ab.png" alt="widget"></p>
           <p>Click it.</p>
-          <p><img src="../../assets/img/widget11.1ac4e1df.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget9.png" alt="widget"></p>
           <p>Add the websites that you want to put this bot at. Then install the snippet by copying and pasting the
             code.</p>
           <p>Perfect! 😎 You got a bot on your website now.</p>
-          <p><img src="../../assets/img/widget12.6f33257f.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget10.png" alt="widget"></p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">7/26/2021, 6:55:29

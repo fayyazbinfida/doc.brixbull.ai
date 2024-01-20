@@ -21,11 +21,11 @@
             Webhook</h2>
           <p>It's available in almost all channels, in your flow builder, go <strong>Tools</strong> - <strong>Inbound
               Webhooks</strong>:</p>
-          <p><img src="../../assets/img/inbound1.260c5353.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound1.png" alt="inbound webhook"></p>
           <p>Click on <strong>New Inbound Webhook</strong>, give a name and click <strong>Save</strong>:</p>
-          <p><img src="../../assets/img/inbound2.6b5f861c.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound2.png" alt="inbound webhook"></p>
           <p>You will see the editing interface like this:</p>
-          <p><img src="../../assets/img/inbound3.91d71327.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound3.png" alt="inbound webhook"></p>
           <h3 id="webhook-address"><a href="#webhook-address" class="header-anchor">#</a> Webhook Address</h3>
           <p>This area shows you where to send the data and the method, which is POST. Each inbound webhook has a unique
             URL in the whole Smart ChatBot system.</p>
@@ -77,7 +77,7 @@
           <p>The mapping list shows which value should be stored in which custom field. When you get a sample JSON in
             the above area, click on <strong>Preview Payload</strong> to get a mapping tool.</p>
           <h2 id="webhook-logs"><a href="#webhook-logs" class="header-anchor">#</a> Webhook Logs</h2>
-          <p><img src="../../assets/img/inbound10.32ebdea8.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound4.png" alt="inbound webhook"></p>
           <p>Every single request is saved in <strong>Logs</strong>. Click on a record to see the received JSON data.
           </p>
           <h2 id="demo-booking-confirmation"><a href="#demo-booking-confirmation" class="header-anchor">#</a> Demo:
@@ -86,28 +86,28 @@
             channel), test it in an <strong>Action Step</strong>.</p>
           <p>Open another Smart ChatBot webpage side by side, keep the inbound webhook editing on Page 1 and select an external
             request on Page 2:</p>
-          <p><img src="../../assets/img/inbound4.3540edf1.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound5.png" alt="inbound webhook"></p>
           <p>Follow steps 1 to 8 in the following screenshot:</p>
-          <p><img src="../../assets/img/inbound5.1e473657.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound6.png" alt="inbound webhook"></p>
           <p>Provide the data that need to be sent to the chatbot and click <strong>Test</strong>, you must get a
             &quot;webhook inactive&quot; error since we haven't activated it yet. It's fine, click on
             <strong>Done</strong> on Page 1, and you will see the data saved:</p>
-          <p><img src="../../assets/img/inbound6.24b11030.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound7.png" alt="inbound webhook"></p>
           <p>Scroll down a bit, follow steps 1, 2, 3 to tell the system, where is the <code>phone</code> and
             <code>email</code> values in the JSON:</p>
           <p><img src="../../assets/img/inbound7.0be10acc.png" alt="inbound webhook"></p>
           <p>Finally, map the rest data to the chatbot:</p>
           <p><img src="../../assets/img/inbound8.c015694b.png" alt="inbound webhook"></p>
           <p><strong>Save</strong> your inbound webhook editing:</p>
-          <p><img src="../../assets/img/inbound9.982059f7.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound8.png" alt="inbound webhook"></p>
           <p>Enter the subflow, let's send a message to the bot user:</p>
           <p><img src="../../assets/img/inbound11.dfa11cae.png" alt="inbound webhook"></p>
           <p><strong>Publish</strong> the flow and let's do a live test in the external request again:</p>
-          <p><img src="../../assets/img/inbound12.1b3a13dc.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound9.png" alt="inbound webhook"></p>
           <p>We can see that this time it run without error because we activated the webhook and used a real phone
             number. Go to <strong>Logs</strong> and we can see a new user profile is created successfully.</p>
           <p>On the user side:</p>
-          <p><img src="../../assets/img/inbound13.7fb0f9b4.png" alt="inbound webhook"></p>
+          <p><img src="../../assets/img/inbound10.png" alt="inbound webhook"></p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">4/8/2022, 10:13:07

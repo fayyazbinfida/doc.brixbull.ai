@@ -6,7 +6,7 @@
 <main class="page">
         <div class="theme-default-content content__default">
           <h1 id="user-menus"><a href="#user-menus" class="header-anchor">#</a> User Menus</h1>
-          <p><img src="../../assets/img/widget1.11e6fb28.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget1.png" alt="widget"></p>
           <p>For Facebook bots, you can have a persistent menu with 3 buttons at most. To setup:</p>
           <ol>
             <li>go &quot;Tools&quot; from the left sidebar</li>
@@ -20,7 +20,7 @@
           </ol>
           <p><img src="../../assets/img/widget2.315b3d28.png" alt="widget"></p>
           <p>Here is where you find your persistent menu when you talk to the bot:</p>
-          <p><img src="../../assets/img/widget3.12e06fb5.png" alt="widget"></p>
+          <p><img src="../../assets/img/widget2.png" alt="widget"></p>
           <div class="custom-block warning">
             <p class="custom-block-title">In Progress ...</p>
             <p>The documentation is still in progress. Please check our <a

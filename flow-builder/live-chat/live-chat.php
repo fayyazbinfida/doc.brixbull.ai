@@ -31,7 +31,7 @@
           </h2>
           <p>Once you select any of your subscribers you will then get to see the live chat in action. Many options and
             information are present so let us walk you through them.</p>
-          <p><img src="../../assets/img/livechat3.87d45db7.png" alt="title"></p>
+          <p><img src="../../assets/img/livech1.png" alt="title"></p>
           <h3 id="section-1-displays-subscribers-bot-users-who-interacted-with-the-chatbot"><a
               href="#section-1-displays-subscribers-bot-users-who-interacted-with-the-chatbot"
               class="header-anchor">#</a> Section 1 displays subscribers(bot users) who interacted with the chatbot</h3>

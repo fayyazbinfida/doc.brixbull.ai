@@ -58,7 +58,7 @@
               </tr>
             </tbody>
           </table>
-          <p><img src="../assets/img/variable1.64db6a8c.png" alt="variable"></p>
+          <p><img src="../assets/img/variable1.png" alt="variable"></p>
           <p>Click &quot;Basic Actions&quot; in the Action step and here are the &quot;Set Variable Value&quot; and
             &quot;Clear Variable Value&quot;.</p>
           <h3 id="clear-custom-field-clear-json"><a href="#clear-custom-field-clear-json" class="header-anchor">#</a>
@@ -130,7 +130,7 @@
             <p class="custom-block-title">Note</p>
             <p>Index starts from 0. Every character counts including space and punctuation.</p>
           </div>
-          <p><img src="../assets/img/variable5.ca4dce6c.png" alt="variable"></p>
+          <p><img src="../assets/img/hi.png" alt="variable"></p>
           <h3 id="replace-string-replace-string-case-sensitive"><a href="#replace-string-replace-string-case-sensitive"
               class="header-anchor">#</a> replace string / replace string case sensitive</h3>
           <table>

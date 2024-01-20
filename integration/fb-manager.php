@@ -16,7 +16,7 @@
           <h2 id="connect-to-your-facebook-business-account"><a href="#connect-to-your-facebook-business-account"
               class="header-anchor">#</a> Connect to your Facebook business account</h2>
           <p>If you click the “Connect Facebook Business” button, it will request you to authorize access to Smart ChatBot.</p>
-          <p><img src="../assets/img/facebook-business-integration-01.d7696ac7.png" alt="title"></p>
+          <p><img src="../assets/img/facebookbusiness.png" alt="title"></p>
           <p>And click the “Continue” button, it will take you back to Smart ChatBot, and now you are already connected with
             your Facebook business account.</p>
           <h2 id="disconnect-your-facebook-business-account"><a href="#disconnect-your-facebook-business-account"
@@ -46,7 +46,7 @@
             used to match the product with our ecommerce.</p>
           <p>Don’t change the SKU value. If you want to use the WhatsApp product catalog/native ecommerce, you need to
             always keep the SKU at the same value as the content ID in your Facebook catalog.</p>
-          <p><img src="../assets/img/facebook-business-integration-05.97c67bf7.png" alt="title"></p>
+          <p><img src="../assets/img/facebookbusiness2.png" alt="title"></p>
           <h2 id="change-the-currency"><a href="#change-the-currency" class="header-anchor">#</a> Change the currency
           </h2>
           <p>If you are using a different currency in your Facebook product catalog, you need to make sure you change
@@ -87,7 +87,7 @@
                 display directly which product the user is asking about.</p>
             </li>
           </ul>
-          <p><img src="../assets/img/facebook-business-integration-11.a7447d62.png" alt="title"></p>
+          <p><img src="../assets/img/facebookbusiness3.png" alt="title"></p>
           <p>And then, you can use our Select system variable to show the product directly in the card format.</p>
           <p>If the retail ID is matching with any SKU value in the Smart ChatBot system, then you can find the matching product
             information in our SELECT system field as per below:</p>

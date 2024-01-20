@@ -10,7 +10,7 @@
             organizes steps in a specific subflow while &quot;Sub Flow&quot; organizes steps in the whole chatbot/flow.
           </p>
           <h2 id="create-sub-flow"><a href="#create-sub-flow" class="header-anchor">#</a> Create Sub Flow</h2>
-          <p><img src="../../assets/img/subflow4.28f2468d.png" alt="sub flow"></p>
+          <p><img src="../../assets/img/subfl1.png" alt="sub flow"></p>
           <p>IGo &quot;Flows&quot; from the sidebar, click &quot;+ New Sub Flow&quot;, choose a flow type, give a name
             and save.</p>
           <table>

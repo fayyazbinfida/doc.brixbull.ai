@@ -67,9 +67,9 @@
           <p>Once the user's input contains one of the &quot;Answer Text&quot;, the quick answer is matched (non
             case-sensitive). Plus, the order of those quick answers matters because the bot will check in order. Once a
             quick answer matched, it will stop the matching.</p>
-          <p><img src="../assets/img/question23.b2102154.png" alt="question"></p>
-          <p><img src="../assets/img/question24.a0a677b5.png" alt="question"></p>
-          <p><img src="../assets/img/question25.b9a24000.png" alt="question"></p>
+          <p><img src="../assets/img/question1.png" alt="question"></p>
+          <p><img src="../assets/img/question2.png" alt="question"></p>
+          <p><img src="../assets/img/question3.png" alt="question"></p>
           <h2 id="skip-button"><a href="#skip-button" class="header-anchor">#</a> Skip Button</h2>
           <p>Add skip button if the question is ok to skip. Also, the label of the skip button is editable.</p>
           <h2 id="no-match"><a href="#no-match" class="header-anchor">#</a> No Match</h2>
@@ -184,7 +184,7 @@
             Record Duration&quot;.</p>
           <p>You will be able to access the record file through the URL link or manually from the &quot;Recordings&quot;
             section shown as below:</p>
-          <p><img src="../assets/img/question26.2a199e0e.png" alt="question"></p>
+          <p><img src="../assets/img/question4.png" alt="question"></p>
           <p>Here you can see all your &quot;Record Question&quot; and &quot;Transfer&quot; recordings with a
             &quot;Play&quot; button to play the audio.</p>
           <h2 id="voice-bot-ask-for-transfer"><a href="#voice-bot-ask-for-transfer" class="header-anchor">#</a> Voice
@@ -266,7 +266,7 @@
           <p><img src="../assets/img/question19.d0ba3be7.png" alt="question"></p>
           <p>Install, name a &quot;UNIQUE NAME&quot; yourself and click &quot;Connect with Stripe&quot;. This
             &quot;UNIQUE NAME&quot; is then your &quot;Unique connector ID&quot;, copy it back to Smart ChatBot.</p>
-          <p><img src="../assets/img/question20.769b37b4.png" alt="question"></p>
+          <p><img src="../assets/img/question5.png" alt="question"></p>
           <div class="custom-block tip">
             <p class="custom-block-title">TIP</p>
             <p>Note that for &quot;MODE&quot;, choose &quot;test&quot; when you are testing the payment process and
@@ -365,7 +365,7 @@
           <p><img src="../assets/img/question35.049ec9e4.png" alt="question"></p>
           <p>In the example, a post request is sent to Stripe with a testing API key and a charge amount, currency and
             the reusable token, i.e. the customer ID.</p>
-          <p><img src="../assets/img/question36.ef4b07e0.png" alt="question"></p>
+          <p><img src="../assets/img/question6.png" alt="question"></p>
           <p>After hitting the test button, this is the response if succeed:</p>
           <p><img src="../assets/img/question37.eb0feb0a.png" alt="question"></p>
           <p>In the response you can see there is an id started with &quot;ch_&quot;, which is the payment confirmation

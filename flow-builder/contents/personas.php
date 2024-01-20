@@ -18,7 +18,7 @@
           <p>If you want to create a new persona you can do so by pressing the top right button named <strong>+ New
               Persona</strong>.</p>
           <p>From there a pop-up window will appear where you can set it all up.</p>
-          <p><img src="../../assets/img/personas_02.83e3df27.png" alt="title"></p>
+          <p><img src="../../assets/img/person1.png" alt="title"></p>
           <p>Once created the persona will be available for you inside the main overview.</p>
           <p>From here you can also manage your persona inside that main overview. You only have to press the pencil
             icon to be able to edit.</p>

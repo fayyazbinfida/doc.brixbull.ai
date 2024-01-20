@@ -16,7 +16,7 @@
           <p>Press the button <strong>Connect Calendly Account</strong> to go to Calendly and authorize Smart ChatBot to manage
             bookings for you.</p>
           <p>When redirected to the Authorization page be sure to press the button.</p>
-          <p><img src="../../assets/img/calendly_02.6a744d7e.png" alt="title"></p>
+          <p><img src="../../assets/img/calendaly.png" alt="title"></p>
           <p>You will be redirected back and your account should show verified. If you have a pro account you will also
             see a checkmark with the webhook section</p>
           <p><img src="../../assets/img/calendly_03.5cb5998f.png" alt="title"></p>

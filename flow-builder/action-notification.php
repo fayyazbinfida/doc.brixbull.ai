@@ -45,7 +45,7 @@
           <p><img src="../assets/img/notification4.6cab6c0a.png" alt="notification"></p>
           <p>You can use the &quot;generate random text&quot; operation with text variable to get a random security code
             and send out for verification purpose shown in the pictures.</p>
-          <p><img src="../assets/img/notification3.5d387a9b.png" alt="notification"></p>
+          <p><img src="../assets/img/actionnotification1.png" alt="notification"></p>
           <p>Choose a sender and receiver, put message and here you go!</p>
           <h2 id="make-phone-call"><a href="#make-phone-call" class="header-anchor">#</a> Make Phone Call</h2>
           <p>Same as SMS notification, a phone number is needed to make a phone call. Check how to <a

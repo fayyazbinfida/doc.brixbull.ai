@@ -9,7 +9,7 @@
           <p>Use sequences to automatically send follow up / delay messages to customers. You can send multiple messages
             with different delays.</p>
           <h2 id="create-sequence"><a href="#create-sequence" class="header-anchor">#</a> Create Sequence</h2>
-          <p><img src="../../assets/img/sequence2.13700020.png" alt="sequence"></p>
+          <p><img src="../../assets/img/sequence1.png" alt="sequence"></p>
           <p>Follow steps 1 to 3 and you will see this:</p>
           <p><img src="../../assets/img/sequence3.089ff2a8.png" alt="sequence"></p>
           <p>5 steps to create a sequence:</p>
