@@ -35,7 +35,7 @@
                 </svg> <span class="sr-only">(opens new window)</span></span></a>, login yourself, then:</p>
           <p><img src="../assets/img/slack_incom_app1.eadb9dd1.png" alt="slack"></p>
           <p>click &quot;Add to Slack&quot;.</p>
-          <p><img src="../assets/img/slack_incom_app2.625395e1.png" alt="slack"></p>
+          <p><img src="../assets/img/slackincom.png" alt="slack"></p>
           <p>Pick a channel you would like your bot to send notifications to, then click &quot;Add&quot;.</p>
           <p><img src="../assets/img/slack_incom_app3.8b339510.png" alt="slack"></p>
           <p>Ta-da! Here you are the URL.</p>
@@ -45,7 +45,7 @@
           <p>A wave of buttons is coming, click on them one by one:</p>
           <p><img src="../assets/img/slack_own_app1.879fa4ff.png" alt="slack"> <img
               src="../assets/img/slack_own_app2.4bd31abc.png" alt="slack"> <img
-              src="../assets/img/slack_own_app3.08b01cba.png" alt="slack"></p>
+              src="../assets/img/slackapp2.png" alt="slack"></p>
           <ol>
             <li>Give an App name.</li>
             <li>Select your workspace.</li>
