@@ -16,14 +16,14 @@
               class="header-anchor">#</a> How to add Smart ChatBot to your Zapier account</h2>
           <p>Once the button to start the Zapier integration has been pressed you will be taken to a webpage where you
             are invited to try out the Smart ChatBot app</p>
-          <p><img src="../../assets/img/zapier_02.89c2e1a9.png" alt="title"></p>
+          <p><img src="../../assets/img/zapier1.png" alt="title"></p>
           <p>Press the button to add the app to your custom integrations section inside your Zapier Account.</p>
           <p>To find the Smart ChatBot app go to <strong>My Apps</strong>, then <strong>Custom Integrations</strong>. Press the
             Smart ChatBot app to connect your account from Smart ChatBot to Zapier.</p>
-          <p><img src="../../assets/img/zapier_03.d3ead1f1.png" alt="title"></p>
+          <p><img src="../../assets/img/zapier2.png" alt="title"></p>
           <p>You will then be taken to another page where you will need to press the button <strong>Add
               connection</strong>.</p>
-          <p><img src="../../assets/img/zapier_04.8804635e.png" alt="title"></p>
+          <p><img src="../../assets/img/zapier3.png" alt="title"></p>
           <p>Here you will need to enter your API token. If you do not know how to generate an API token inside of your
             Smart ChatBot account then take a look <a href="../../guide/account.php#api-keys" target="_blank"
               rel="noopener noreferrer">here<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
@@ -35,10 +35,10 @@
                     points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">
                   </polygon>
                 </svg> <span class="sr-only">(opens new window)</span></span></a>.</p>
-          <p><img src="../../assets/img/zapier_05.fe54e877.png" alt="title"></p>
+          <p><img src="../../assets/img/zapier4.png" alt="title"></p>
           <p>Once you pasted in your API key then press the button <strong>Yes, Continue</strong>. Zapier will connect
             to your Smart ChatBot chatbot of choice and once done you will see it displayed in your connections overview.</p>
-          <p><img src="../../assets/img/zapier_06.17b1a162.png" alt="title"></p>
+          <p><img src="../../assets/img/zapier5.png" alt="title"></p>
           <p>If you like to watch the video tutorial instead you can do so below
             <a href="https://youtu.be/mnVex7yigqQ" target="_blank" rel="noopener noreferrer">Smart ChatBot Basics Course New
               Series - 25. Connecting to your Zapier account<span><svg xmlns="http://www.w3.org/2000/svg"

@@ -45,7 +45,7 @@
             you need to go to integration, and then go to Intercom, click the connect intercom account button.</p>
           <h3 id="step-2-authorize-intercom-account"><a href="#step-2-authorize-intercom-account"
               class="header-anchor">#</a> Step 2: Authorize intercom account</h3>
-          <p><img src="../assets/img/intercom-02.4e6d84dc.png" alt="title"></p>
+          <p><img src="../assets/img/intercom1.png" alt="title"></p>
           <p>After you click connect intercom button, it will redirect you to log in to your intercom account and then
             you will see the screenshot above, click “Authorize access” and then you just added this app to your
             workspace.</p>
@@ -54,7 +54,7 @@
           <p>You can disconnect the app, by clicking the button to disconnect Intercom with this workspace.</p>
           <h3 id="step-3-switch-livechat-to-intercom"><a href="#step-3-switch-livechat-to-intercom"
               class="header-anchor">#</a> Step 3: Switch livechat to intercom</h3>
-          <p><img src="../assets/img/intercom-04.acac94fd.png" alt="title"></p>
+          <p><img src="../assets/img/intercom2.png" alt="title"></p>
           <p>After you integrate with the intercom, you now need to create an omnichannel chatbot inside of Smart ChatBot. You
             might need to link the channels we currently support(Facebook messenger, Instagram, WhatsApp, Google
             Business Messenger, WeChat, Line, Viber, Telegram).</p>

@@ -22,7 +22,7 @@
           <h2 id="gmail-setup"><a href="#gmail-setup" class="header-anchor">#</a> Gmail Setup</h2>
           <p>Click &quot;Connect Google Account&quot; after you choose &quot;Gmail&quot;.</p>
           <p>Select one of your Gmail and &quot;Allow&quot; Smart ChatBot to connect.</p>
-          <p><img src="../assets/img/email4.8c96f7e0.png" alt="email"></p>
+          <p><img src="../assets/img/email1.png" alt="email"></p>
           <p>Once done, it looks like this:</p>
           <p><img src="../assets/img/email5.e9679e71.png" alt="email"></p>
           <h2 id="sendgrid-setup"><a href="#sendgrid-setup" class="header-anchor">#</a> SendGrid Setup</h2>
@@ -33,7 +33,7 @@
           <p>Follow step 1, 2 and 3 to create API key:</p>
           <p><img src="../assets/img/email8.78b150d2.png" alt="email"></p>
           <p>Give an API key name, select &quot;Restricted Access&quot;.</p>
-          <p><img src="../assets/img/email9.dc7c2045.png" alt="email"></p>
+          <p><img src="../assets/img/email2.png" alt="email"></p>
           <p>Make sure you give Smart ChatBot full access to &quot;Mail Send&quot; and click &quot;Create &amp; View&quot; at
             the very bottom of the page.</p>
           <p><img src="../assets/img/email10.561bc3a8.png" alt="email"></p>
@@ -42,7 +42,7 @@
           <p><img src="../assets/img/email12.15f42a45.png" alt="email"></p>
           <p>To get a &quot;Sender Email&quot;, let's get back to SendGrid's website again. Click &quot;Create a sender
             identity&quot; and &quot;Greate a Single Sender&quot;:</p>
-          <p><img src="../assets/img/email13.dfa3dc53.png" alt="email"></p>
+          <p><img src="../assets/img/email3.png" alt="email"></p>
           <p><img src="../assets/img/email14.aa471be1.png" alt="email"></p>
           <p>Fill in your details and &quot;Create&quot;:</p>
           <p><img src="../assets/img/email15.3d3861d2.png" alt="email"></p>
@@ -62,7 +62,7 @@
           <p>Name a sender and receiver. There are 3 blocks of information, subject, message and attachment. Feel free
             to add what you need.</p>
           <p>This is an example of an email from the user's side:</p>
-          <p><img src="../assets/img/email19.4a8cc4f9.png" alt="email"></p>
+          <p><img src="../assets/img/email4.png" alt="email"></p>
         </div>
         <footer class="page-edit"><!---->
           <div class="last-updated"><span class="prefix">Last Updated:</span> <span class="time">4/21/2021, 3:13:17

@@ -42,7 +42,7 @@
           </div>
           <h2 id="manage-records-manually"><a href="#manage-records-manually" class="header-anchor">#</a> Manage Records
             Manually</h2>
-          <p><img src="../assets/img/data_store5.133fb2ee.png" alt="data store"></p>
+          <p><img src="../assets/img/datastore1.png" alt="data store"></p>
           <ol>
             <li>add new records, see picture below</li>
             <li>edit/delete records</li>

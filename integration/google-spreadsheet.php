@@ -15,7 +15,7 @@
             you come back, if nothing changed, click step 1 to 3 again to refresh and you will see this:</p>
           <p><img src="../assets/img/spreadsheet2.b57a0d86.png" alt="spreadsheet"></p>
           <p>Create a new spreadsheet or make sure you have one in the Google account that you just connected to.</p>
-          <p><img src="../assets/img/spreadsheet5.0e17183e.png" alt="spreadsheet"></p>
+          <p><img src="../assets/img/dialogflow10.png" alt="spreadsheet"></p>
           <p>Name the spreadsheet and worksheet properly at area 1 and 2. You will need them when you manage your data
             in the Action step.</p>
           <div class="custom-block warning">
@@ -26,7 +26,7 @@
           </div>
           <p>Later when you manage your data, this is how it looks like when the column names are set correctly (area
             1,2,3 in the above picture are correspond to 1,2,3 in the following picture):</p>
-          <p><img src="../assets/img/spreadsheet6.9a805e68.png" alt="spreadsheet"></p>
+          <p><img src="../assets/img/spreadsheet1.png" alt="spreadsheet"></p>
           <h2 id="manage-spreadsheet-in-action-step"><a href="#manage-spreadsheet-in-action-step"
               class="header-anchor">#</a> Manage Spreadsheet in Action Step</h2>
           <p><img src="../assets/img/spreadsheet3.ecf089f9.png" alt="spreadsheet"></p>

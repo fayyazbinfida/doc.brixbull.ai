@@ -29,7 +29,7 @@
           <p>From here you can go to Pabbly Connect and create your automation. When searching for apps type in Smart ChatBot
             and it should show up now.</p>
           <p>Select the action and or trigger then press <strong>connect</strong> to select the chatbot connection.</p>
-          <p><img src="../../assets/img/pabbly_02.dec09474.png" alt="title"></p>
+          <p><img src="../../assets/img/pabbly1.png" alt="title"></p>
           <p>If you do not know how to find or create your Smart ChatBot API token then press <a
               href="../../guide/account.php#api-keys" target="_blank" rel="noopener noreferrer">here<span><svg
                   xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px"

@@ -29,11 +29,11 @@
           <h2 id="how-to-set-up-your-freshchat-integration"><a href="#how-to-set-up-your-freshchat-integration"
               class="header-anchor">#</a> How to set up your Freshchat integration</h2>
           <p>Once you login your Smart ChatBot dashboard, you should be able to find the Freshchat in the integration tab.</p>
-          <p><img src="../assets/img/freshchat_01.23116dab.png" alt="title"></p>
+          <p><img src="../assets/img/freshchat1.png" alt="title"></p>
           <p>Now, you need to login your Freshchat account, we will need to get your domain, App Id &amp; API key into
             the settings.</p>
           <p>Domain: you should be able to grab from the url of your dashboard. As per the screenshot below.</p>
-          <p><img src="../assets/img/freshchat_02.69c6604b.png" alt="title"></p>
+          <p><img src="../assets/img/freshchat2.png" alt="title"></p>
           <p>Then, you should add https:// at the front of the domain, and then paste your full domain at the domain
             field.</p>
           <p>You should be able to find your App ID at Settings -&gt; Account Settings, and then Integration settings.
@@ -47,10 +47,10 @@
           <p>After you paste all the 3 values, and then click save. Smart ChatBot should verify your connection. If it’s valid,
             you should be able to see the verified as per screenshot below, and also you need to copy the webhook url
             generated from Smart ChatBot, and paste the webhook to your Freshchat account.</p>
-          <p><img src="../assets/img/freshchat_06.6630e594.png" alt="title"></p>
+          <p><img src="../assets/img/freshchat3.png" alt="title"></p>
           <p>In your Freshchat account, you need to go to admin, and then go to webhook settings, and paste the webhook
             generate from Smart ChatBot, and paste the url in the webhook settings.</p>
-          <p><img src="../assets/img/freshchat_07.af95079c.png" alt="title"></p>
+          <p><img src="../assets/img/freshchat4.png" alt="title"></p>
           <p>And up until now, you have done all the settings in Freshchat. And now there is one last thing you need to
             do.</p>
           <p>Currently only omni channel support live chat integration settings.</p>
@@ -75,7 +75,7 @@
             Freshchat.</p>
           <p>Also the user_ns, user_id and channel will be also added to the custom user properties.</p>
           <p>And then you can send text, image or files to the user.</p>
-          <p><img src="../assets/img/freshchat_11.c5f41185.png" alt="title"></p>
+          <p><img src="../assets/img/freshchat5.png" alt="title"></p>
           <p>And also Smart ChatBot support you to add note to the user, and the note will sync to Smart ChatBot user.</p>
           <p>Below is screenshot of sending private note from Freshchat.</p>
           <p><img src="../assets/img/freshchat_12.e1c11f71.png" alt="title"></p>

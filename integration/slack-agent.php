@@ -32,10 +32,10 @@
           <p><img src="../assets/img/slack-inte1.9dcb2aca.png" alt=""></p>
           <p>After you clicked the “Connect Slack account”, you will be redirected to the authorization window like
             below:</p>
-          <p><img src="../assets/img/slack-inte2.07cfb39e.png" alt=""></p>
+          <p><img src="../assets/img/slackin5.png" alt=""></p>
           <p>And you need to click “allow”, and then you should be redirected back to Smart ChatBot, with your Slack workspace
             connected.</p>
-          <p><img src="../assets/img/slack-inte3.e9133c66.png" alt=""></p>
+          <p><img src="../assets/img/slackin6.png" alt=""></p>
           <h2 id="how-to-use-activate-slack-as-a-live-chat"><a href="#how-to-use-activate-slack-as-a-live-chat"
               class="header-anchor">#</a> How to use Activate Slack as a live chat</h2>
           <p>In order to use Slack to handle the live chat, you need to go to the channels then go to the settings, and
@@ -49,7 +49,7 @@
           <p>Check the sample flow you can build and test with.</p>
           <p><img src="../assets/img/slack-inte5.3977b194.png" alt=""></p>
           <p>You will receive the live chat in the new channel created as per the screenshot below:</p>
-          <p><img src="../assets/img/slack-inte6.26ba34a3.png" alt=""></p>
+          <p><img src="../assets/img/slackin7.png" alt=""></p>
           <p>So you can reply with audio, image, files, and emoji to the customers.</p>
           <p>You can also invite your team members into the channel.</p>
           <p><img src="../assets/img/slack-inte7.8bf51313.png" alt=""></p>

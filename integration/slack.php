@@ -54,12 +54,12 @@
           <p><img src="../assets/img/slack_own_app4.eba14507.png" alt="slack"> <img
               src="../assets/img/slack_own_app5.8cb80d44.png" alt="slack"> <img
               src="../assets/img/slack_own_app6.bbca1557.png" alt="slack"> <img
-              src="../assets/img/slack_own_app7.36a7d8bd.png" alt="slack"></p>
+              src="../assets/img/slackin3.png" alt="slack"></p>
           <ol>
             <li>select a channel</li>
             <li>&quot;Allow&quot;</li>
           </ol>
-          <p><img src="../assets/img/slack_own_app8.ade701f2.png" alt="slack"></p>
+          <p><img src="../assets/img/slackin4.png" alt="slack"></p>
           <p>Finally, you see your URL!</p>
           <h3 id="add-incoming-webhook"><a href="#add-incoming-webhook" class="header-anchor">#</a> Add Incoming Webhook
           </h3>

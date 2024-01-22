@@ -7,9 +7,9 @@
         <div class="theme-default-content content__default">
           <h1 id="mailchimp"><a href="#mailchimp" class="header-anchor">#</a> MailChimp</h1>
           <h2 id="setup"><a href="#setup" class="header-anchor">#</a> Setup</h2>
-          <p><img src="../assets/img/mailchimp1.35ff3d1a.png" alt="mailchimp"></p>
+          <p><img src="../assets/img/mailchimp1.png" alt="mailchimp"></p>
           <p>Follow step 1 to 4 in the above picture, open MailChimp's website.</p>
-          <p><img src="../assets/img/mailchimp2.46b67fb6.png" alt="mailchimp"></p>
+          <p><img src="../assets/img/mailchimp2.png" alt="mailchimp"></p>
           <p>Log in yourself and authorize Smart ChatBot.</p>
           <p><img src="../assets/img/mailchimp3.0bb5752c.png" alt="mailchimp"></p>
           <p>The page will then bring you back to Smart ChatBot. You can see your account name now.</p>
@@ -17,11 +17,11 @@
             MailChimp in Action Step</h2>
           <p><img src="../assets/img/mailchimp4.b0000724.png" alt="mailchimp"></p>
           <p>In your Action step, find &quot;MailChimp&quot; in the &quot;Integrations&quot; list.</p>
-          <p><img src="../assets/img/mailchimp5.c971f6ef.png" alt="mailchimp"></p>
+          <p><img src="../assets/img/mailchimp3.png" alt="mailchimp"></p>
           <p>Simply put this Action after a Question step. Pick a MailChimp list and put users' email address. That's
             all about it!</p>
           <p>Let's see what happen in MailChimp:</p>
-          <p><img src="../assets/img/mailchimp6.654daa8c.png" alt="mailchimp"></p>
+          <p><img src="../assets/img/mailchimp4.png" alt="mailchimp"></p>
           <p>In your MailChimp dashboard, click area 1 and 2 from the left sidebar. Then you will see the audience added
             from the source Smart ChatBot.</p>
           <div class="custom-block warning">

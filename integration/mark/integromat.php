@@ -17,13 +17,13 @@
               class="header-anchor">#</a> How to add Smart ChatBot to your Integromat account</h2>
           <p>Once you press the above button you will be taken to a webpage. If signed into your Integromat account the
             app will be added and you can start using it.</p>
-          <p><img src="../../assets/img/integromat_02.f2766dc2.png" alt="title"></p>
+          <p><img src="../../assets/img/integre1.png" alt="title"></p>
           <h2 id="how-to-use-integromat"><a href="#how-to-use-integromat" class="header-anchor">#</a> How to use
             Integromat</h2>
           <p>Once added you can build a new scenario. Search for the app Smart ChatBot and you should find it now</p>
-          <p><img src="../../assets/img/integromat_03.fafd93dd.png" alt="title"></p>
+          <p><img src="../../assets/img/integre2.png" alt="title"></p>
           <p>Once you have added the app inside the scenario you will have access to different triggers and actions.</p>
-          <p><img src="../../assets/img/integromat_04.f31ed88a.png" alt="title"></p>
+          <p><img src="../../assets/img/integre3.png" alt="title"></p>
           <p>If we want to create a tag for example then we will need to be able to connect to our Smart ChatBot chatbot.</p>
           <p>For this you will need an API key. If you do not know how to create one you can press <a
               href="../../guide/account.php#api-keys" target="_blank" rel="noopener noreferrer">here<span><svg

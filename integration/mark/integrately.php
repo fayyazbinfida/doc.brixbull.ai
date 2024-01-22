@@ -17,13 +17,13 @@
           <p>Once you pressed the button you will be taken to a webpage where you will see all the specifics of the
             Smart ChatBot app.</p>
           <p>From here press the button <strong>Integrate Smart ChatBot for free</strong>.</p>
-          <p><img src="../../assets/img/integrately_02.7e0cbf37.png" alt="title"></p>
+          <p><img src="../../assets/img/integration.png" alt="title"></p>
           <h2 id="how-to-use-the-uchat-app-in-your-integrately-account"><a
               href="#how-to-use-the-uchat-app-in-your-integrately-account" class="header-anchor">#</a> How to use the
             Smart ChatBot app in your Integrately account</h2>
           <p>Now that you have added Smart ChatBot to your account you can set up any automation that you like</p>
           <p>Once done you will be asked to insert your Smart ChatBot API key.</p>
-          <p><img src="../../assets/img/integrately_03.d1e02110.png" alt="title"></p>
+          <p><img src="../../assets/img/integrity2.png" alt="title"></p>
           <p>If you do not know how to find or create your API key inside of Smart ChatBot you can watch the video provided or
             follow the directions in our documentation <a href="../../guide/account.php#api-keys" target="_blank"
               rel="noopener noreferrer">here<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
