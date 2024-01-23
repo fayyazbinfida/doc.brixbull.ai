@@ -278,7 +278,7 @@ session_start();
                       class="nav-link router-link-exact-active router-link-active">
                       Overview
                     </a></li>
-                  <li class="dropdown-item"><a href="stripe.php" class="nav-link">
+                  <li class="dropdown-item"><a href="../integration/stripe.php" class="nav-link">
                       Stripe
                     </a></li>
                   <li class="dropdown-item"><a href="mark/paypal.php" class="nav-link">
