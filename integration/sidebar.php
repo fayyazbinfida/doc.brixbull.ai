@@ -221,7 +221,7 @@
                     <ul class="sidebar-links sidebar-group-items">
                         <li><a href="index.php" aria-current="page" class="active sidebar-link">Integrations</a></li>
                         <li>
-                            <a href="stripe.php" class="sidebar-link">Stripe</a>
+                            <a href="../integration/stripe.php" class="sidebar-link">Stripe</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="stripe.php#setup-stripe" class="sidebar-link">
