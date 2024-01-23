@@ -290,10 +290,10 @@ session_start();
                   <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/shopify.php" class="nav-link">
                       Shopify
                     </a></li>
-                  <li class="dropdown-item"><a href="fb-manager.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/fb-manager.php" class="nav-link">
                       Facebook Business
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/calendly.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark//calendly.php" class="nav-link">
                       Calendly
                     </a></li>
                   <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/slack.php" class="nav-link">
@@ -311,10 +311,10 @@ session_start();
                   <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/data-store.php" class="nav-link">
                       Data Store
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/twilio.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/twilio.php" class="nav-link">
                       Twilio
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/signalwire.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/signalwire.php" class="nav-link">
                       SignalWire
                     </a></li>
                   <li class="dropdown-item"><a href="email.php" class="nav-link">
