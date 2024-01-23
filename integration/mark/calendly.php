@@ -12,32 +12,32 @@
           </h2>
           <p>From the main dashboard go to <strong>Integrations</strong> from the left-hand menu. Then select
             <strong>Calendly</strong> from the list.</p>
-          <p><img src="../../assets/img/calendly1.png" alt="title"></p>
+          <p><img src="../assets/img/calendly1.png" alt="title"></p>
           <p>Press the button <strong>Connect Calendly Account</strong> to go to Calendly and authorize Smart ChatBot to manage
             bookings for you.</p>
           <p>When redirected to the Authorization page be sure to press the button.</p>
-          <p><img src="../../assets/img/calendaly2.png" alt="title"></p>
+          <p><img src="../assets/img/calendaly2.png" alt="title"></p>
           <p>You will be redirected back and your account should show verified. If you have a pro account you will also
             see a checkmark with the webhook section</p>
-          <p><img src="../../assets/img/calendly3.png" alt="title"></p>
+          <p><img src="../assets/img/calendly3.png" alt="title"></p>
           <h2 id="how-to-use-calendly"><a href="#how-to-use-calendly" class="header-anchor">#</a> How to use Calendly
           </h2>
           <p>Soon as Calendly has been connected you will be able to use it in any of your chatbots.</p>
           <p>Go to a flow, select a text message and apply a button. For the type of button, you can select the Calendly
             button.</p>
-          <p><img src="../../assets/img/calendly4.png" alt="title"></p>
+          <p><img src="../assets/img/calendly4.png" alt="title"></p>
           <p>Once done you will be able to select an event type. These events are being fetched from your Calendly
             account.</p>
-          <p><img src="../../assets/img/calendly5.png" alt="title"></p>
+          <p><img src="../assets/img/calendly5.png" alt="title"></p>
           <p>Once you send this message with the button to the subscriber he or she will be able to book an appointment
             using the event you set up.</p>
           <p>After this is done you will be able to fetch the booking details from the <strong>Select</strong> system
             field.</p>
           <p>Open up the system variable list, Search for the system field called <strong>Select</strong></p>
-          <p><img src="../../assets/img/calendly6.png" alt="title"></p>
+          <p><img src="../assets/img/calendly6.png" alt="title"></p>
           <p>Once pressed you will get a pop-up that will display all possible information you can get back from
             Calendly.</p>
-          <p><img src="../../assets/img/calendly7.png" alt="title"></p>
+          <p><img src="../assets/img/calendly7.png" alt="title"></p>
           <p>This way you can confirm the booking with your subscriber as seen in the previous screenshot above</p>
         </div>
         <footer class="page-edit"><!---->
