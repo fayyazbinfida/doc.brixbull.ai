@@ -281,13 +281,13 @@ session_start();
                   <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/stripe.php" class="nav-link">
                       Stripe
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/paypal.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/paypal.php" class="nav-link">
                       PayPal
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/cloudinary.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/cloudinary.php" class="nav-link">
                       Cloudinary
                     </a></li>
-                  <li class="dropdown-item"><a href="shopify.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/shopify.php" class="nav-link">
                       Shopify
                     </a></li>
                   <li class="dropdown-item"><a href="fb-manager.php" class="nav-link">
@@ -296,19 +296,19 @@ session_start();
                   <li class="dropdown-item"><a href="mark/calendly.php" class="nav-link">
                       Calendly
                     </a></li>
-                  <li class="dropdown-item"><a href="slack.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/slack.php" class="nav-link">
                       Slack
                     </a></li>
-                  <li class="dropdown-item"><a href="slack-agent.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/slack-agent.php" class="nav-link">
                       Slack Agent
                     </a></li>
-                  <li class="dropdown-item"><a href="dialogflow.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/dialogflow.php" class="nav-link">
                       Dialogflow
                     </a></li>
-                  <li class="dropdown-item"><a href="google-spreadsheet.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/google-spreadsheet.php" class="nav-link">
                       Google Spreadsheet
                     </a></li>
-                  <li class="dropdown-item"><a href="data-store.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/data-store.php" class="nav-link">
                       Data Store
                     </a></li>
                   <li class="dropdown-item"><a href="mark/twilio.php" class="nav-link">
