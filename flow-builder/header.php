@@ -332,7 +332,7 @@ session_start();
                                     </li>
                                     <li class="dropdown-item">
                                         <a href="<?php echo $_SESSION['PATH'];?>/integration/mark/videosdk.php" class="nav-link">videosdk</a>
-                                    </li>
+                                    </li>  
                                     <li class="dropdown-item">
                                         <a href="<?php echo $_SESSION['PATH'];?>/integration/intercom.php" class="nav-link">Intercom</a>
                                     </li>

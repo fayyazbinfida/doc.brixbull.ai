@@ -132,24 +132,27 @@
             WhatsApp channel.</p>
           <p>WhatsApp cloud API is sharing the same for most of the elements, you can watch our 360dialog demo for a
             general idea.</p>
-          <p>👉</p> <iframe width="649" height="365" src="https://www.youtube.com/embed/zEFjlQ8F-Mg"
+          <!-- <p>👉</p>  -->
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/zEFjlQ8F-Mg"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
-          <p>👉</p> <iframe width="649" height="365" src="https://www.youtube.com/embed/ET0KRoNs7jQ"
+            allowfullscreen="allowfullscreen"></iframe> -->
+          <!-- <p>👉</p>  -->
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/ET0KRoNs7jQ"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <p>All these message types are supported in Cloud API as well.</p>
           <h2 id="template-message"><a href="#template-message" class="header-anchor">#</a> Template message</h2>
           <p>Template messages must be submitted for Facebook's approval before they are available to use. It is
             Facebook that reviews each template to avoid spam and to check that each message complies with their
             WhatsApp API guidelines.</p>
-          <p>Here is a youtube video about how to apply for the template message, you can watch it here:</p> <iframe
+          <p>Here is a youtube video about how to apply for the template message, you can watch it here:</p> 
+          <!-- <iframe
             width="649" height="365" src="https://www.youtube.com/embed/5dN39PWFZQQ" title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h3 id="when-to-use-templates-for-whatsapp-messaging"><a href="#when-to-use-templates-for-whatsapp-messaging"
               class="header-anchor">#</a> When to use templates for WhatsApp messaging?</h3>
           <p>A template message needs to be sent whenever it is outside of a Customer Service Window, which means,
@@ -402,22 +405,25 @@
           <p>Here is a few demo video you can check:</p>
           <ul>
             <li>Native &amp; Smooth WhatsApp eCommerce checkout demo:</li>
-          </ul> <iframe width="649" height="365" src="https://www.youtube.com/embed/9fTvOc5WmkU"
+          </ul> 
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/9fTvOc5WmkU"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li>WhatsApp eCommerce chatbot with RazorPay demo:</li>
-          </ul> <iframe width="649" height="365" src="https://www.youtube.com/embed/AeAaRES40wQ"
+          </ul> 
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/AeAaRES40wQ"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li>WhatsApp eCommerce chatbot with Billplz demo:</li>
-          </ul> <iframe width="649" height="365" src="https://www.youtube.com/embed/wPPApsfoSaw"
+          </ul> 
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/wPPApsfoSaw"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <p>Please note:</p>
           <ul>
             <li>test WhatsApp phone numbers don’t support testing product catalogue messages.</li>
@@ -486,21 +492,24 @@
           </ul>
           <p>You can upload only one catalog per WhatsApp Business Account (WABA), but the same catalog can belong to
             multiple phone numbers.</p>
-          <p>You can watch the video here:</p> <iframe width="649" height="365"
+          <!-- <p>You can watch the video here:</p> 
+          <iframe width="649" height="365"
             src="https://www.youtube.com/embed/elAF3Kly5tQ" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe> <iframe width="649" height="365"
+            allowfullscreen="allowfullscreen"></iframe>  -->
+            <!-- <iframe width="649" height="365"
             src="https://www.youtube.com/embed/6I2DOrmNbJM" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Special requirement for selling in India</strong></em>
               If you are selling in India, you need to comply with Facebook requirements regarding the product catalog,
               more details, you can find out in the video below:</li>
-          </ul> <iframe width="649" height="365" src="https://www.youtube.com/embed/oqYBmY7G1Bk"
+          </ul> 
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/oqYBmY7G1Bk"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Sync the products from Facebook to Smart ChatBot</strong></em>
               Now back to Smart ChatBot, go to the WhatsApp Cloud channel, you can click “View Catalog”, and then it will pull
@@ -520,10 +529,11 @@
           </ul>
           <p>You need to connect your WhatsApp number with a product catalog. Only after that, you can send the product
             catalog messages.</p>
-          <p>You can learn how to do that through the video below:</p> <iframe width="649" height="365"
+          <!-- <p>You can learn how to do that through the video below:</p>  -->
+          <!-- <iframe width="649" height="365"
             src="https://www.youtube.com/embed/QbUFDRMXXWw" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Send product catalog message</strong></em></li>
           </ul>
@@ -544,28 +554,31 @@
           <p><img src="../assets/img/cloud_api40.e2329835.png" alt="title"></p>
           <p>You can use built-in filters to dynamically populate the retail IDs to use in sending product catalog
             messages.</p>
-          <p>You can find more details here:</p> <iframe width="649" height="365"
+          <!-- <p>You can find more details here:</p>  -->
+          <!-- <iframe width="649" height="365"
             src="https://www.youtube.com/embed/TXYi-WJm9R0" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Set up product inquiry trigger</strong></em></li>
           </ul>
           <p>You will learn more about setting up a “WhatsApp product inquiry trigger”. This will trigger the message
             every time your customer sends you a message inquiry on the product detail page.</p>
-          <p>Check the video below for more details:</p> <iframe width="649" height="365"
+          <!-- <p>Check the video below for more details:</p> 
+          <iframe width="649" height="365"
             src="https://www.youtube.com/embed/7XjIgTHXO8o" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Set up WhatsApp order created trigger</strong></em></li>
           </ul>
           <p>WhatsApp order received trigger will be triggered when the user sends the cart.</p>
           <p>You can use the value inside of this trigger to generate the checkout link for the user.</p>
-          <p>You can find more details in the video below:</p> <iframe width="649" height="365"
+          <!-- <p>You can find more details in the video below:</p>  -->
+          <!-- <iframe width="649" height="365"
             src="https://www.youtube.com/embed/nVg--d7V3iU" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Collect the payment</strong></em></li>
           </ul>
@@ -575,29 +588,29 @@
               class="header-anchor">#</a> Collect payment through Stripe &amp; Paypal</h3>
           <p>Checkout with Paypal &amp; Stripe is supported natively with Smart ChatBot. In this video, you can learn how to
             make the payment with Paypal &amp; Stripe</p>
-          <p>You can check the video here:</p> <iframe width="649" height="365"
+          <!-- <p>You can check the video here:</p> <iframe width="649" height="365"
             src="https://www.youtube.com/embed/Dx4Kr7CEFjc" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h3 id="collect-payment-through-razorpay"><a href="#collect-payment-through-razorpay"
               class="header-anchor">#</a> Collect payment through RazorPay</h3>
           <p>Smart ChatBot has very flexible checkout options, you can easily integrate with 3rd party payment gateway.</p>
           <p>You can find these integrations from our mini app store.</p>
           <p>In this video, we will show you how to integrate RazorPay to collect the payment.</p>
-          <p>You can check the video here:</p> <iframe width="649" height="365"
+          <!-- <p>You can check the video here:</p> <iframe width="649" height="365"
             src="https://www.youtube.com/embed/rTz9lpLd60E" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h3 id="checkout-with-template-messages"><a href="#checkout-with-template-messages"
               class="header-anchor">#</a> Checkout with template messages</h3>
           <p>WhatsApp only supports buttons that link to external websites.</p>
           <p>Smart ChatBot supports you to send template messages, you need to submit the template message in 360dialog or Cloud
             API, and then sync the approved template message back to Smart ChatBot.</p>
           <p>Then you can send these template messages in our flow builder.</p>
-          <p>You can check the video here:</p> <iframe width="649" height="365"
+          <!-- <p>You can check the video here:</p> <iframe width="649" height="365"
             src="https://www.youtube.com/embed/MFreU7gQRGg" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <ul>
             <li><em><strong>Update order status</strong></em></li>
           </ul>
@@ -611,18 +624,18 @@
           </ol>
           <p>P.S: If you are using Stripe &amp; Paypal to make the payment, you will see 2 same value orders in Smart ChatBot.
             This is because a custom product is created to make the payment.</p>
-          <p>Check the video below for more details:</p> <iframe width="649" height="365"
+          <!-- <p>Check the video below for more details:</p> <iframe width="649" height="365"
             src="https://www.youtube.com/embed/7IW70iKBUkU" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h3 id="mark-order-as-paid-razorpay"><a href="#mark-order-as-paid-razorpay" class="header-anchor">#</a> Mark
             order as paid - RazorPay</h3>
           <p>If you are using RazorPay to make the payment, when the Razorpay has completed, you should be able to
             update the order status. If you are using another local payment gateway, you can do the same.</p>
-          <p>Check the video below for more details:</p> <iframe width="649" height="365"
+          <!-- <p>Check the video below for more details:</p> <iframe width="649" height="365"
             src="https://www.youtube.com/embed/B0DjvlJbzqw" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h2 id="add-your-own-business-phone-number"><a href="#add-your-own-business-phone-number"
               class="header-anchor">#</a> Add your own business phone number</h2>
           <p>First, You need to go to your apps in Facebook developer, and add your own phone number,</p>
@@ -1054,10 +1067,11 @@
             <li>Fill out all of the information on the Business Info page, inside the Facebook Business Manager settings
             </li>
             <li>Create an app in your Facebook developer account.</li>
-          </ul> <iframe width="649" height="365" src="https://www.youtube.com/embed/C4qB3vBsGFI"
+          </ul> 
+          <!-- <iframe width="649" height="365" src="https://www.youtube.com/embed/C4qB3vBsGFI"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen="allowfullscreen"></iframe>
+            allowfullscreen="allowfullscreen"></iframe> -->
           <h3 id="my-business-verification-request-was-rejected-what-to-do-now"><a
               href="#my-business-verification-request-was-rejected-what-to-do-now" class="header-anchor">#</a> My
             Business Verification request was rejected: What to do now?</h3>

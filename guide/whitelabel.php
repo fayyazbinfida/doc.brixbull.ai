@@ -139,7 +139,7 @@
               ←
               <a href="cloudapi.html" class="prev">
                 WhatsApp Cloud API
-              </a></span> <span class="next"><a href="integration.html">
+              </a></span> <span class="next"><a href="integration.php">
                 Integrations
               </a>
               →

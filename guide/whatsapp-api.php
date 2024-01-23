@@ -45,7 +45,7 @@
               ←
               <a href="setup-create.html" class="prev">
                 Connect to Channels
-              </a></span> <span class="next"><a href="cloudapi.html">
+              </a></span> <span class="next"><a href="cloudapi.php">
                 WhatsApp Cloud API
               </a>
               →
