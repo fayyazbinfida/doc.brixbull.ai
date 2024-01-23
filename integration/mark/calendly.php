@@ -28,7 +28,7 @@
           <p><img src="../assets/img/calendly4.png" alt="title"></p>
           <p>Once done you will be able to select an event type. These events are being fetched from your Calendly
             account.</p>
-          <p><img src="../assets/img/calendly5.png" alt="title"></p>
+          <p><img src=".../assets/img/calendly5.png" alt="title"></p>
           <p>Once you send this message with the button to the subscriber he or she will be able to book an appointment
             using the event you set up.</p>
           <p>After this is done you will be able to fetch the booking details from the <strong>Select</strong> system
