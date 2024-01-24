@@ -250,7 +250,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/cloudinary.php" class="sidebar-link">Cloudinary</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/cloudinary.php" class="sidebar-link">Cloudinary</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="cloudinary.php#login-to-cloudinary" class="sidebar-link">Login to Cloudinary</a>
@@ -264,7 +264,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="shopify.php" class="sidebar-link">Shopify</a>
+                            <a href="https://brixbull.ai/docs/integration/shopify.php" class="sidebar-link">Shopify</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="shopify.php#setup-shopify" class="sidebar-link">Setup Shopify</a>
@@ -275,7 +275,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="fb-manager.php" class="sidebar-link">Facebook Business Management</a>
+                            <a href="https://brixbull.ai/docs/integration/fb-manager.php" class="sidebar-link">Facebook Business Management</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="fb-manager.php#connect-to-your-facebook-business-account" class="sidebar-link">
@@ -305,7 +305,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/calendly.php" class="sidebar-link">Calendly</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/calendly.php" class="sidebar-link">Calendly</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="calendly.php#connect-to-calendly" class="sidebar-link">
@@ -320,7 +320,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="slack.php" class="sidebar-link">Slack</a>
+                            <a href="https://brixbull.ai/docs/integration/slack.php" class="sidebar-link">Slack</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="slack.php#setup-slack" class="sidebar-link">Setup Slack</a>
@@ -331,7 +331,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="slack-agent.php" class="sidebar-link">Slack Agent</a>
+                            <a href="https://brixbull.ai/docs/integration/slack-agent.php" class="sidebar-link">Slack Agent</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="slack-agent.php#connect-slack-to-your-workspace" class="sidebar-link">
@@ -371,7 +371,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="dialogflow.php" class="sidebar-link">Dialogflow</a>
+                            <a href="https://brixbull.ai/docs/integration/dialogflow.php" class="sidebar-link">Dialogflow</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="dialogflow.php#setup-dialogflow" class="sidebar-link">
@@ -396,7 +396,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="google-spreadsheet.php" class="sidebar-link">Google Spreadsheet</a>
+                            <a href="https://brixbull.ai/docs/integration/google-spreadsheet.php" class="sidebar-link">Google Spreadsheet</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="google-spreadsheet.php#setup-google-spreadsheet" class="sidebar-link">
@@ -411,7 +411,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="data-store.php" class="sidebar-link">Data Store</a>
+                            <a href="https://brixbull.ai/docs/integration/data-store.php" class="sidebar-link">Data Store</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="data-store.php#setup-data-store" class="sidebar-link">
@@ -431,7 +431,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/twilio.php" class="sidebar-link">Twilio</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/twilio.php" class="sidebar-link">Twilio</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="twilio.php#login-to-your-twilio-account" class="sidebar-link">
@@ -446,7 +446,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/signalwire.php" class="sidebar-link">Signalwire</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/signalwire.php" class="sidebar-link">Signalwire</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="signalwire.php#login-to-signalwire" class="sidebar-link">
@@ -466,7 +466,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="email.php" class="sidebar-link">Email (SMTP / Gmail / Sendgrid)</a>
+                            <a href="https://brixbull.ai/docs/integration/email.php" class="sidebar-link">Email (SMTP / Gmail / Sendgrid)</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="email.php#smtp-profile-setup" class="sidebar-link">
@@ -496,7 +496,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mailchimp.php" class="sidebar-link">MailChimp</a>
+                            <a href="https://brixbull.ai/docs/integration/mailchimp.php" class="sidebar-link">MailChimp</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="mailchimp.php#setup" class="sidebar-link">
@@ -511,7 +511,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/zapier.php" class="sidebar-link">Zapier</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/zapier.php" class="sidebar-link">Zapier</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="zapier.php#how-to-add-uchat-to-your-zapier-account" class="sidebar-link">
@@ -526,7 +526,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/integromat.php" class="sidebar-link">Integromat</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/integromat.php" class="sidebar-link">Integromat</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="integromat.php#how-to-add-uchat-to-your-integromat-account" class="sidebar-link">
@@ -541,7 +541,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/pabbly.php" class="sidebar-link">Pabbly</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/pabbly.php" class="sidebar-link">Pabbly</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="pabbly.php#how-to-add-uchat-to-your-pabbly-account"
@@ -549,7 +549,7 @@
                   </ul>
                         </li>
                         <li>
-                            <a href="mark/integrately.php" class="sidebar-link">Integrately</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/integrately.php" class="sidebar-link">Integrately</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="integrately.php#how-to-add-uchat-to-your-integrately-account" class="sidebar-link">
@@ -564,7 +564,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="mark/videosdk.php" class="sidebar-link">VideoSdk</a>
+                            <a href="https://brixbull.ai/docs/integration/mark/videosdk.php" class="sidebar-link">VideoSdk</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="videosdk.php#how-to-fetch-your-credentials" class="sidebar-link">
@@ -579,7 +579,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="intercom.php" class="sidebar-link">Intercom</a>
+                            <a href="https://brixbull.ai/docs/integration/intercom.php" class="sidebar-link">Intercom</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="intercom.php#key-benefits" class="sidebar-link">
@@ -604,7 +604,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="freshchat.php" class="sidebar-link">Freshchat</a>
+                            <a href="https://brixbull.ai/docs/integration/freshchat.php" class="sidebar-link">Freshchat</a>
                             <ul class="sidebar-sub-headers">
                                 <li class="sidebar-sub-header">
                                     <a href="freshchat.php#how-to-set-up-your-freshchat-integration" class="sidebar-link">
