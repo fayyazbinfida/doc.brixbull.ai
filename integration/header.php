@@ -317,31 +317,31 @@ session_start();
                   <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/signalwire.php" class="nav-link">
                       SignalWire
                     </a></li>
-                  <li class="dropdown-item"><a href="email.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/email.php" class="nav-link">
                       SMTP / Gmail / SendGrid
                     </a></li>
-                  <li class="dropdown-item"><a href="mailchimp.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mailchimp.php" class="nav-link">
                       MailChimp
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/zapier.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/zapier.php" class="nav-link">
                       Zapier
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/integromat.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/integromat.php" class="nav-link">
                       Integromat
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/pabbly.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/pabbly.php" class="nav-link">
                       Pabbly
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/integrately.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/integrately.php" class="nav-link">
                       Integrately
                     </a></li>
-                  <li class="dropdown-item"><a href="mark/videosdk.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/mark/videosdk.php" class="nav-link">
                       VideoSdk
                     </a></li>
-                  <li class="dropdown-item"><a href="intercom.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/intercom.php" class="nav-link">
                       Intercom
                     </a></li>
-                  <li class="dropdown-item"><a href="freshchat.php" class="nav-link">
+                  <li class="dropdown-item"><a href="https://brixbull.ai/docs/integration/freshchat.php" class="nav-link">
                       Freshchat
                     </a></li>
                 </ul>
